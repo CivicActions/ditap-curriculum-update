@@ -1,11 +1,11 @@
-# Case Study Facilitator Guide
-The DITAP program uses a threaded case scenario rather than multiple standalone cases so that participants work with a consistent set of characters, challenges, and organizational dynamics throughout the course. This continuity allows learners to go increasingly deep over time, building familiarity with the scenario while applying new frameworks in progressively complex ways. The recommended case, Navigating Stakeholder and Decision-Making Challenges (Cynuria), includes a set of milestones that are required for all vendors to deliver. These milestones ensure a common baseline of learning outcomes across cohorts. Additional case-based activities have been provided as supplementary options—vendors may adapt, expand, or supplement these activities to fit their delivery style and participant needs. If vendors wish to introduce an alternate case scenario, they may do so, but they are still expected to integrate the Cynuria milestones, either at the designated points in the pacing guide or later in the course.
+# Threaded Scenario Facilitator Guide
+The DITAP program uses a threaded scenario rather than multiple standalone case studies so that participants work with a consistent set of characters, challenges, and organizational dynamics throughout the course. This continuity allows learners to go increasingly deep over time, building familiarity with the scenario while applying new frameworks in progressively complex ways. The recommended scenario, Navigating Stakeholder and Decision-Making Challenges (Cynuria), includes a set of milestones that are required for all vendors to deliver. These milestones ensure a common baseline of learning outcomes across cohorts. Additional scenario-based activities have been provided as supplementary options—vendors may adapt, expand, or supplement these activities to fit their delivery style and participant needs. If vendors wish to introduce an alternate threaded scenario, they may do so, but they are still expected to integrate the Cynuria milestones, either at the designated points in the pacing guide or later in the course.
 
 ## Pacing Chart  
 
-| Module | Sprint | Activity Title | Case Study Milestone Alignment |
+| Module | Sprint | Activity Title | Threaded Scenario Milestone Alignment |
 | :---- | :---- | :---- | :---- |
-| **Module 1** | Sprint 1 | Introduction to Navigating Stakeholder and Decision-Making Challenges Case | Not a formal milestone, serves as Case Study narrative intro |
+| **Module 1** | Sprint 1 | Introduction to Navigating Stakeholder and Decision-Making Challenges Scenario | Not a formal milestone, serves as threaded scenario narrative intro |
 | **Module 2** | Sprint 1 | Stakeholder Mapping | Milestone 1 |
 | **Module 2** | Sprint 4 | Market Research Planning | Not a formal milestone, builds on Milestone 1 |
 | **Module 2** | Sprint 4 | FAR 10 Integration Assignment | Not a formal milestone. It’s an extension activity. |
@@ -14,15 +14,15 @@ The DITAP program uses a threaded case scenario rather than multiple standalone 
 | **Module 3** | Sprint 3 | Designing a Solicitation Strategy | Not a formal milestone, builds on Milestones 2 and 3 |
 | **Module 4** | Sprint 3 | Laying the Groundwork for Agile Delivery | Applies prior decisions from Milestones 2 and 3 |
 | **Module 4 or 5** |  | Laying Out a Recommendation | Milestones 4 and 5 |
-| **Module 5** | Sprint 3 | Leading Change and Navigating Resistance | Integrates entire case context |
+| **Module 5** | Sprint 3 | Leading Change and Navigating Resistance | Integrates entire scenario context |
 
 </br>
 
-[Navigating Stakeholder and Decision-Making Challenges\_DITAP Case Study](https://github.com/usds/ditap-curriculum-update/blob/949e678c03e8e77d0c46505ad6bb013bf17dff90/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Case%20Study%3A%20Threaded%20Case%20Scenario/Core%20Case%20Study%3A%20Navigating%20Stakeholder%20and%20Decision-Making%20Challenges.md)
+[Navigating Stakeholder and Decision-Making Challenges\_DITAP Threaded Scenario](https://github.com/usds/ditap-curriculum-update/blob/949e678c03e8e77d0c46505ad6bb013bf17dff90/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Case%20Study%3A%20Threaded%20Case%20Scenario/Core%20Case%20Study%3A%20Navigating%20Stakeholder%20and%20Decision-Making%20Challenges.md)
 
 </br>
 
-## M1S1 Case study facilitator guide 
+## M1S1 Threaded scenario facilitator guide 
 - **Session Title: Introducing Casey and the CRM Project**  
 - **Date:** \[Insert Date\]  
 - **Time:** \[Insert Start and End Time\]  
@@ -34,36 +34,36 @@ The DITAP program uses a threaded case scenario rather than multiple standalone 
 
 In this module, learners will explore what digital services are, how they are delivered, and why they matter. This session sets the foundation for the program by introducing the key concepts, players, and methods in modern federal digital acquisition. 
 
-The case study, [*Navigating Stakeholder and Decision-Making Challenges*](https://github.com/usds/ditap-curriculum-update/blob/949e678c03e8e77d0c46505ad6bb013bf17dff90/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Case%20Study%3A%20Threaded%20Case%20Scenario/Core%20Case%20Study%3A%20Navigating%20Stakeholder%20and%20Decision-Making%20Challenges.md), is introduced here as the threaded scenario for the program. By reviewing the full case early, learners gain a “journey map” of the key topics and challenges they will return to in future modules. This session will foreshadow Casey’s upcoming decisions and the cascading challenges they may face.
+The threaded scenario, [*Navigating Stakeholder and Decision-Making Challenges*](https://github.com/usds/ditap-curriculum-update/blob/949e678c03e8e77d0c46505ad6bb013bf17dff90/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Case%20Study%3A%20Threaded%20Case%20Scenario/Core%20Case%20Study%3A%20Navigating%20Stakeholder%20and%20Decision-Making%20Challenges.md), is introduced here as the threaded scenario for the program. By reviewing the full threaded scenario early, learners gain a “journey map” of the key topics and challenges they will return to in future modules. This session will foreshadow Casey’s upcoming decisions and the cascading challenges they may face.
 
 **Learning objectives:**
 
 * Identify the major players and sources of digital service delivery.  
 * Understand agile, cloud, and human-centered delivery methods.  
-* Connect course content to a real-world case study scenario.  
+* Connect course content to a real-world scenario.  
 * Analyze how federal acquisition processes can enable or constrain digital service delivery methods.  
 * Define digital services and describe their key characteristics.
 
-This is the first of several touchpoints with the Navigating Stakeholder and Decision-Making Challenges case, providing participants with a narrative thread that connects technical concepts with real challenges and decisions.
+This is the first of several touchpoints with the Navigating Stakeholder and Decision-Making Challenges threaded scenario, providing participants with a narrative thread that connects technical concepts with real challenges and decisions.
 
-| Note: This is an extension activity designed to orient learners to the Navigating Stakeholder and Decision-Making Challenges case. It is *not part of the original case study* but helps surface early hypotheses and connections between course concepts and Casey’s environment. |
+| Note: This is an extension activity designed to orient learners to the Navigating Stakeholder and Decision-Making Challenges scenario. It is *not part of the original scenario* but helps surface early hypotheses and connections between course concepts and Casey’s environment. |
 | :---- |
 
 
 ### II. Materials and preparation
 
 **Required materials:**
-* Nagivating Stakeholder and Decision-Making Challenges Case Study: Full Version (Pre-read before class)  
-  * Note: There’s a shorter, more narrative driven version provided as well  
+* Nagivating Stakeholder and Decision-Making Challenges Threaded Scenario: Full Version (Pre-read before class)  
+  * Note: There’s a shorter, more narrative-driven version provided as well  
 * Module 1 slide deck  
 * Shared digital board (Jamboard, MURAL, etc.) for brainstorming
 
 **Pre-read for participants:**
 
-* [*Navigating Stakeholder and Decision-Making Challenges*](https://github.com/usds/ditap-curriculum-update/blob/949e678c03e8e77d0c46505ad6bb013bf17dff90/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Case%20Study%3A%20Threaded%20Case%20Scenario/Core%20Case%20Study%3A%20Navigating%20Stakeholder%20and%20Decision-Making%20Challenges.md) Case Study
+* [*Navigating Stakeholder and Decision-Making Challenges*](https://github.com/usds/ditap-curriculum-update/blob/949e678c03e8e77d0c46505ad6bb013bf17dff90/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Case%20Study%3A%20Threaded%20Case%20Scenario/Core%20Case%20Study%3A%20Navigating%20Stakeholder%20and%20Decision-Making%20Challenges.md) Threaded Scenario
 
 **Pre-session facilitator preparation:**
-* Review the full case study focusing on: Cloud Smart policy context, FedRAMP requirements, and stakeholder dynamics  
+* Review the full threaded scenario focusing on: Cloud Smart policy context, FedRAMP requirements, and stakeholder dynamics  
 * Prepare to connect Casey's challenges to broader federal digital transformation efforts  
 * Have examples ready of similar real-world federal CRM implementations (GSA Salesforce, etc.)
 
@@ -81,10 +81,10 @@ This is the first of several touchpoints with the Navigating Stakeholder and Dec
 
 **Activity title:** Introducing Casey and the CRM Project  
 **Time:** 60-75 minutes  
-**Purpose:** To introduce the case and anticipate future challenges.
+**Purpose:** To introduce the scenario and anticipate future challenges.
 
 **Instructions:**
-- **Case context setting (10 minutes)**  
+- **scenario context setting (10 minutes)**  
    * Brief overview of federal cloud adoption landscape  
    * Cloud Smart policy background  
    * Federal vs. private sector acquisition differences  
@@ -93,7 +93,7 @@ This is the first of several touchpoints with the Navigating Stakeholder and Dec
    * Identify their success metrics and failure risks  
    * Connect to broader federal roles (CIO, CISO, Contracting Officer dynamics)  
 - **Digital service methods connection (15 minutes)**  
-   * Explicitly connect case challenges to agile, cloud, and human-centered design principles  
+   * Explicitly connect scenario challenges to agile, cloud, and human-centered design principles  
    * Discuss how federal acquisition can enable or hinder these methods  
 - **Predictions and pattern recognition (15 minutes)**  
    * Students predict decision points and likely outcomes  
@@ -101,7 +101,7 @@ This is the first of several touchpoints with the Navigating Stakeholder and Dec
    * Use student responses to connect to your experience if relevant and content that will be covered in the course.
 
 **Optional add-on exercises:**
-* Structured reflection questions that connect the case to the three key questions  
+* Structured reflection questions that connect the scenario to the three key questions  
 * Research assignment: Find one real federal agency CRM implementation and compare it to Casey's situation  
 * Stakeholder empathy exercise: Students choose one character (Casey, Alex, or Riley) and maintain that perspective throughout subsequent modules
 
@@ -114,12 +114,12 @@ This is the first of several touchpoints with the Navigating Stakeholder and Dec
 * [**Federal CRM Success**](https://fedtechmagazine.com/article/2009/12/why-gsa-implementing-crm-process) from GSA
 
 **Next steps:**
-* Read \[next section\] of the case study before Module 2, Sprint 2  
-* Take notes on the three guiding questions and on all case study conversations moving forward in preparation for Milestones 4 and 5
+* Read \[next section\] of the scenario before Module 2, Sprint 2  
+* Take notes on the three guiding questions and on all scenario conversations moving forward in preparation for Milestones 4 and 5
 
 _____________________________________
 
-## M2S1 Case study facilitator guide
+## M2S1 Scenario facilitator guide
 
 **Session title:** Mapping Casey’s Stakeholders
 
@@ -131,7 +131,7 @@ _____________________________________
 
 ### I. Overview and objectives
 
-In this session, learners apply stakeholder mapping techniques to **Milestone 1** of the Navigating Stakeholder and Decision-Making Challenges case study. The focus is on identifying key players, analyzing their influence and concerns, and understanding how those dynamics shape acquisition planning.
+In this session, learners apply stakeholder mapping techniques to **Milestone 1** of the Navigating Stakeholder and Decision-Making Challenges scenario. The focus is on identifying key players, analyzing their influence and concerns, and understanding how those dynamics shape acquisition planning.
 
 This activity builds foundational awareness of how stakeholder relationships, organizational readiness, and early planning inform strategic decisions throughout the digital acquisition process.
 
@@ -146,14 +146,14 @@ This activity builds foundational awareness of how stakeholder relationships, or
 ### II. Materials and preparation
 
 **Materials:**
-* Navigating Stakeholder and Decision-Making Challenges Case Study: Milestone 1 (Stakeholder Analysis)  
+* Navigating Stakeholder and Decision-Making Challenges Threaded Scenario: Milestone 1 (Stakeholder Analysis)  
 * Slides on stakeholder research  
 * Optional resources:  
   * Stakeholder Mapping Templates or Worksheets  
   * Market Research Planning Template
 
 **Pre-read for participants:**
-* Read Nagivating Stakeholder and Decision-Making Challenges Case Study   
+* Read Nagivating Stakeholder and Decision-Making Challenges Scenario   
 * Specifically prepare for Milestone 1: Stakeholder Analysis
 
 ### III. Session agenda and activities
@@ -169,8 +169,8 @@ This activity builds foundational awareness of how stakeholder relationships, or
     - Explanation of unique federal constraints (FAR compliance, political oversight, career vs. political appointee dynamics)         Context on why federal stakeholder management differs from the private sector  
 - **Warm-up prompt:** Imagine you're in Casey’s position at the start of the CRM project. How confident do you feel—on a scale from 0 to 5—in your ability to conduct a stakeholder analysis that identifies key players, maps influence and concerns, and informs next steps?”
     - Compare answers on lower end of spectrum and higher end of spectrum, sharing learnings and surfacing points you may want to hit on during the following activity and discussion  
-- **Stakeholder mapping in groups**: In small groups, have learners map out the key stakeholders in the case, using **Milestone 1\.**     - Consider providing a template for this or encourage participants to recreate the example embedded in the case study.  
-- **Group share outs:** As each group shares their map, ask them to discuss influence, concerns, alignment, and barriers among stakeholders. Encourage learners to cite specific evidence from the case to support their analysis.  
+- **Stakeholder mapping in groups**: In small groups, have learners map out the key stakeholders in the scenario, using **Milestone 1\.**     - Consider providing a template for this or encourage participants to recreate the example embedded in the scenario.  
+- **Group share outs:** As each group shares their map, ask them to discuss influence, concerns, alignment, and barriers among stakeholders. Encourage learners to cite specific evidence from the scenario to support their analysis.  
     - Who holds formal decision-making power? Who has informal influence? Who can block or accelerate the project?
     - What are each stakeholder’s primary worries or hesitations about the CRM procurement? Are they technical, political, legal, cultural?
     - Which stakeholders are aligned with Casey’s goals? Where is there shared vision or mutual interest?
@@ -204,7 +204,7 @@ This activity builds foundational awareness of how stakeholder relationships, or
 
 ______________________________________________
 
-## M2S4 Case study facilitator guide
+## M2S4 Threaded scenario facilitator guide
 
 **Module 2 Sprint 4**
 
@@ -218,7 +218,7 @@ ______________________________________________
 
 ### I. Overview and objectives
 
-In this session, learners apply market research planning techniques to Casey’s CRM project from the Navigating Stakeholder and Decision-Making Challenges case study. Building on their stakeholder analysis, they identify knowledge gaps and begin shaping a high-level plan to better understand user needs, constraints, and potential vendors.
+In this session, learners apply market research planning techniques to Casey’s CRM project from the Navigating Stakeholder and Decision-Making Challenges scenario. Building on their stakeholder analysis, they identify knowledge gaps and begin shaping a high-level plan to better understand user needs, constraints, and potential vendors.
 
 **Learning objectives**:
 * Draft research questions based on known needs and uncertainties  
@@ -226,20 +226,20 @@ In this session, learners apply market research planning techniques to Casey’s
 * Understand how stakeholder insights shape early research priorities  
 * Connect research activities to downstream procurement decisions
 
-| Note: This is an extension activity designed to deepen application of the Navigating Stakeholder and Decision-Making Challenges case. It is *not part of the original case study* but builds on Milestone 1 to help learners connect stakeholder insights to early market research planning and discovery strategy. |
+| Note: This is an extension activity designed to deepen application of the Navigating Stakeholder and Decision-Making Challenges scenario. It is *not part of the original scenario* but builds on Milestone 1 to help learners connect stakeholder insights to early market research planning and discovery strategy. |
 | :---- |
 
 ### II. Materials and preparation
 
 **Materials:**
-* Navigating Stakeholder and Decision-Making Challenges Case Study: Milestone 1 (Stakeholder Analysis)  
-* Casey’s Stakeholder Maps (from previous Case Study class)  
+* Navigating Stakeholder and Decision-Making Challenges Threaded Scenario: Milestone 1 (Stakeholder Analysis)  
+* Casey’s Stakeholder Maps (from previous scenario class)  
 * Module 2 Slide Deck  
 * Market Research Planning Template / FAR Industry Engagement Guidelines from the new FAR 10  
 * Optional: Prepare/Source a short example of a research plan to model format
 
 **Pre-Read for participants:**
-* Read Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 1: Stakeholder Analysis
+* Read Nagivating Stakeholder and Decision-Making Challenges Threaded Scenario Milestone 1: Stakeholder Analysis
 
 ### III. Session Agenda and activities
 
@@ -267,7 +267,7 @@ In this session, learners apply market research planning techniques to Casey’s
 
 * Stakeholder Map Template (Power/Interest Grid)  
 * Sample Market Research Plan Framework  
-* Navigating Stakeholder and Decision-Making Challenges Case Study – Narrative and Milestone Versions
+* Navigating Stakeholder and Decision-Making Challenges Threaded Scenario – Narrative and Milestone Versions
 
 ### FAR 10 integration assignments  
 
@@ -383,7 +383,7 @@ Context bridge to your work
 **Part C: Session bridge preparation** (10-15 minutes)
 
 Milestone 2 connection: Technical integration analysis
-- **Pre-reading assignment**: Read Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 2 \- Integration Solutions
+- **Pre-reading assignment**: Read Nagivating Stakeholder and Decision-Making Challenges Threaded Scenario Milestone 2 \- Integration Solutions
 - **Reading focus with new FAR context**: As you read Milestone 2, consider how Casey's strategically designed market research (using new FAR flexibility) would inform their technical evaluation:
 
 **Key questions for reading:**
@@ -435,11 +435,11 @@ Your portfolio Stakeholder Analysis Project must now demonstrate understanding o
 * **Week 6**: Mid-term Portfolio Review (including new FAR framework application assessment)  
 * **Week 10**: Final Portfolio Presentation (demonstrating integrated stakeholder management and strategic market research competency)
 
-Case study analysis project integration
+Threaded scenario analysis project integration
 
 **Strategic market research foundation for final analysis**
 
-Your comprehensive Casey case study analysis will demonstrate mastery of the new FAR Part 10 strategic framework through:
+Your comprehensive Casey scenario analysis will demonstrate mastery of the new FAR Part 10 strategic framework through:
 
 **Milestone integration with new FAR context:**
 * **Strategic research design**: How Casey's flexible market research approach enables better technical integration evaluation (Milestone 2\)  
@@ -494,7 +494,7 @@ Based on assignment review, Session 2 will include:
 
 _________________________________
 
-## M3S1 Case study facilitator guide
+## M3S1 Threaded scenario facilitator guide
   
 **Module 3 Sprint 1**
 
@@ -507,7 +507,7 @@ _________________________________
 
 ### I. Overview and objectives
 
-In this session, learners use SWOT analysis to evaluate CRM integration options in the Navigating Stakeholder and Decision-Making Challenges case study **in Milestone 2**. The goal is to help learners think critically about trade-offs, make an informed recommendation, and sketch out a high-level integration and monitoring plan.
+In this session, learners use SWOT analysis to evaluate CRM integration options in the Navigating Stakeholder and Decision-Making Challenges threaded scenario study **in Milestone 2**. The goal is to help learners think critically about trade-offs, make an informed recommendation, and sketch out a high-level integration and monitoring plan.
 
 **Learning objectives:**
 * Use SWOT analysis to evaluate CRM solution paths  
@@ -517,22 +517,22 @@ In this session, learners use SWOT analysis to evaluate CRM integration options 
 ### II. Materials and preparation
 
 **Materials:**
-* Navigating Stakeholder and Decision-Making Challenges Case Study Milestone 2  
+* Navigating Stakeholder and Decision-Making Challenges Threaded Scenario Milestone 2  
 * SWOT Analysis Template
 
 **Pre-Read for participants:**
-* Read Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 2
+* Read Nagivating Stakeholder and Decision-Making Challenges Threaded Scenario Milestone 2
 
 ### III. Session Agenda and activities
 
 **Activity:** SWOT Analysis of Solution Paths  
 **Time:** 60-75 minutes  
-**Purpose:** Evaluate CRM options using structured analysis and case data
+**Purpose:** Evaluate CRM options using structured analysis and scenario data
 
 **Instructions:**
 - **Frame the rask (\<5 min)**  
-    - Read aloud the Milestone goal from the case:
-        - To complete this milestone, systematically evaluate numerous factors to make a decision that ensures alignment with your organization’s strategic goals and operational requirements. For example, you will assess the current state and needs, evaluate custom APIs, create a life cycle cost estimate and also analyze the Strengths, Weaknesses, Opportunities, and Threats (SWOT) of each option provided in the case below. Then make a decision and plan for integrating and monitoring the chosen solution and its performance.
+    - Read aloud the Milestone goal from the scenario:
+        - To complete this milestone, systematically evaluate numerous factors to make a decision that ensures alignment with your organization’s strategic goals and operational requirements. For example, you will assess the current state and needs, evaluate custom APIs, create a life cycle cost estimate and also analyze the Strengths, Weaknesses, Opportunities, and Threats (SWOT) of each option provided in the scenario below. Then make a decision and plan for integrating and monitoring the chosen solution and its performance.
         - That’s a lot to tackle—let’s break it down step by step.  
 - **Recap and warm-up discussion (\<5 min)**  
     - Before we jump into evaluating CRM options, let’s bring forward what we’ve learned so far. Ask the group:  
@@ -587,7 +587,7 @@ Ensure students are familiar with Milestones 3–5. Encourage them to capture re
 
 ____________________________________________
 
-## M3S2 Case study facilitator guide
+## M3S2 Threaded scenario facilitator guide
 
 **Module 3 Sprint 2**
 
@@ -600,7 +600,7 @@ ____________________________________________
 
 ### I. Overview and objectives
 
-In this session, learners will analyze two data security options presented in **Milestone 3** of the Navigating Stakeholder and Decision-Making Challenges case study. Using SWOT analysis and high-level life cycle cost estimation, they will evaluate trade-offs and recommend a solution aligned with performance, risk, and agency needs. This session builds on earlier strategy decisions and strengthens learners' comfort evaluating technical constraints and affordability.
+In this session, learners will analyze two data security options presented in **Milestone 3** of the Navigating Stakeholder and Decision-Making Challenges threaded scenario. Using SWOT analysis and high-level life cycle cost estimation, they will evaluate trade-offs and recommend a solution aligned with performance, risk, and agency needs. This session builds on earlier strategy decisions and strengthens learners' comfort evaluating technical constraints and affordability.
 
 
 **Learning objectives:**
@@ -611,12 +611,12 @@ In this session, learners will analyze two data security options presented in **
 ### II. Materials and preparation
 
 **Materials:**
-* Navigating Stakeholder and Decision-Making Challenges Case Study Milestone 3  
+* Navigating Stakeholder and Decision-Making Challenges Threaded Scenario Milestone 3  
 * SWOT Analysis Template  
-* GAO 12-Step Life Cycle Cost Estimate (LCCE) Visual (linked in case)
+* GAO 12-Step Life Cycle Cost Estimate (LCCE) Visual (linked in scenario)
 
 **Pre-Read for participants:**
-* Read Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 3
+* Read Nagivating Stakeholder and Decision-Making Challenges Threaded Scenario Milestone 3
 
 ### III. Session Agenda and activities
 
@@ -626,14 +626,14 @@ In this session, learners will analyze two data security options presented in **
 
 **Instructions:**
 - **Frame the task**
-    - Read or summarize the Milestone goal from the case:
+    - Read or summarize the Milestone goal from the scenario:
         - To complete this milestone, develop a life cycle cost estimate and conduct a SWOT analysis of each option provided to address the data security challenge. The goal is to determine the most effective solution that aligns with the agency's needs without compromising system performance.  
 - **Warm-up prompt**  
     - Ask: *What do you already know about cost estimating in federal IT projects?*  
     - *What makes data security especially tricky in digital acquisitions?*
 - **Small group work**  
     - In breakout groups, have learners:  
-        * Complete a **SWOT analysis** of each option in the case  
+        * Complete a **SWOT analysis** of each option in the scenario  
         * Discuss key **considerations from each SWOT quadrant** (e.g., technical, user, compliance)  
         * Use the **GAO 12-step LCCE framework** as a guide to identify cost factors—no dollar estimates needed  
         * Consider cost **drivers, assumptions, and risks** for each solution
@@ -661,7 +661,7 @@ In this session, learners will analyze two data security options presented in **
 
 ______________________________________________
 
-## M3S3 Case study facilitator guide
+## M3S3 Threaded scenario facilitator guide
 
 **Module 3 Sprint 3**  
 
@@ -674,21 +674,21 @@ ______________________________________________
 
 ### I. Overview and objectives
 
-In this session, learners apply insights from solution evaluation to define acquisition strategies and draft components of a user-centered solicitation. This session is grounded in Milestone 3 of the Navigating Stakeholder and Decision-Making Challenges case study, which asks learners to write a Statement of Objectives (SOO), define evaluation criteria, and choose a corresponding evaluation method.
+In this session, learners apply insights from solution evaluation to define acquisition strategies and draft components of a user-centered solicitation. This session is grounded in Milestone 3 of the Navigating Stakeholder and Decision-Making Challenges threaded scenario, which asks learners to write a Statement of Objectives (SOO), define evaluation criteria, and choose a corresponding evaluation method.
 
 **Learning objectives:**
 * Draft a clear Statement of Objectives (SOO) based on discovery and solution analysis  
 * Define evaluation factors that reflect key performance needs and constraints  
 * Identify an evaluation method aligned to solution complexity and risks
 
-| Note: This is an extension activity designed to deepen application of the Navigating Stakeholder and Decision-Making Challenges case study. It is *not part of the original case study* but builds on previous milestones to help learners connect evaluation decisions to solicitation design. |
+| Note: This is an extension activity designed to deepen application of the Navigating Stakeholder and Decision-Making Challenges threaded scenario. It is *not part of the original threaded scenario* but builds on previous milestones to help learners connect evaluation decisions to solicitation design. |
 | :---- |
 
 ### II. Materials and preparation
 
 
 **Materials:**
-* Navigating Stakeholder and Decision-Making Challenges Case Study – Milestone 3 (Evaluation and Solicitation Strategy)  
+* Navigating Stakeholder and Decision-Making Challenges Threaded Scenario – Milestone 3 (Evaluation and Solicitation Strategy)  
 * Optional  
 * FAR 12 Commercial Item, Far 39 IT Acquisition  
 * FAR 8 & 16 for task orders  
@@ -706,7 +706,7 @@ In this session, learners apply insights from solution evaluation to define acqu
 
 **Instructions:**
 
-- **Begin with a short recap**: What were the key trade-offs from the previous case study session? How do those inform your solicitation strategy?  
+- **Begin with a short recap**: What were the key trade-offs from the previous threaded scenario session? How do those inform your solicitation strategy?  
 - **Prompt**: “If your team has decided on a solution path, how do you ensure the solicitation invites the right responses from vendors?”  
 - **Introduce the deliverable**:  
    * A short Statement of Objectives (SOO)  
@@ -715,7 +715,7 @@ In this session, learners apply insights from solution evaluation to define acqu
    * Draft the SOO based on your chosen CRM strategy.  
    * Define 2–3 evaluation factors and describe what a strong response would look like.  
    * Choose and justify an evaluation method (e.g., LPTA, trade-off).  
-        - Encourage teams to root decisions in user needs, solution fit, and past case milestones.  
+        - Encourage teams to root decisions in user needs, solution fit, and past scenario milestones.  
 - **Quick share-out**:  
    * Each team presents their SOO and evaluation logic.  
    * Facilitator offers warm feedback or points of tension.
@@ -739,7 +739,7 @@ In this session, learners apply insights from solution evaluation to define acqu
 
 ________________________________________________
 
-## M4S3 Case study facilitator guide  
+## M4S3 Threaded scenario facilitator guide  
 
 **Module 4 Sprint 3**
 
@@ -752,7 +752,7 @@ ________________________________________________
 
 ### I. Overview and objectives
 
-In this session, learners explore how to manage digital service delivery after contract award using agile approaches and performance metrics. This session builds on the solicitation strategies developed in Module 3 and extends the application of the Navigating Stakeholder and Decision-Making Challenges case study by shifting the focus to delivery and oversight. It reinforces the importance of continuous involvement and shared accountability—key themes throughout the DITAP course.
+In this session, learners explore how to manage digital service delivery after contract award using agile approaches and performance metrics. This session builds on the solicitation strategies developed in Module 3 and extends the application of the Navigating Stakeholder and Decision-Making Challenges threaded scenario by shifting the focus to delivery and oversight. It reinforces the importance of continuous involvement and shared accountability—key themes throughout the DITAP course.
 
 **Learning objectives:**
 * Define early performance metrics and indicators of agile delivery health  
@@ -760,13 +760,13 @@ In this session, learners explore how to manage digital service delivery after c
 * Explore CO/COR/PO alignment and agile contracting governance  
 * Apply course concepts to practical delivery and kickoff scenarios
 
-| Note: This is an extension activity designed to deepen application of the Navigating Stakeholder and Decision-Making Challenges case. It is *not part of the original case study* but builds on Milestone 1 to help learners connect stakeholder insights to early market research planning and discovery strategy. |
+| Note: This is an extension activity designed to deepen application of the Navigating Stakeholder and Decision-Making Challenges threaded scenario. It is *not part of the original threaded scenario* but builds on Milestone 1 to help learners connect stakeholder insights to early market research planning and discovery strategy. |
 | :---- |
 
 ### II. Materials and preparation
 
 **Required Pre-Read for Participants:**
-* Navigating Stakeholder and Decision-Making Challenges Case Study (Final section focused on Casey’s post-award challenges)  
+* Navigating Stakeholder and Decision-Making Challenges Threaded Scenario (Final section focused on Casey’s post-award challenges)  
 * Digital Service Delivery Project Charter \+ Contract Kickoff resources
 
 **Facilitator notes for students**
@@ -815,14 +815,14 @@ In this session, learners explore how to manage digital service delivery after c
 
 ### IV. Next steps:
 
-* Ensure learners understand Milestones 4 & 5 in the case study.  
+* Ensure learners understand Milestones 4 & 5 in the scenario.  
 * Encourage note-taking that supports the final analysis and presentation in Module 6\.  
 * Suggest learners begin collecting 1–2 takeaways from each module to integrate into their capstone.  
 * [**CIO.gov Agile Government**](https://www.cio.gov/2016/11/07/ssa-modernization-6.html) \- Federal IT modernization and agile delivery guidance
 
 _________________________________________________________
 
-## M5S3 Case study facilitator guide
+## M5S3 Threaded scenario facilitator guide
   
 **Module 5** 
 
@@ -848,11 +848,11 @@ In this session, learners will explore how to apply adaptive leadership and infl
 **Required materials**
 
 **Materials**
-* Navigating Stakeholder and Decision-Making Challenges Case Study  
+* Navigating Stakeholder and Decision-Making Challenges Threaded Scenario  
 * "Exploring Your Role in Leading Change" PDF
 
 **Pre-read for participants:**
-* Nagivating Stakeholder and Decision-Making Challenges Case Study  
+* Nagivating Stakeholder and Decision-Making Challenges Threaded Scenario 
 * "Exploring Your Role in Leading Change" PDF
 
 ### III. Session agenda and activities 
@@ -910,7 +910,7 @@ In this session, learners will explore how to apply adaptive leadership and infl
 
 ____________________________________________________
 
-## M6 Case study facilitator guide  
+## M6 Threaded scenario facilitator guide  
 
 **Module 6 (*after Module 4 or during Module 5\)***
 
@@ -923,26 +923,26 @@ ____________________________________________________
 
 ### I. Overview and objectives
 
-Learners will synthesize their insights from the full case study and the course. They will produce a written recommendation and deliver a team presentation outlining their approach to implementing a successful CRM system.
+Learners will synthesize their insights from the full threaded scenario and the course. They will produce a written recommendation and deliver a team presentation outlining their approach to implementing a successful CRM system.
 
-This culmination invites learners to apply the full arc of the DITAP curriculum—from discovery through delivery—to a case study scenario. The milestone outputs require integration of technical strategy, stakeholder management, agile governance, and change leadership.
+This culmination invites learners to apply the full arc of the DITAP curriculum—from discovery through delivery—to a threaded scenario. The milestone outputs require integration of technical strategy, stakeholder management, agile governance, and change leadership.
 
 **Learning objectives:**
 * Integrate insights from discovery, evaluation, and planning phases to support digital service implementation  
 * Synthesize tradeoffs and decisions into a coherent recommendation  
 * Communicate a strategic approach that demonstrates stakeholder empathy, technical understanding, and adaptive leadership  
-* Reflect on leadership growth through the case study experience
+* Reflect on leadership growth through the scenario experience
 
 ### II. Materials and preparation
 
 **Materials:**
-* Navigating Stakeholder and Decision-Making Challenges Case Study Milestones 1–5  
+* Navigating Stakeholder and Decision-Making Challenges Threaded Scenario Milestones 1–5  
 * Milestone 4 and 5 Instructions (Written and Presentation Guidance)  
 * Optional: Slide deck template
 
 **Preparation checklist:**
 * Ensure each group has access to their Milestone 1–3 notes  
-* Prepare rubric for feedback or peer review (recommendation is to use standard class participation rubric but you may also use the rubric in the case study)  
+* Prepare rubric for feedback or peer review (recommendation is to use standard class participation rubric but you may also use the rubric in the scenario)  
 * Create timing guidelines for group presentations (e.g., 6–8 min)  
 * Create guidelines for feedback & Q\&A round robin (e.g. Team 1 for Team 2, Team 2 for Team 3… Team 8 for Team 1\)
 
@@ -954,7 +954,7 @@ This culmination invites learners to apply the full arc of the DITAP curriculum�
 
 **Activity title:** Laying Out a Recommendation  
 **Time:** 1-2 classes  
- **Purpose:** To synthesize learning and present final case study recommendations.
+ **Purpose:** To synthesize learning and present final scenario recommendations.
 * **Team working time** *(Optional as in class activity)*  
   - Provide time for teams to finalize their written analysis and 6–8 slide presentation decks.  
 * **Team presentations**  
@@ -984,7 +984,7 @@ This culmination invites learners to apply the full arc of the DITAP curriculum�
   - “What would you revisit if you had more time?”  
   - “Which tradeoff was most difficult to justify?”  
 * **Reflection and debrief (at least 30 min)**  
-  - Revisit the **original purpose:** *“The purpose of this case study is to consider creative solutions to a realistic scenario… as there is often no single way to solve a problem.”*  
+  - Revisit the **original purpose:** *“The purpose of this threaded scenario is to consider creative solutions to a realistic scenario… as there is often no single way to solve a problem.”*  
         - How did your final recommendation reflect the complexity of the challenge?  
         - Where did you make tradeoffs?  
 * **Learning objectives:**  
@@ -1004,4 +1004,4 @@ This culmination invites learners to apply the full arc of the DITAP curriculum�
 * Celebrate completion—this is a culminating moment in the course  
 * Prompt teams to explicitly address FAR compliance in their recommendations  
 * Guide discussion toward realistic federal implementation timelines and constraints  
-* Help learners connect case study decisions to real federal acquisition scenarios they'll face
+* Help learners connect scenario decisions to real federal acquisition scenarios they'll face
