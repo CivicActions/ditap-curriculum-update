@@ -47,7 +47,7 @@ The Stakeholder Landscape Map you’ll explore in this activity offers a big-pic
 
 It’s not a checklist, it’s a prompt to think strategically about:
 
-* Who can influence or impact your succes  
+* Who can influence or impact your success  
 * What role(s) they play  
 * When and how to bring them in
 
