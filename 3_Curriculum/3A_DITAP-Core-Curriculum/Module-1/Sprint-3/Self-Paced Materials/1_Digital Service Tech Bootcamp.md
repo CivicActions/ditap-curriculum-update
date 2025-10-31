@@ -69,7 +69,7 @@ There are three main types:
 |-----------|-------------|
 | **Structured Data** | Organized in a way that computers can easily process, regardless of whether a human can easily read it, like Excel sheets or databases. |
 | **Unstructured Data** | Organized in a way that humans can easily process, but not organized for computers to process the information, like PDF documents or social media comments. |
-| **Semi-Structured Data** | Somewhere in between, like webpages, which are human readable and are tagged so that computers can easily process them, with varying levels of granularity or structure. |
+| **Semi-Structured Data** | Somewhere in between, like webpages, which are human-readable and are tagged so that computers can easily process them, with varying levels of granularity or structure. |
 
 
 Think of a contracting file that includes emails, PDFs, performance reviews, and a payment history, that’s a mix of structured and unstructured data.
@@ -86,13 +86,13 @@ As data grows in size and complexity, there are more challenges related to data 
 
 >Learn more about data analysis by visiting [15 Data Analysis Tools and When to Use Them](https://www.coursera.org/articles/data-analysis-tools). 
 
-These are some of the key challenges that are driving agency modernization efforts today, and are likely to come across your desk as an acquisition professional. 
+These are some of the key challenges that are driving agency modernization efforts today and are likely to come across your desk as an acquisition professional. 
 
 * Modern systems need to move data across clouds, networks, and apps. That creates bottlenecks unless you’ve planned for it.
 * Old databases weren’t built for the amount of data we use today. That’s like trying to run modern apps on a flip phone— the hardware would struggle to work correctly.
 * You may want to change data or delete it over time, but there may be practical or legal reasons not to. (E.g., System for Award Management (SAM.gov) “Federal Procurement Reports” from 2007… useful? Not really. But should it be *deleted?* Probably not.) 
 
-As a contracting officer, you will likely encounter a variety of “buzz words”/topics related to data in your work, here are a few that are particularly relevant today: 
+As a contracting officer, you will likely encounter a variety of “buzz words”/topics related to data in your work. Here are a few that are particularly relevant today: 
 
 * **Data modernization**: The process of updating and transforming data systems, infrastructure and practices to modern, cloud-based formats to enhance accessibility, security and business intelligence.   
 * **Data migration**: The process of transferring data from one storage system or computing environment to another.  
@@ -137,7 +137,7 @@ Data privacy means protecting personal or sensitive information so that only peo
 
 Software refers to the instructions, data, or programs that enable computers and digital systems to perform specific tasks. Informally, software tells computer hardware how to do something useful with data. It includes human-readable instructions, known as source code, and machine-readable instructions compiled for the computer to execute.
 
->Note for contracting officers: It may be necessary to clarify whether the government can access the source code or compiled software. Access to source code may be required under FAR clauses like 52.227-14 (Rights in Data), or via specific IP clauses negotiated in contracts—especially for custom software. Agencies can specify unlimited, government purpose, or restricted rights in deliverables, depending on mission needs.
+>Note for contracting officers: It may be necessary to clarify whether the government can access the source code or compiled software. Access to source code may be required under FAR clauses like 52.227-14 (Rights in Data), or via specific IP clauses negotiated in contracts—especially for custom software. Agencies can specify unlimited, government-purpose, or restricted rights in deliverables, depending on mission needs.
 
 ### How is software developed?
 
@@ -187,11 +187,11 @@ If something goes wrong, teams rely on incident response plans. These plans incl
 
 ### Considerations around supply chain and licensing
 
-When buying or managing software, it's essential to understand what’s behind the hood. Most modern software isn’t built from scratch, it’s assembled from many parts, including third-party libraries, open-source tools, proprietary code, and deployment tools. This collection of components is often referred to as the **software supply chain.**
+When buying or managing software, it's essential to understand what’s behind the hood. Most modern software isn’t built from scratch; it’s assembled from many parts, including third-party libraries, open-source tools, proprietary code, and deployment tools. This collection of components is often referred to as the **software supply chain.**
 
 If agencies or vendors don’t track these components correctly, it can lead to hidden vulnerabilities, licensing conflicts, or even security breaches. For example, the **SolarWinds cyberattack**, a significant event that affected several federal agencies, exploited weaknesses in the software build process. This incident showed how risky it can be when dependencies and tools aren't properly managed or monitored.
 
-One way to manage this risk is through a **Software Bill of Materials (SBOM)**. An SBOM is like a parts list for software, it shows all the libraries, packages, and tools that make up a system. Many federal agencies now require vendor SBOMs because they help track vulnerabilities and support a faster response when issues arise. This requirement is reinforced by OMB M-22-18 and NIST SSDF guidance.
+One way to manage this risk is through a **Software Bill of Materials (SBOM)**. An SBOM is like a parts list for software; it shows all the libraries, packages, and tools that make up a system. Many federal agencies now require vendor SBOMs because they help track vulnerabilities and support a faster response when issues arise. This requirement is reinforced by OMB M-22-18 and NIST SSDF guidance.
 
 Contracting officers and acquisition professionals should also ask vendors about **risk management practices.** Are they scanning for vulnerabilities? Do they patch or replace risky components? Do they follow secure development practices? These questions are essential to ensure that the software delivered is safe and dependable.
 
@@ -207,7 +207,7 @@ By considering these factors, 1102s can make better-informed decisions that redu
 
 ### Service design and delivery standards (21st Century IDEA & USDS Playbook)
 
-Modern software isn’t just about code, it’s about delivering effective services that meet user needs, comply with the law, and adapt over time. The 21st Century Integrated Digital Experience Act (IDEA) and the U.S. Digital Services Playbook set specific expectations for how software supporting government services should be designed and delivered.
+Modern software isn’t just about code; it’s about delivering effective services that meet user needs, comply with the law, and adapt over time. The 21st Century Integrated Digital Experience Act (IDEA) and the U.S. Digital Services Playbook set specific expectations for how software supporting government services should be designed and delivered.
 
 Contracting officers should understand these frameworks to write solicitations that support human-centered, standards-compliant digital service delivery. Section 280 of the FY2023 NDAA also promotes modular contracting and HCD in acquisition planning, making it easier for agencies to build flexible, responsive digital tools.
 
@@ -217,7 +217,7 @@ HCD places special emphasis on **accessibility, usability, and continuous feedba
 
 Contracting officers can help by shaping procurements to support these practices. Instead of static, one-time requirements, solicitations should encourage **iterative research and design.** This might mean asking vendors to include user researchers and designers on their teams or to plan for multiple testing and feedback cycles as part of their delivery.
 
-**Modular development** and **API-driven architecture** are other key strategies for building flexible, user-friendly systems. Modular development breaks large systems into smaller, usable parts that can be delivered and improved over time, rather than waiting years for a final product. Meanwhile, **APIs** (Application Programming Interfaces) allow different systems to talk to each other. This makes integrating commercial tools, in-house software, and legacy systems easier, while avoiding vendor lock-in. These strategies align with modern cloud and DevSecOps practices, and support faster, more secure delivery.
+**Modular development** and **API-driven architecture** are other key strategies for building flexible, user-friendly systems. Modular development breaks large systems into smaller, usable parts that can be delivered and improved over time, rather than waiting years for a final product. Meanwhile, **APIs** (Application Programming Interfaces) allow different systems to talk to each other. This makes integrating commercial tools, in-house software, and legacy systems easier, while avoiding vendor lock-in. These strategies align with modern cloud and DevSecOps practices and support faster, more secure delivery.
 
 Strong **performance and usability standards** are also essential. Systems should respond quickly, handle expected workloads, and navigate easily. Agencies may track things like the number of transactions a system handles each day or how long it takes for a page to load (e.g., 95% of responses under 500 milliseconds).
 
@@ -274,14 +274,14 @@ Security concerns often deter cloud adoption, but cloud platforms are generally 
 
 Not all cloud vendors are the same, each has strengths and weaknesses. Agencies can use one as a primary provider and others as backups, as long as systems are built for flexibility and resilience. Vendor lock-in is less of a risk in the cloud than in traditional IT, and thoughtful architecture can simplify migration between platforms.
 
-Using Federal Risk and Authorization Management Program (FedRAMP), authorized services can streamline security approvals and ensure compliance with federal standards. Lastly, agencies must ensure that cloud solutions follow vendor-recommended best practices for architecture, deployment, and emerging technologies like AI/ML. Poor implementations by contractors using outdated approaches often result in high costs and technical debt. Getting it right from the start helps ensure secure, efficient, and scalable cloud operations.
+Using the Federal Risk and Authorization Management Program (FedRAMP), authorized services can streamline security approvals and ensure compliance with federal standards. Lastly, agencies must ensure that cloud solutions follow vendor-recommended best practices for architecture, deployment, and emerging technologies like AI/ML. Poor implementations by contractors using outdated approaches often result in high costs and technical debt. Getting it right from the start helps ensure secure, efficient, and scalable cloud operations.
 
 **Why understanding cloud computing is critical for government contracting officers**
 
 | Topic | Key Points |
 |-------|------------|
 | **1. Cloud procurement is fundamentally different** | - Cloud services are dynamic; agencies buy elastic, scalable services, not fixed assets.<br>- Service catalogs change frequently; contracts should allow access to new services without renegotiation.<br>- Payment models use pay-as-you-go rather than upfront capital expenditures.<br>- Oversight requires adapting to a shared responsibility model between agency and vendor.<br>- Ignoring this can lead to wasteful spending, unfulfilled mission needs, higher security risks, and vendor performance issues. |
-| **2. Risk management, security responsibilities and governance shift** | - Some responsibilities remain with the agency; others are handled by the cloud provider.<br>- Governance should include agency leaders in cloud services, software engineering, cybersecurity, program management, finance, and CORs.<br>- Best practices: understand cost/utilization, review trend reports monthly, ensure compliance with vendor recommended best practices.<br>- Contracting officers must account for responsibility division, select FedRAMP-authorized services, and include cloud-specific security clauses (IAM, vulnerability management, incident response).<br>- Ignoring these shifts can create security and compliance gaps. |
+| **2. Risk management, security responsibilities and governance shift** | - Some responsibilities remain with the agency; others are handled by the cloud provider.<br>- Governance should include agency leaders in cloud services, software engineering, cybersecurity, program management, finance, and CORs.<br>- Best practices: understand cost/utilization, review trend reports monthly, ensure compliance with vendor-recommended best practices.<br>- Contracting officers must account for responsibility division, select FedRAMP-authorized services, and include cloud-specific security clauses (IAM, vulnerability management, incident response).<br>- Ignoring these shifts can create security and compliance gaps. |
 | **3. Cost control in the cloud is about skills, not just pricing** | - Cloud costs fluctuate with usage; providers may reduce prices over time.<br>- Poor management leads to unexpected overruns.<br>- Agencies should have access to training and professional services.<br>- Contract pricing should allow dynamic pricing adjustments and protect against rate increases.<br>- Performance metrics should include effective cloud resource management.<br>- Neglecting cost management can create unsustainable contracts difficult to justify to auditors. |
 | **4. Vendor selection and cloud architecture need strategic thinking** | - Not all providers are the same; some specialize in AI/ML, IoT, or scalability.<br>- Choose the right provider or mix to ensure mission success.<br>- Architect for flexibility to reduce lock-in and facilitate future migrations.<br>- Encourage broad and flexible access in contracts.<br>- Common pitfalls: IaaS-only contracts, missing professional services or integrated marketplaces, restricted access leading to shadow IT, splitting spend across divisions reducing volume discounts.<br>- Include pre-solicitation architecture planning and multi/hybrid-cloud strategies. |
 | **5. Training is not optional** | - Cloud vendors provide robust training.<br>- Agencies may skip training without proper contracting, leading to mismanagement, inefficiencies, security incidents, or mission failure.<br>- Contracts should require certifications or training milestones.<br>- Embed cloud operation best practices into performance expectations. |
@@ -375,7 +375,7 @@ Several federal initiatives define how agencies must secure digital systems and 
 
 ### Conclusion
 
-Cybersecurity is not an afterthought, it must be designed into digital services from the start. Contracting officers and CORs must be able to ask the right questions and ensure security compliance, IAM integration, vulnerability management practices, and SIEM readiness are built into the acquisition process.
+Cybersecurity is not an afterthought; it must be designed into digital services from the start. Contracting officers and CORs must be able to ask the right questions and ensure security compliance, IAM integration, vulnerability management practices, and SIEM readiness are built into the acquisition process.
 
 Through innovative, security-conscious procurement, COs help ensure that government services are trustworthy, resilient, and aligned with federal cybersecurity mandates.
 
@@ -389,7 +389,7 @@ Digital accessibility is fundamental to inclusivity and equality in the modern w
 
 ### Types of disabilities
 
-1 in 4 adults in the United States have some type of disability. People with disabilities are a diverse group and two people with the same disability may even be impacted differently. Disabilities can also be permanent, temporary, or situational. 
+1 in 4 adults in the United States has some type of disability. People with disabilities are a diverse group, and two people with the same disability may even be impacted differently. Disabilities can also be permanent, temporary, or situational. 
 
 | Type of Disability | Permanent Disability | Temporary Disability | Situational Disability |
 | ----- | ----- | ----- | ----- |
@@ -477,7 +477,7 @@ Accessibility isn’t just a compliance requirement; it’s a core part of deliv
 
 Open source software (OSS) is a type of software whose source code is legally available for anyone to view, modify, and distribute. This means users can see how the software works and make changes to their copy of it. To ensure the software remains open, its use and distribution are governed by various open source licenses. These licenses (MIT, BSD, GPL, AGPL, etc.) often define how the updated code must be shared with others, typically requiring that it also be made freely available. A community of developers maintains and improves OSS using collaborative tools to manage changes and address issues like bugs and feature requests. Today, OSS is fundamental to almost all modern digital services, providing benefits like cost reduction, increased innovation, and enhanced security.
 
-Procurement officers need to understand how OSS fits within federal procurement regulations, how to evaluate its viability, and how to structure solicitations to make the best use of OSS. Government security increasingly requires a Software Bill of Materials (SBOM), which is a comprehensive list of all the software components, dependencies, and metadata associated with an application. For both open source and proprietary tools it is a key building block in software security and supply chain risk management. 
+Procurement officers need to understand how OSS fits within federal procurement regulations, how to evaluate its viability, and how to structure solicitations to make the best use of OSS. Government security increasingly requires a Software Bill of Materials (SBOM), which is a comprehensive list of all the software components, dependencies, and metadata associated with an application. For both open source and proprietary tools, it is a key building block in software security and supply chain risk management. 
 
 ### Open source software is used everywhere
 
