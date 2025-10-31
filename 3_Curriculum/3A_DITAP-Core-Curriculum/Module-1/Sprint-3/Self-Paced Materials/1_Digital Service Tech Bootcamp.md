@@ -566,6 +566,6 @@ Make sure you’re asking the right questions and learning about the OSS solutio
 | [Open Source Procurement Checklist](https://github.com/usds/ditap-curriculum-update/blob/95198b65bbf6cd698ad649f590d7d8f287635bba/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/open_source_procurement_checklist.md) | A guide to help procurement officers evaluate OSS solutions during digital government acquisitions. |
 | [Open Source Procurement FAQ](https://github.com/usds/ditap-curriculum-update/blob/95198b65bbf6cd698ad649f590d7d8f287635bba/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/open_source_procurement_faq.md) | FAQ addressing common concerns procurement officers may encounter when evaluating or acquiring OSS as part of digital government projects. |
 
-
+>You’ve completed Sprint 3 of Module 1! Please close this window to return to the course main page, then select Mark Complete to record your progress.
 
 
