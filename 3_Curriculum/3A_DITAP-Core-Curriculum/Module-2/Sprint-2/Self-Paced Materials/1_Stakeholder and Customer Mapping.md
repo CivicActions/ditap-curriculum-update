@@ -15,9 +15,10 @@ Let’s get started.
 
 Consider the following two situations:
 
-* **Situation 1:** You’re working on a digital services procurement and need to answer the question, “Who is my customer?” That’s easy, you think. It’s the program office or the program owner, the visionary and champion for the product or service. But wait a minute. Is that always the case? Are they the end users who will use the product or service? For instance, are they the individual entering data into a system, the citizen using your website to learn about energy efficient products, or the government team that will primarily use  this new tool? The answer to this question will drive how you approach the acquisition. End users should drive your technical and design decisions, so get them involved in the process! This sounds simple in theory. However, it’s not so simple in execution, when you have other stakeholders, budget, acquisition policy, Chief Information Officers / Information Technology (CIO/IT), as well as vendors and contractors, who feel strongly about the design and execution of the product or service.
-  
-* **Situation 2:** You’ve spent months putting together an acquisition plan and getting various stakeholders to review and provide feedback along the way. All of a sudden, a new stakeholder, one you hadn’t thought to include to date, provides feedback that requires you to significantly adjust your approach. Frustrated, you think, “If only I had thought to get them on board and involved earlier on, we could’ve had a better product and saved time and money.” We can probably all relate to a time (or times\!) when this has happened and the resulting frustration we felt.
+| Situation | Description |
+|------------|-------------|
+| **1. Who is my customer?** | You’re working on a digital services procurement and need to answer the question, “Who is my customer?” That’s easy, you think. It’s the program office or the program owner, the visionary and champion for the product or service. But wait a minute. Is that always the case? Are they the end users who will use the product or service? For instance, are they the individual entering data into a system, the citizen using your website to learn about energy-efficient products, or the government team that will primarily use this new tool? The answer to this question will drive how you approach the acquisition. End users should drive your technical and design decisions, so get them involved in the process! This sounds simple in theory. However, it’s not so simple in execution, when you have other stakeholders, budget, acquisition policy, Chief Information Officer/Information Technology (CIO/IT), as well as vendors and contractors, who feel strongly about the design and execution of the product or service. |
+| **2. The late stakeholder** | You’ve spent months putting together an acquisition plan and getting various stakeholders to review and provide feedback along the way. All of a sudden, a new stakeholder, one you hadn’t thought to include to date, provides feedback that requires you to significantly adjust your approach. Frustrated, you think, “If only I had thought to get them on board and involved earlier on, we could’ve had a better product and saved time and money.” We can probably all relate to a time (or times!) when this has happened and the resulting frustration we felt. |
 
 So how do you plan for involving your customers and engaging all stakeholders at the right time in the right way? That’s where this activity comes in!
 
@@ -50,7 +51,7 @@ It’s not a checklist, it’s a prompt to think strategically about:
 * What role(s) they play  
 * When and how to bring them in
 
-Just remember: people don’t fit neatly into one category. For example, your Head of Contracting Activity (HCA) might be a key acquisition leader, provide oversight, and serve as an internal influencer—all at once.
+Just remember: people don’t fit neatly into one category. For example, your Head of Contracting Activity (HCA) might be a key acquisition leader, provide oversight, and serve as an internal influencer, all at once.
 
 ### Why tailored engagement matters
 
@@ -72,7 +73,6 @@ Here’s a quick look at the six main stakeholder groups you might encounter in 
 * **Advocates and Influencers:** Senior champions who can open doors, build buy-in, and smooth the path forward.
 
 ### Reflection prompt (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 Think about a recent or upcoming digital services acquisition you’re working on.
 
@@ -84,6 +84,8 @@ Think about a recent or upcoming digital services acquisition you’re working o
 ### Introduction
 
 In this two-part activity, you’ll identify the individuals within your agency who are major influencers or gatekeepers in digital services acquisition and develop your strategy for engaging with them. You’ll use your experiences with this program as a springboard for the conversation.
+
+>Please see the **Applied Learning** section of the Learning Portal for additional information about this assignment.
 
 **Activity goal:** 
 
@@ -115,7 +117,7 @@ For Part 1 of this activity, you’ll identify 2-4 people within your agency tha
 
 Practice your conversation with a cohort member and enlist their feedback. Use their feedback to polish your engagement strategy. This is optional.
 
-**Definition of done and deadline for completion:** Part 1 must be completed in Module 2\. By the end of Module 2, you will need to provide a document for approval that includes: 
+**Definition of done and deadline for completion:** Please see the due dates listed in the Applied Learning section of the Learning Portal. By those dates, you will need to provide a document for approval that includes: 
 
 * The four stakeholders you intend to interview  
 * Your list of questions you plan to ask for feedback (Optional).
@@ -137,4 +139,7 @@ Please include the date of your interview and an overview of what you discussed.
 
 ### Definition of Done
 
-To consider this activity completed, you’ll need to adequately prepare for and complete interviews with 2-4 influencer/gatekeepers at your agency and share insights through a written assignment submitted to the Team.
+To consider this activity completed, you’ll need to adequately prepare for and complete interviews with 2-4 influencer/gatekeepers at your agency and share insights through a written assignment submitted through the Learning Portal.
+
+## Conclusion
+>You’ve completed Sprint 2 of Module 1! Please close this window to return to the course main page, then select Mark Complete to record your progress.
