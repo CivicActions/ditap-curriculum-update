@@ -17,12 +17,10 @@ After this module, you will be able to:
 All digital projects should start with the end user. This simple principle is foundational to designing, developing, and delivering digital services. In fact, “Understand what people need” is the first play in the [U.S. Digital Services Playbook](https://playbook.usds.gov/), which you will explore as you progress through this module.
 
 ### Discussion: The good, the bad, and the ugly (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 - What commercial companies or government agencies do you know of that keep user needs at the forefront? How does this show? What steps do you think they took to get to where they are?
 - What commercial companies or government agencies do you know of that didn’t prioritize user needs? What were the consequences?
 
-Post in the discussion topic which companies or agencies you chose and why. 
 
 ## Strategies for keeping focused on the end user
 
@@ -233,55 +231,49 @@ This section introduces key frameworks and practices that bring Agile to life, i
 Agile delivery is more than a set of practices. It's a mindset of continuous improvement, open communication, and user-centered design. By adopting these methods, federal acquisition professionals can better support digital transformation initiatives and make informed, Agile-friendly procurement decisions.
 
 ## Discussion (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS. 
 
 Think back to a digital service or IT project you were involved in, whether as a contracting officer, program manager, or stakeholder. Based on what you now know about Agile, what might you have done differently to encourage more adaptability, feedback, or user involvement?
 
 ## Knowledge check
 
+> Note: Knowledge checks are designed to help you gauge your understanding of the material. They do not impact your overall grade. Use them as a low-stakes way to test your knowledge, reflect on key concepts, and identify areas you may want to review.
+
 Question 1
 
 **Your agency needs to replace an outdated legacy system, causing usability issues for staff and the public. The scope isn’t fully defined yet, and stakeholder needs are still being explored. What’s the best approach?**
 
-- [ ] Use a waterfall process to define every requirement up front
-- [x] Use Agile to deliver value in stages while gathering feedback
-- [ ] Purchase a commercial off-the-shelf solution without further research
-
->Correct! Agile supports evolving needs through iteration and user feedback.
->Not quite. Since the project scope is evolving, Agile is best for delivering in stages while gathering input.
+- [[ ]] Use a waterfall process to define every requirement up front
+- [[x]] Use Agile to deliver value in stages while gathering feedback
+- [[ ]] Purchase a commercial off-the-shelf solution without further research
+[[?]] Since the project scope is evolving, Agile is best for delivering in stages while gathering input.
 
 Question 2
 
 **You’re managing a software development contract with multiple vendor teams. Which Agile practice will help ensure visibility into progress and performance?**
 
-- [ ] Require weekly email updates  
-- [x] Schedule a sprint review every 2 weeks  
-- [ ] Wait for the final product demo
-
->Correct! Sprint reviews create regular opportunities to share progress with stakeholders.
-> Close, but email updates and final demos don’t offer the same transparency and collaboration as sprint reviews.
+- [[ ]]  Require weekly email updates  
+- [[x]] Schedule a sprint review every 2 weeks  
+- [[ ]] Wait for the final product demo
+[[?]] Email updates and final demos don’t offer the same transparency and collaboration as sprint reviews.
 
 Question 3
 
 **Which of the following best describes a Minimum Viable Product (MVP)?**
 
-- [ ] The final, fully-featured product
-- [ ] A product prototype used only for internal 
-- [x] A basic version with essential features to test value quickly
-
->That’s right! MVPs focus on delivering core value quickly, then improving based on feedback.
->Not quite. MVPs aren’t prototypes or final products—they’re a smart way to test value early.
+- [[ ]] The final, fully-featured product
+- [[ ]] A product prototype used only for internal 
+- [[x]] A basic version with essential features to test value quickly
+[[?]] MVPs aren’t prototypes or final products—they’re a smart way to test value early.
 
 Question 4
 
 **Which role primarily manages the product backlog and prioritizes user needs?**
 
-- [ ] Scrum Master   
-- [x] Product Owner     
-- [ ] Developer
+- [[ ]] Scrum Master   
+- [[x]] Product Owner     
+- [[ ]] Developer
+[[?]] While Scrum Masters support team flow, the Product Owner sets priorities and gathers requirements.
 
->Yes! The Product Owner owns the backlog and ensures the team focuses on what matters most.
->Not quite. While Scrum Masters support team flow, the Product Owner sets priorities and gathers requirements.
 
 ## Digital service delivery methods: HCD and DevSecOps
 
@@ -398,7 +390,6 @@ The VA undertook a comprehensive redesign of VA.gov to improve the digital exper
 **Playbook integration:** HCD ensures that digital services are **accessible, equitable**, and **responsive to user needs**, which is essential in a public sector committed to serving everyone.
 
 ### Activity: Scenario review (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 **Scenario:** A federal agency redesigned its benefits application portal after user research revealed that many applicants found the previous version confusing and inaccessible.
 
@@ -410,7 +401,7 @@ The VA undertook a comprehensive redesign of VA.gov to improve the digital exper
     - How did HCD methods help address these challenges?  <br>
     - What was the outcome of the redesign?  <br>
     - How did it improve equity or accessibility?<br>
-3. Write a short response in the course discussion area.
+3. Write a short response to share with your cohort.
 
 ## DevSecOps explained
 
@@ -467,13 +458,12 @@ The VA’s journey highlighted a key lesson for acquisition professionals: enabl
 * [DevSecOps is Improving CX at GSA, VA](https://govciomedia.com/devsecops-is-improving-cx-at-gsa-va/)  
 
 ### Discussion (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 How can DevSecOps improve the security of government digital services?
 
 Think about recent challenges in federal cybersecurity. Consider the impact of automation, early testing, and collaboration.
 
-Share one example or idea in the discussion forum section.
+Share one example or idea with your cohort.
 
 ## Design \+ DevSecOps: The power combo
 
@@ -493,26 +483,19 @@ This combination is particularly valuable in the federal context. It allows agen
 
 Prompt: You’re working with a federal team building a new mobile app for Veterans to track their healthcare appointments.
 
-✅ Question 1
+Question 1
 
 Which approach should you prioritize first?
 
 [[ ]] Use DevSecOps to begin coding and automating deployments immediately.
 [[X]] Apply HCD practices to understand Veteran needs and gather early feedback.
 [[ ]] Begin procurement for security and operations tools.
-
----
-
-Feedback:
-
-* **Correct:** ✅ Applying Human-Centered Design (HCD) first helps you understand Veteran needs before building. This ensures you’re solving the right problems. DevSecOps and procurement can follow once the team knows what to build and why.  
-
-* **Incorrect:** ❌ Not quite. Understanding user needs through HCD should come first. DevSecOps supports the delivery once the team knows what to build and why.
+[[?]] Understanding user needs through HCD should come first. DevSecOps supports the delivery once the team knows what to build and why.
 
 
 ## Digital service delivery providers - Sources of supply  
 
-**The government ecosystem**
+### **The government ecosystem**
 
 Many federal agencies now have internal digital service teams dedicated to transforming and modernizing digital services. One example is the U.S. DOGE Service (USDS), which focuses on building human-centered, Agile digital services, often in collaboration with agency teams and external partners. 
 
@@ -526,11 +509,10 @@ These teams play a critical role in:
 * **Supporting delivery** by embedding with program teams to guide implementation or act as product owners
 
 ### Activity – Discussion (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 How do these government teams collaborate with external vendors? What role do they play in improving digital service delivery?
 
-**The private sector landscape**
+### **The private sector landscape**
 
 The private sector plays a crucial role in federal digital service delivery. A growing ecosystem of vendors, from large legacy firms to nimble digital agencies, provides a wide array of services such as research, design, development, and operations. These companies offer essential capacity and expertise, particularly in areas that require specialized talent or rapid scaling.
 
@@ -546,12 +528,11 @@ These suppliers include:
 * **Internal digital service teams** aren’t vendors per se, but intra-agency service providers supporting mission delivery.
 * **Public-private partnerships** are long-term collaborations between agencies and private companies to achieve defined goals.
 
-**The growing digital service supplier community**
+### **The growing digital service supplier community**
 
 An increasing number of firms specialize in digital service delivery and either work regularly with public sector organizations and/or are seeing opportunities to perform work in this area. The [Digital Service Coalition](https://digitalservicescoalition.org/) includes a large number of companies in its membership that provide digital services today. 
 
-### Activity \- Digital service supplier discovery:
->Note for vendors: this is an optional self-paced learning activity in the LMS.
+### Activity \- Digital service supplier discovery (optional)
 
 Select two companies from the list of Digital Service Coalition members listed [here](https://digitalservicescoalition.org/story/). Review their websites, and perform a search on [usaspending.gov](http://usaspending.gov) to identify contract awards they have received from the federal government. Consider the following questions: 
 
@@ -562,12 +543,10 @@ Select two companies from the list of Digital Service Coalition members listed [
 * What else would you be interested to learn about each company? 
 
 ### Discussion prompt (optional) 
->Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 Think about a real or hypothetical federal digital service need you’ve encountered. Which type of private-sector partner would be most helpful? Why?
 
 ### Discussion prompt (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 What types of suppliers have you worked with in the past? What advantages or challenges did you experience?
 
@@ -660,4 +639,6 @@ Hybrid delivery models are increasingly common in digital service work. These mo
 
 [18F Guides](https://guides.18f.org/)
 
-* The 18F Guides website is a comprehensive collection of best practices, tools, and methodologies designed to help government teams and their partners build effective, user-centered digital services. It covers topics such as Agile development, accessibility, open source, and design systems, aiming to improve public service delivery through modern technology practices. 
+* The 18F Guides website is a comprehensive collection of best practices, tools, and methodologies designed to help government teams and their partners build effective, user-centered digital services. It covers topics such as Agile development, accessibility, open source, and design systems, aiming to improve public service delivery through modern technology practices.
+
+>You’ve completed Sprint 2 of Module 1! Please close this window to return to the course main page, then select Mark Complete to record your progress.
