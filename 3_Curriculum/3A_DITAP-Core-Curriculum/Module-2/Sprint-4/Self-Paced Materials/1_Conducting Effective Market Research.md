@@ -249,7 +249,7 @@ On the other hand, if you know of a standard or requirement (e.g., Federal Risk 
 ### Knowledge check
 > Note: Knowledge checks are designed to help you gauge your understanding of the material. They do not impact your overall grade. Use them as a low-stakes way to test your knowledge, reflect on key concepts, and identify areas you may want to review.
 
-Answering questions about a potential acquisition from vendors before a solicitation is released may result in:  
+Answering questions about a potential acquisition from vendors before a solicitation is released may result in:  (Select all that apply)
 
 - [[ ]] A. Delays and extensions to the due date
 - [[X]] B. Better bids
