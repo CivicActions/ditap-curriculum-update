@@ -85,7 +85,7 @@ The presentation layer is a lot like the “Where.” This is where the end user
 
 ### What's included in the Platform Layer? 
 
-This is the technical ingredients for the cake. The platform layer is the place where business logic is performed. It makes it all possible and is the foundation for delivering digital services. Some examples are:
+These are the technical ingredients for the cake. The platform layer is the place where business logic is performed. It makes it all possible and is the foundation for delivering digital services. Some examples are:
 
 - Application Programming Interfaces (APIs)
 - Web Services
@@ -99,7 +99,7 @@ Security, privacy, and data protection must be built into the technology's life 
 
 ### Ways of Understanding
 
-Thinking of technology as a three-layered cake, is one way to understand the how digital works. This is just one effort to define the technology stack. Play 8 of the CIO Playbook - [Choose a modern technology stack](https://playbook.usds.gov/#play8) - has a more specific, technical definition. There are many others, which a quick search will highlight. 
+Thinking of technology as a three-layered cake is one way to understand how digital services work. This is just one effort to define the technology stack. Play 8 of the CIO Playbook - [Choose a modern technology stack](https://playbook.usds.gov/#play8) - has a more specific, technical definition. There are many others, which a quick search will highlight. 
 
 Another metaphor for understanding technology is that of building blocks, such as Lego. [GovStack](https://govstack.global/) is a global initiative to define specifications for [reusable blocks of technology](https://specs.govstack.global/) which can be reused to build more robust and cost-effective government services. 
 
@@ -135,7 +135,7 @@ Let’s check your knowledge on the what, or the definition of digital services,
 
 Now that you’ve learned what digital services are, let’s learn more about __who__ provides digital services to end users. 
 
-### Digital services developers (in house)
+### Digital services developers (in-house)
 
 When an organization has an in-house team to support the development of digital services, it uses those seasoned product managers, engineers, and UX/UI designers to develop the service. Who’s needed depends on the scope and type of digital service (architects, security pros, testers, deployment engineers).
 
@@ -195,7 +195,7 @@ Look how you can find information about and report information to the [City of P
 
 ![Woman looking at her mobile phone](https://raw.githubusercontent.com/usds/ditap-curriculum-update/dc9a42db159a23ea3d43f7f931c9d1f30cb3685d/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/Woman%20looking%20at%20cell%20phone.png) 
 
-__Do only government agencies (federal, state or municipal) provide digital services?__
+__Do only government agencies (federal, state, or municipal) provide digital services?__
 
 Private sector and commercial organizations can also provide digital services to the end user. In fact, in a given day, you might access websites to perform transactions such as: 
 
