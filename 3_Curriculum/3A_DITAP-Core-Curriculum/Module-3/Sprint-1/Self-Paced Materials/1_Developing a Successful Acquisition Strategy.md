@@ -672,3 +672,7 @@ The Vendor Collaboration Index (VCI) is a performance metric that assesses the e
 
 
 **Bottom line**: Multi-vendor success is not self-managing. It requires structure, transparency, consistency, and the commitment to treat vendors as delivery partners, not interchangeable parts.
+
+## Conclusion
+>You’ve completed Sprint 1 of Module 3! Please close this window to return to the course main page, then select Mark Complete to record your progress.
+
