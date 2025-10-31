@@ -225,7 +225,7 @@ Unfortunately, these issues often surface mid-process, at critical moments when 
 
 By identifying constraints during the discovery phase, you can prepare to make faster, better-informed decisions and provide future reviewers with a clear rationale for your strategy choices. While gathering this information may initially feel like it slows things down, it’s actually a proactive step that fosters alignment with the program, policy, and security teams and helps avoid bigger delays later.
 
-**Implementation Tip:** It’s easy to treat these questions like a simple checklist, especially for smaller, low-risk procurements. But don’t skip the conversation. Talking through them as a team (instead of just swapping documents) builds trust, gets everyone on the same page, and sets the tone for a more collaborative process. Bonus: It can be fun. When the final solution comes together, and you can trace it back to the thinking you shaped early on, the magic happens. It’s a tangible reminder of how much your expertise matters.
+> **Implementation Tip:** It’s easy to treat these questions like a simple checklist, especially for smaller, low-risk procurements. But don’t skip the conversation. Talking through them as a team (instead of just swapping documents) builds trust, gets everyone on the same page, and sets the tone for a more collaborative process. Bonus: It can be fun. When the final solution comes together, and you can trace it back to the thinking you shaped early on, the magic happens. It’s a tangible reminder of how much your expertise matters.
 
 ### Suggested questions for constraint discovery sessions
 
@@ -252,7 +252,7 @@ Early constraint discovery enables your team to be proactive, not reactive, and 
 
 Knowing your constraints early lets you tailor the strategy to what’s possible technically, legally, operationally, and financially. Instead of planning around an ideal solution that fits no one’s actual environment, you’re developing a plan that reflects how your agency works, including infrastructure, policies, and capacity.
 
-Example: If contractor onboarding takes 90 days and your COR is already at capacity, you can plan for a delayed PoP start, include coaching or embedded delivery support in the scope, or explore a staged award with onboarding prerequisites built in.
+> Example: If contractor onboarding takes 90 days and your COR is already at capacity, you can plan for a delayed PoP start, include coaching or embedded delivery support in the scope, or explore a staged award with onboarding prerequisites built in.
 
 This includes boundaries like:
 
@@ -321,38 +321,34 @@ Constraint discovery is not just a planning step; it’s a practice of risk mana
 
 1. Which of the following best describes the purpose of identifying constraints before developing an acquisition strategy?
 
-- [ ] A. To eliminate any need for market research  
-- [ ] B. To make the process longer but more detailed  
-- [x] C. To understand boundaries that inform realistic, aligned strategies  
-- [ ] D. To determine vendor preferences before writing the solicitation
-
-> Identifying constraints helps teams stay aligned with practical boundaries and craft realistic strategies.
+- [[ ]] To eliminate any need for market research  
+- [[ ]] To make the process longer but more detailed  
+- [[x]] To understand boundaries that inform realistic, aligned strategies  
+- [[ ]] To determine vendor preferences before writing the solicitation
+[[?]] Identifying constraints helps teams stay aligned with practical boundaries and craft realistic strategies.
 
 2. True or False? Constraints should only be identified for high-risk or large-scale procurements.
 
-- [x] False
-- [ ] True
-
-> Constraints should be identified for all acquisition efforts, regardless of size, because they guide sound strategy development.
+- [[x]] False
+- [[ ]] True
+[[?]] Constraints should be identified for all acquisition efforts, regardless of size, because they guide sound strategy development.
 
 3. Which of the following are constraints that could impact your strategy? *(Select all that apply.)*
 
-- [ ] Vendor past performance ratings  
-- [x] Length of contractor onboarding  
-- [x] Type and timing of available funding  
-- [x] Required security authorizations (e.g., ATO)  
-- [ ] Number of vendors on the GSA Schedule
-
-> Constraints often involve time, funding, approvals, and readiness factors—not just vendor history.
+- [[ ]] Vendor past performance ratings  
+- [[x]] Length of contractor onboarding  
+- [[x]] Type and timing of available funding  
+- [[x]] Required security authorizations (e.g., ATO)  
+- [[ ]] Number of vendors on the GSA Schedule
+[[?]] Constraints often involve time, funding, approvals, and readiness factors—not just vendor history.
 
 4. Why is treating constraint discovery like a checklist instead of a conversation risky?
 
-- [ ] A. It wastes too much time  
-- [ ] B. It makes it harder to meet compliance rules  
-- [x] C. It misses the trust- and alignment-building benefits of team discussion  
-- [ ] D. It only works if legal is in the room
-
-> Collaborative conversations surface practical insights and build alignment across stakeholders.
+- [[ ]] It wastes too much time  
+- [[ ]] It makes it harder to meet compliance rules  
+- [[x]] It misses the trust- and alignment-building benefits of team discussion  
+- [[ ]] It only works if legal is in the room
+[[?]] Collaborative conversations surface practical insights and build alignment across stakeholders.
 
 5. Scenario
 
@@ -361,32 +357,35 @@ You’re planning a new digital services procurement. During early discovery, yo
 - Contractor onboarding takes 60–90 days  
 - There’s a possibility of reengineering outdated business processes
 
-**What should you do? (Choose the BEST option)**
+What should you do? (Choose the BEST option)
 
-- [ ] A. Ignore these constraints—they’ll sort themselves out during evaluation.  
-- [ ] B. Choose a firm-fixed-price contract now and adjust if needed.
-- [x] C. Build in a phased approach, include delivery support services, and engage leadership on process flexibility.  
-- [ ] D. Push back the solicitation until these constraints are no longer relevant.
-
-> A phased, proactive approach reduces risk and supports agility as constraints are addressed over time.
+- [[ ]] Ignore these constraints—they’ll sort themselves out during evaluation.  
+- [[ ]] Choose a firm-fixed-price contract now and adjust if needed.
+- [[x]] Build in a phased approach, include delivery support services, and engage leadership on process flexibility.  
+- [[ ]] Push back the solicitation until these constraints are no longer relevant.
+[[?]] A phased, proactive approach reduces risk and supports agility as constraints are addressed over time.
 
 6. Which of the following benefits come from defining constraints early? *(Select all that apply.)*
 
-- [x] Ability to shape a realistic, achievable strategy  
-- [x] Avoid mid-process surprises or delays  
-- [ ] Ensure you award to the lowest bidder  
-- [x] Support more defensible, mission-aligned decisions  
-- [x] Strengthen relationships with policy, legal, and IT teams
+- [[x]] Ability to shape a realistic, achievable strategy  
+- [[x]] Avoid mid-process surprises or delays  
+- [[ ]] Ensure you award to the lowest bidder  
+- [[x]] Support more defensible, mission-aligned decisions  
+- [[x]] Strengthen relationships with policy, legal, and IT teams
+[[?]] Early constraint discovery builds stronger strategies and relationships—critical for digital service acquisitions.
 
-> Early constraint discovery builds stronger strategies and relationships—critical for digital service acquisitions.
 
 ## Recommended reading
 
 _Every Project Needs an Inspiring Product Vision_
 
-Every successful product begins with a clear and inspiring vision—a concise, compelling statement serving as the true north for the entire team. The product vision is not just a motivational tagline; it defines *why* a product exists and *what* meaningful change it aims to bring about. It aligns stakeholders, energizes development teams, and ensures consistent direction throughout the product lifecycle.
+Every successful product begins with a clear and inspiring vision, a concise, compelling statement serving as the true north for the entire team. The product vision is not just a motivational tagline; it defines *why* a product exists and *what* meaningful change it aims to bring about. It aligns stakeholders, energizes development teams, and ensures consistent direction throughout the product lifecycle.
 
 The [Every Project Needs an Inspiring Product Vision document](https://techfarhub.usds.gov/assets/files/CreateAnInspritingProductVisionF.pdf), from the U.S. Digital Service, outlines essential principles and practical steps for crafting a product vision that inspires action, guides decision-making, and remains adaptable in the face of change. Whether you’re launching a new digital service or improving an existing one, an effective product vision is the foundation upon which meaningful, user-centered solutions are built.
+
+## Conclusion 
+>You’ve completed Sprint 3 of Module 2! Please close this window to return to the course main page, then select Mark Complete to record your progress.
+
 
 
 
