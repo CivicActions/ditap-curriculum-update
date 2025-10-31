@@ -5,7 +5,7 @@
 
 Effective acquisition planning is essential for ensuring that government agencies deliver the right solutions to their users on time, within budget, and aligned with mission needs. Whether adjusting an existing contract or developing a new procurement from scratch, a well-documented acquisition strategy reduces risk, promotes transparency, and supports informed decision-making throughout the pre-award process.
 
-This module introduces the foundational elements of acquisition strategy planning. Learners will explore how real-world circumstances shape acquisitions strategies, the importance of documentation and rationale, and how the Lean Canvas approach can serve as a dynamic tool for refining strategies based on stakeholder input, market insights, and evolving user needs.
+This module introduces the foundational elements of acquisition strategy planning. Learners will explore how real-world circumstances shape acquisition strategies, the importance of documentation and rationale, and how the Lean Canvas approach can serve as a dynamic tool for refining strategies based on stakeholder input, market insights, and evolving user needs.
 
 ## Learning Objectives
 
@@ -55,7 +55,7 @@ As you know, planning is an essential part of the acquisition process, and this 
 
 ## Using the Lean Canvas Approach
 
-You were introduced to this tool in **Module 2**. In this module, you will put this tool into action. The Lean Acquisition Canvas is a concise way to capture the key points of an acquisition strategy or plan, providing a high-level overview of the acquisition. The concept of using lean approaches originates from the Lean Startup methodology. This approach was initially designed to create and manage startups, enabling them to quickly bring products to customers’ hands through an efficient “build-measure-learn” cycle. The methodology is called “lean” for a reason, it favors testing and experimenting over elaborate upfront planning.
+You were introduced to this tool in **Module 1**. In this module, you will put this tool into action. The Lean Acquisition Canvas is a concise way to capture the key points of an acquisition strategy or plan, providing a high-level overview of the acquisition. The concept of using lean approaches originates from the Lean Startup methodology. This approach was initially designed to create and manage startups, enabling them to quickly bring products to customers’ hands through an efficient “build-measure-learn” cycle. The methodology is called “lean” for a reason; it favors testing and experimenting over elaborate upfront planning.
 
 Both large and small businesses across various industries are quickly adopting these “lean” approaches. For instance, you may have read about applications of lean methodologies to User Experience (UX) design as part of the readings in Module 1. These lean approaches were used to develop the “lean canvas” approach for writing “lighter,” more effective business plans.
 
@@ -99,7 +99,7 @@ Let’s look at two examples of how you might re-imagine the various parts of an
 
 How can you integrate the lean canvas tool to your advantage, you ask? Well, you can use them to:  
 
-* **More effectively work with your stakeholders.** As many of you have noted on the discussion boards and in guided learning sessions, the processes and techniques you are learning for digital services acquisition are unfamiliar to many stakeholders. This means you may encounter resistance and sometimes outright hostility to your chosen approach. The lean canvas can help you not only make your case, but also provide the vehicle for required approvals of your acquisition solution.  
+* **More effectively work with your stakeholders.** As many of you have noted on the discussion boards and in guided learning sessions, the processes and techniques you are learning for digital services acquisition are unfamiliar to many stakeholders. This means you may encounter resistance and sometimes outright hostility to your chosen approach. The lean canvas can help you not only make your case but also provide the vehicle for the required approvals of your acquisition solution.  
 * **Record the “why” of your solution.** You may still need a formal acquisition plan, so base it on your lean canvas tool.  The plan provides the historical record and justification for the acquisition solution in the contract file.
 
 ## Common Risks
@@ -109,7 +109,7 @@ Before you sit down to develop the solicitation package, you should consider som
 * **Is the acquisition focused on the end user and their ability to successfully use the product?** The end users of the final product are key to contract success and delivering a high-quality outcome. For the purpose of procurement, the “customer/program owner” is considered the primary end user of the acquisition process. However, the program owner is responsible for meeting the needs of the actual users who will interact with the system once delivered. By viewing the acquisition itself as the creation of a “product,” you help align strategic methods throughout the entire process, ensuring both the program’s goals and user needs are addressed.
 * **Is the Product Vision clear?** While the details don’t have to be defined, the vision does. All acquisition considerations should be consistent with the realization of that vision.
 * **Is there an exit strategy?** The government typically solves non-performance by increasing funding or lengthening schedules, as it’s perceived to be too difficult to get out of a contract. Is there a strategy to effectively resolve issues of performance on a contract?
-* **Are there incentives that can be applied to increase end-user satisfaction?** Leverage commercial incentive strategies where and when you can. Speak with trade experts and industry during  your market research,  to gain a better understanding of how the various digital service sectors operate in the private sector.  
+* **Are there incentives that can be applied to increase end-user satisfaction?** Leverage commercial incentive strategies where and when you can. Speak with trade experts and industry during your market research to gain a better understanding of how the various digital service sectors operate in the private sector.  
 * **Is the acquisition structured around commercial item acquisition methods as referenced in the Federal Acquisition Regulation (FAR) Parts 12 and 13.5?** Unless we ask the developers to invent a new coding language specifically for the government, we are utilizing commercial items, services, and products.
 
 | Risk | Mitigation | Links |
@@ -124,18 +124,17 @@ Before you sit down to develop the solicitation package, you should consider som
 | **Cultural resistance**<br>- Slower time to market<br>- Reduces benefits of Agile<br>- Misaligned expectations | - Engage leadership early<br>- Include change management as a CLIN<br>- Identify internal champions<br>- Demand cross-functional team involvement | |
 | **Security**<br>- Data loss<br>- Personally Identifiable Information (PII) breaches | - DevSecOps practices<br>- Continuous monitoring<br>- Federal Risk and Authorization Management Program (FedRAMP) tools and infrastructure | |
 | **Tech obsolescence**<br>- Higher costs due to system replacement<br>- Effects user adoption<br>- Inability to respond to tech landscape changes | - Modular design<br>- Tech refresh clauses in long-term contracts and Commercial off-the-shelf (COTS) products or services<br>- Consistent industry interactions | 
-| **ICT Accessibility Non-compliance** | Document Section 508 compliance requirements early in acquisition planning, identify exceptions for national security systems or incidental contractor use, and prepare exemption documentation for undue burden or fundamental alteration schenarios | [Section 508.gov compliance tools](https://www.section508.gov/tools/) |
-| **Inadequate Competition Advocay** | Engage agency competition advocate early to promote full and open competition, challenge barriers to acquisition, and report actions to increase competition | [Small Business Administration](https://www.sba.gov/) |
+| **ICT Accessibility Non-compliance** | Document Section 508 compliance requirements early in acquisition planning, identify exceptions for national security systems or incidental contractor use, and prepare exemption documentation for undue burden or fundamental alteration scenarios | [Section 508.gov compliance tools](https://www.section508.gov/tools/) |
+| **Inadequate Competition Advocacy** | Engage agency competition advocate early to promote full and open competition, challenge barriers to acquisition, and report actions to increase competition | [Small Business Administration](https://www.sba.gov/) |
 | **Technology Evolution Mismatch** | Use modular contracting with 180-day award and 18-month delivery timelines to allow subsequent increments to leverage technology advances | [FAR 39.102 contracting guidance](https://www.acquisition.gov/far/39.102) ||
 
 ### Discussion question (optional):
->Note for vendors: this is an optional self-paced learning activity in the LMS.
 
-Based on what you’ve learned, what are some mistakes you would avoid for your next procurement? Share your knowledge with your peers here! 
+Based on what you’ve learned, what are some mistakes you would avoid for your next procurement? Share your knowledge with your peers! 
 
 ## Contract exit strategies
 
-As part of the acquisition strategy cycle, you need to plan for what happens if things go wrong and consdier a contract exit. From a lack of delivery to a change in needs, there are many reasons why you might need to exit a contract early. In industry, this can happen quickly, but in Government, it is not always as easy. From building flexibility into your contracts to planning communication around insufficient results, it’s crucial to have solid exit strategies planned out as part of your acquisition strategy.
+As part of the acquisition strategy cycle, you need to plan for what happens if things go wrong and consider a contract exit. From a lack of delivery to a change in needs, there are many reasons why you might need to exit a contract early. In industry, this can happen quickly, but in Government, it is not always as easy. From building flexibility into your contracts to planning communication around insufficient results, it’s crucial to have solid exit strategies planned out as part of your acquisition strategy.
 
 The following challenges and recommended approaches are offered to help guide you through this process. Follow them closely or choose your own adventure!
 
@@ -160,7 +159,7 @@ We will explore how you can influence your stakeholders and gain their buy-in in
 
 ## Existing contracts
 
-What if an existing contract can provide what your agency needs? Not every need will, or should, result in a new contract, complete with all the planning, source selection (or J\&A), and review baggage that comes with a new acquisition. There may already be an agency or interagency digital services contract in place, with allowed modifications, which will simplify finding the proper acquisition solution. Or, it may not. Even if a contract can be modified to obtain the product vision, a closer look at the details will help you determine. 
+What if an existing contract can provide what your agency needs? Not every need will, or should, result in a new contract, complete with all the planning, source selection (or J&A), and review baggage that comes with a new acquisition. There may already be an agency or interagency digital services contract in place, with allowed modifications, which will simplify finding the proper acquisition solution. Or, it may not. Even if a contract can be modified to obtain the product vision, a closer look at the details will help you determine. 
 
 Consider what other agencies are doing:
 
@@ -193,7 +192,7 @@ A new procurement is likely if you’ve determined that using an existing contra
 |                                                             	                 | Description |
 | :---- | :---- |
 | **Make or buy**   | Determine where it makes sense for government personnel to develop or adapt a solution from existing commercial off-the-shelf software or acquire and develop a modern technology, non-proprietary solution from contractors. |
-| **Open source**          | Open source software should be considered in market research. It is a form of Commercial Off-the-Shelf (COTS) software. Government agencies gain distinct advantages from open source, including transparency, reusability, and long-term sustainability. The default position should be that when public money is spent, government receives the maximum rights to use, modify, and share the resulting work—“Public Money, Public Code.” Contracting officers should ensure that existing license terms are understood and that acquisitions are structured to maximize value for both the government and the public. |
+| **Open source**          | Open source software should be considered in market research. It is a form of Commercial Off-the-Shelf (COTS) software. Government agencies gain distinct advantages from open source, including transparency, reusability, and long-term sustainability. The default position should be that when public money is spent, the government receives the maximum rights to use, modify, and share the resulting work—“Public Money, Public Code.” Contracting officers should ensure that existing license terms are understood and that acquisitions are structured to maximize value for both the government and the public. |
 | **Beware of data centers** | Consider leveraging SaaS or PaaS solutions before investing in new or existing data centers. It costs much more to host and provision data than it does to utilize XaaS solutions. |
 | **Establish CLINS**       | Think “à la carte,” high-level, and maximum flexibility. You want to ensure that the CLINs identify and support the product vision, while providing flexibility for achieving it and accountability to the contractor. |
 | **Minimize magnitude**    | “Can you, or should you, minimize the magnitude of the acquisition to reduce both layers of bureaucratic review and approval and time to award?” Consider the regulatory requirements associated with dollar value thresholds, including, but not limited to: small business requirements, simplified acquisition procedures, and multiple award requirements. |
@@ -261,7 +260,7 @@ As you recall from your training on how to survey the marketplace and how to eng
 * Research small or niche providers, as they can offer innovative and focused solutions. Just be aware that sometimes, the most innovative solution may not be the best once all relevant issues are considered and weighed.  
 * Use [FAR Part 19](https://www.acquisition.gov/far/part-19). Part 19 offers substantial flexibility for engaging and contracting with small businesses new to government contracting.
 
-As you explore the marketplace, know that new or nontraditional providers can provide serious challenges in contract management simply by not being familiar with how the government does things. It’s a good idea to help them understand CDRLs, contractor certifications, SAM, CPARS/PPIRS, requirements resulting from mandatory clauses and provisions, and other items unique to how the government conducts business. However, to the maximum extent practicable, the government should use procedures, terms, and conditions that are as close to commercial practice as possible. The more familiar and comfortable the contract is, the more likely it is that such vendors will start, and continue, to do business with the government. 
+As you explore the marketplace, know that new or nontraditional providers can provide serious challenges in contract management simply by not being familiar with how the government does things. It’s a good idea to help them understand CDRLs, contractor certifications, SAM, CPARS/PPIRS, requirements resulting from mandatory clauses and provisions, and other items unique to how the government conducts business. However, to the maximum extent practicable, the government should use procedures, terms, and conditions that are as close to commercial practice as possible. The more familiar and comfortable the contract is, the more likely it is that such vendors will start and continue to do business with the government. 
 
 ### Updated competition requirements under FAR Part 6 Overhaul
 
@@ -274,89 +273,80 @@ Key changes affecting market research include:
 - **Consolidated Set-Aside Authorities**: All small business set-aside requirements have been consolidated, making it easier to identify opportunities for small businesses, including 8(a), HUBZone, WOSB, VOSB, and SDVOSB contractors.
   
 ## Knowledge check
+> Note: Knowledge checks are designed to help you gauge your understanding of the material. They do not impact your overall grade. Use them as a low-stakes way to test your knowledge, reflect on key concepts, and identify areas you may want to review.
 
 1. As you prepare to buy your product or service, which of the following milestones should be completed?
 
-- [ ] A. Stakeholder engagement, including their level of capability and cooperation  
-- [ ] B. Contract considerations, i.e., availability and applicability of existing contract vehicles or necessity for a new contract vehicle  
-- [ ] C. Funding  
-- [ ] D. Period of performance (base vs. option years)  
-- [x] E. All of the above
-
-> Correct! A well-prepared acquisition effort considers all of the above—stakeholders, contract pathways, funding availability, and performance periods.
+- [[ ]] Stakeholder engagement, including their level of capability and cooperation  
+- [[ ]] Contract considerations, i.e., availability and applicability of existing contract vehicles or necessity for a new contract vehicle  
+- [[ ]] Funding  
+- [[ ]]. Period of performance (base vs. option years)  
+- [[x]] All of the above
+[[?]] A well-prepared acquisition effort considers all of the above—stakeholders, contract pathways, funding availability, and performance periods.
 
 2. When developing an acquisition strategy for procuring a digital service, which of the following is the best option for documenting your strategy?
 
-- [x] A. Lean Canvas tool  
-- [ ] B. Acquisition plan  
-- [ ] C. On sticky notes in your office  
-- [ ] D. In a series of emails in a folder
+- [[x]] Lean Canvas tool  
+- [[ ]] Acquisition plan  
+- [[ ]] On sticky notes in your office  
+- [[ ]] In a series of emails in a folder
+[[?]] The Lean Canvas tool helps visualize and iterate on acquisition strategy in a clear, structured way—especially useful in digital service procurements.
 
-> The Lean Canvas tool helps visualize and iterate on acquisition strategy in a clear, structured way—especially useful in digital service procurements.
-
-3. What approach should you take when stakeholders are resistent to agile acquisition concepts?
-- [ ] A. Implement changes immediately to demonstrate benefits
-- [x] B. Keep as much as possible in familiar territory and move incrementally in the direction they need to go
-- [ ] C. Seek approval from the higher authority to override resistance
-- [ ] Wait until stakeholders are replaced with more supportive personnel
-
-> Correct! Small steps are better than rapid wholesale change when stakeholders are resistant to unfamiliar concepts, treating this as another aspect of "buy small, miss small.
+3. What approach should you take when stakeholders are resistant to agile acquisition concepts?
+- [[ ]] Implement changes immediately to demonstrate benefits
+- [[x]] Keep as much as possible in familiar territory and move incrementally in the direction they need to go
+- [[ ]] Seek approval from the higher authority to override resistance
+- [[ ]] Wait until stakeholders are replaced with more supportive personnel
+[[?]] Small steps are better than rapid wholesale change when stakeholders are resistant to unfamiliar concepts, treating this as another aspect of "buy small, miss small.
 
 4. What is the primary purpose of using the lean canvas approach for acquisition strategy documentation?
-- [ ] A. To meet FAR compliance requirements for acquisition planning
-- [ ] To replace all traditional acquisition planning documents
-- [x] To capture key points of an acquisition strategy in a concise, high-level overview that gets everyone on the same page
-- [ ] To eliminate the need for market research
-
-> Correct! The lean canvas tool provides a concise way to capture key points of an acquisition strategy, helping teams discuss decisions and trade-offs while shaping the Product Vision.
+- [[ ]] To meet FAR compliance requirements for acquisition planning
+- [[ ]] To replace all traditional acquisition planning documents
+- [[x]] To capture key points of an acquisition strategy in a concise, high-level overview that gets everyone on the same page
+- [[ ]] To eliminate the need for market research
+[[?]] The lean canvas tool provides a concise way to capture key points of an acquisition strategy, helping teams discuss decisions and trade-offs while shaping the Product Vision.
 
 5. When should minimum educational or experience requirements be included in ICT solicitations under the updated FAR Part 39?
-- [ ] A. Never, these requirements are always prohibited
-- [ ] B. Only for contracts over $1 million
-- [x] C. When the contracting officer determines that agency needs can't be met without the requirement, or when not using performance-based acquisition
-- [ ] D. Only with senior procurement executive approval
+- [[ ]] Never, these requirements are always prohibited
+- [[ ]] Only for contracts over $1 million
+- [[x]] When the contracting officer determines that agency needs can't be met without the requirement, or when not using performance-based acquisition
+- [[ ]] Only with senior procurement executive approval
+[[?]] FAR 39.103 states that solicitations should not describe minimum experience or educational requirements unless the contracting officer determines that agency needs cannot be met without that requirement or unless the requirement is for using other than a performance-based acquisition.
 
-> Correct! FAR 39.103 states that solicitations should not describe minimum experience or educational requirements unless the contracting officer determines that agency needs cannot be met without that requirement or unless the requirement is for using other than a performance-based acquisition.
-
-6. What is a key advantage of Fixed Proice per iteration (FFP per sprint) contract pricing over traditional fixed-price contracts for digital services?
-- [ ] A. It eliminates all performance risks for the government
-- [x] B. It maintains cost control while preserving flexibility in scope within each sprint
-- [ ] C. It always costs less than Time and Materials contracts
-- [ ] D. It requires less government oversight than other contract types
-
-> Correct! FFP per iteration maintains cost control by fixing the price per iteration while preserving flexibility in the scope of reatures or deliverables within each sprint, aligning well with agile development practices.
+6. What is a key advantage of Fixed Price per iteration (FFP per sprint) contract pricing over traditional fixed-price contracts for digital services?
+- [[ ]] It eliminates all performance risks for the government
+- [[x]] It maintains cost control while preserving flexibility in scope within each sprint
+- [[ ]] It always costs less than Time and Materials contracts
+- [[ ]] It requires less government oversight than other contract types
+[[?]] FFP per iteration maintains cost control by fixing the price per iteration while preserving flexibility in the scope of features or deliverables within each sprint, aligning well with agile development practices.
 
 7. What is the most significant risk to address when working with nontraditional providers?
-- [ ] A. Higher costs due to lack of government experience
-- [ ] B. Inability to meet technical requirements
-- [x] C. Unfamiliarity with government contracting processes and requirements
-- [ ] D. Lack of adequate insurance coverage
-
-> Correct! Nontraditional providers can pose significant challenges in contract management due to their unfamiliarity with CDRLs, contractor certifications, SAM, CPARS/PPIRS, and other government-specific requirements.
+- [[ ]] Higher costs due to lack of government experience
+- [[ ]] Inability to meet technical requirements
+- [[x]] Unfamiliarity with government contracting processes and requirements
+- [[ ]] Lack of adequate insurance coverage
+[[?]] Nontraditional providers can pose significant challenges in contract management due to their unfamiliarity with CDRLs, contractor certifications, SAM, CPARS/PPIRS, and other government-specific requirements.
 
 8. Under the streamlined FAR Part 6, how are small business set-aside authorities now organized?
-- [x] A. All consolidated into two sections
-- [ ] B. Each type has its own separate section
-- [ ] Moved to FAR Part 19 entirely
-- [ ] Eliminated in favor of full competition
-
-> Correct! The overhauled FAR 6.102-2 now covers all small business set-asides in consolidated sections, including SBIR/STTR and specific small business socioeconomic categories.
+- [[x]] All consolidated into two sections
+- [[ ]] Each type has its own separate section
+- [[ ]] Moved to FAR Part 19 entirely
+- [[ ]] Eliminated in favor of full competition
+[[?]] The overhauled FAR 6.102-2 now covers all small business set-asides in consolidated sections, including SBIR/STTR and specific small business socioeconomic categories.
 
 9. What should be the primary focus when determining whether to use existing contracts versus new procurement for digital services?
-- [ ] A. Always choose the lowest cost option available
-- [ ] B. Prioritize speed of award over all other considerations
-- [ ] C. Default to new contracts to ensure maximum competition
-- [x] D. Determine if using an existing contract vehincle would be appropriate and effective for the product vision
-
-> Correct! Existing contracts should be considered when they can provide what the agency needs, but the key determiniation is whether the existing vehicle would be appropriate and effective for achieving the product vision.
+- [[ ]] Always choose the lowest cost option available
+- [[ ]] Prioritize speed of award over all other considerations
+- [[ ]] Default to new contracts to ensure maximum competition
+- [[x]] Determine if using an existing contract vehicle would be appropriate and effective for the product vision
+[[?]] Existing contracts should be considered when they can provide what the agency needs, but the key determination is whether the existing vehicle would be appropriate and effective for achieving the product vision.
 
 10. What is essential for effective contract exit strategies in digital services acquisitions?
-- [ ] A. Having legal counsel review all termination clauses
-- [x] B. Building flexibility into contracts and planning for modular delivery with shorter periods of performance
-- [ ] C. Requiring contractors to provide performance bonds
-- [ ] D. Using only cost-reimbursable contract types
-
-> Correct! Use modular contracting to limit award periods to six months or a year, whenever possible. This approach avoids the need for termination and makes contracts easier to manage and re-compete.
+- [[ ]] Having legal counsel review all termination clauses
+- [[x]] Building flexibility into contracts and planning for modular delivery with shorter periods of performance
+- [[ ]] Requiring contractors to provide performance bonds
+- [[ ]] Using only cost-reimbursable contract types
+[[?]] Use modular contracting to limit award periods to six months or a year, whenever possible. This approach avoids the need for termination and makes contracts easier to manage and re-compete.
 
 ## Compliance & Other Legal Issues
 
@@ -452,7 +442,9 @@ Accordingly, digital services acquisition professionals like you must be familia
 
 Conversely, contractors may have proprietary interests in data that provide competitive advantages in both the commercial and government marketplaces. Protection of legitimate proprietary data from unauthorized use and disclosure “…is necessary to encourage qualified contractors to participate in and apply innovative concepts to Government programs. In light of these considerations, *agencies shall balance the Government's needs and the contractor’s legitimate proprietary interests.”*
 
-[**Video - Data Rights: Understanding and Negotiating Data Rights**](https://www.youtube.com/watch?v=BZBys4jBZOk)
+Video - Data Rights: Understanding and Negotiating Data Rights
+![Data Rights: Understanding and Negotiating Data Rights](https://img.youtube.com/vi/BZBys4jBZOk/0.jpg)
+[Watch the video](https://www.youtube.com/watch?v=BZBys4jBZOk)
 
 ### What does “data” mean, and how does it apply to data rights and copyrights?
 
@@ -577,23 +569,22 @@ Actions the government can take when implementing to reduce risks include:
 Understand that the offeror has to sell you on his choice of open source software and his ability to manage the risks of using what he doesn’t own. Ensure your solicitation is clear: you must be comfortable with the risks of using a proposed open source platform being manageable and palatable. Also, ensure that the vendor is willing to be contractually obligated to address problems arising from the use of a particular open-source platform.
 
 ## Knowledge check
+> Note: Knowledge checks are designed to help you gauge your understanding of the material. They do not impact your overall grade. Use them as a low-stakes way to test your knowledge, reflect on key concepts, and identify areas you may want to review.
 
 1. What term refers to distinguishing the goods or services of one enterprise from those of other enterprises?
 
-- [ ] A. Patent  
-- [ ] B. Copyright  
-- [x] C. Trademark  
-- [ ] D. Official seal
-
-> Correct! A trademark is a sign capable of distinguishing the goods or services of one enterprise from another.
+- [[ ]] Patent  
+- [[ ]] Copyright  
+- [[x]] Trademark  
+- [[ ]] Official seal
+[[?]] A trademark is a sign capable of distinguishing the goods or services of one enterprise from another.
 
 2. True or False:  
 You can patent open-source software as your own and resell it commercially.
 
-- [ ] True  
-- [x] False
-
-> Correct! Open-source software is publicly licensed—patenting it as your own would violate licensing terms.
+- [[ ]] True  
+- [[x]] False
+[[?]] Open-source software is publicly licensed—patenting it as your own would violate licensing terms.
 
 ## Multi-vendor contracts
 
