@@ -642,4 +642,5 @@ Hybrid delivery models are increasingly common in digital service work. These mo
 
 * The 18F Guides website is a comprehensive collection of best practices, tools, and methodologies designed to help government teams and their partners build effective, user-centered digital services. It covers topics such as Agile development, accessibility, open source, and design systems, aiming to improve public service delivery through modern technology practices.
 
+## Conclusion
 >You’ve completed Sprint 2 of Module 1! Please close this window to return to the course main page, then select Mark Complete to record your progress.
