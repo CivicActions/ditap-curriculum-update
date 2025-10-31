@@ -117,7 +117,7 @@ For Part 1 of this activity, you’ll identify 2-4 people within your agency tha
 
 Practice your conversation with a cohort member and enlist their feedback. Use their feedback to polish your engagement strategy. This is optional.
 
-**Definition of done and deadline for completion:** Please see the due dates listed in the Applied Learning section of the Learning Portal. By those dates, you will need to provide a document for approval that includes: 
+**Definition of done and deadline for completion:** Please see the due dates listed in the Applied Learning section of the Learning Portal. By that deadline, you will need to provide a document for approval that includes: 
 
 * The four stakeholders you intend to interview  
 * Your list of questions you plan to ask for feedback (Optional).
