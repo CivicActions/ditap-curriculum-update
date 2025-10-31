@@ -100,7 +100,7 @@ One of the most effective ways to uncover the problem and define meaningful obje
 
 Prompt for the Contracting Officer:
 
-“Let’s take an hour to align around the problem we’re solving and what success looks like. I’ll guide us through a short working session where we clarify the user pain points, what’s not working today, and what a good future state could look like. From there, we’ll co-create a product vision and draft 1–2 outcome-based objectives to guide our acquisition strategy.”
+> “Let’s take an hour to align around the problem we’re solving and what success looks like. I’ll guide us through a short working session where we clarify the user pain points, what’s not working today, and what a good future state could look like. From there, we’ll co-create a product vision and draft 1–2 outcome-based objectives to guide our acquisition strategy.”
 
  **What is a user-centered problem statement?**
 
