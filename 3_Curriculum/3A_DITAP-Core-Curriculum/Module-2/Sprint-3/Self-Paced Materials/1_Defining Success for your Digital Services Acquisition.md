@@ -318,6 +318,8 @@ A well-informed team that communicates openly and documents early decisions will
 Constraint discovery is not just a planning step; it’s a practice of risk management and collaborative alignment that supports more confident, mission-focused decision-making from start to finish.
 
 ## Knowledge check 
+> Note: Knowledge checks are designed to help you gauge your understanding of the material. They do not impact your overall grade. Use them as a low-stakes way to test your knowledge, reflect on key concepts, and identify areas you may want to review.
+
 
 1. Which of the following best describes the purpose of identifying constraints before developing an acquisition strategy?
 
