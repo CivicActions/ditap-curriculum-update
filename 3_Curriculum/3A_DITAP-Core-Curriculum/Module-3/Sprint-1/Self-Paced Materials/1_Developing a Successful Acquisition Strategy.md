@@ -280,7 +280,7 @@ Key changes affecting market research include:
 - [[ ]] Stakeholder engagement, including their level of capability and cooperation  
 - [[ ]] Contract considerations, i.e., availability and applicability of existing contract vehicles or necessity for a new contract vehicle  
 - [[ ]] Funding  
-- [[ ]]. Period of performance (base vs. option years)  
+- [[ ]] Period of performance (base vs. option years)  
 - [[x]] All of the above
 [[?]] A well-prepared acquisition effort considers all of the above—stakeholders, contract pathways, funding availability, and performance periods.
 
