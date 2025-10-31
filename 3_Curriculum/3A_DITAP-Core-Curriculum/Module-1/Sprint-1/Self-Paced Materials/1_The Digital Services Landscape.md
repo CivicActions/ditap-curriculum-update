@@ -113,20 +113,22 @@ You’ve learned about the definition of digital services by looking at a use ca
 
 Let’s check your knowledge on the what, or the definition of digital services, with a short quiz. 
 
+> Note: Knowledge checks are designed to help you gauge your understanding of the material. They do not impact your overall grade. Use them as a low-stakes way to test your knowledge, reflect on key concepts, and identify areas you may want to review.
+
 ### True or false?
 
  
 1. There is no WiFi where I am. That means I cannot access any digital services.
 - [[ ]] True
 - [[X]] False
+[[?]] Digital services can be deployed on a mobile phone using your data plan.
 
-Explanation: Digital services can be deployed on a mobile phone using your data plan.
 
 2. It sounds like only adults can be end users of digital services since it's for finding important information or filling out forms. 
 - [[ ]] True
 - [[X]] False
+[[?]] As a grade-school student, you could access a teacher’s webpage to find homework for that day. That’s a digital service! You might also use websites like Study Island or Khan Academy. These are digital services as well. You’re able to access information and complete “transactions” in a digital manner.
 
-Explanation: As a grade-school student, you could access a teacher’s webpage to find homework for that day. That’s a digital service! You might also use websites like Study Island or Khan Academy. These are digital services as well. You’re able to access information and complete “transactions” in a digital manner.
 
 
 ## The digital services ecosystem
@@ -223,6 +225,8 @@ These examples are from the perspective of the end user. The Digital Services Ec
 
 We’ve now learned the roles of individuals and teams within the digital services ecosystem. Let’s check your knowledge.
 
+> Note: Knowledge checks are designed to help you gauge your understanding of the material. They do not impact your overall grade. Use them as a low-stakes way to test your knowledge, reflect on key concepts, and identify areas you may want to review.
+
 
 ### Multiple choice
 
@@ -234,8 +238,7 @@ Which of the following is being portrayed in the conversation above?
 - [[X]] User experience design
 - [[ ]] Content development
 - [[ ]] Quality assurance testing
-
-Explanation: In this humorous portrayal, “people friendly” refers to the User Experience Design. This involves visual design, interaction design, and user interface design to make things as intuitive as possible for the end user. The user experience designers work with the front-end software developers to develop the front-end functionality and user interface to support the vision set forth by the organization.
+  [[?]] In this humorous portrayal, “people friendly” refers to the User Experience Design. This involves visual design, interaction design, and user interface design to make things as intuitive as possible for the end user. The user experience designers work with the front-end software developers to develop the front-end functionality and user interface to support the vision set forth by the organization.
 
 ## Who’s who: A starting list
 
@@ -287,11 +290,10 @@ As government agencies embrace modern technology and user-centered practices, it
 
 
 ## Activity break (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS.
+
 
 Start your own Who's Who list by finding an organization or other thought leader in the digital service community to follow on social media (X, LinkedIn, Facebook, and so forth) or on a blog or newsletter that you sign up to receive.
 
-Post in the discussion topic who you chose and why. You can also share what contribution to digital service made them interesting to you.
 
 ## Recommended readings
 
