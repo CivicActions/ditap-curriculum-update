@@ -36,3 +36,6 @@ Would you consider yourself, your team, and your organization risk-averse or ris
 2\. [Do You Have a Hard Time Making Decisions?](http://learning.blogs.nytimes.com/2011/08/18/do-you-have-a-hard-time-making-decisions/?_r=1)
 
 This *New York Times* article explores the “decision fatigue” phenomenon and raises questions for readers about what conditions should be in place for good versus bad decision-making. Think about how decision fatigue may apply to stakeholders in your agency.
+
+## Conclusion
+>You’ve completed Sprint 1 of Module 2! Please close this window to return to the course main page, then select Mark Complete to record your progress.
