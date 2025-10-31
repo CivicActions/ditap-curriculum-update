@@ -3,7 +3,7 @@
 
 > _Average completion time 15 - 20 minutes_
 
-Before an agency embarks on a digital service acquisition, it must first understand its own readiness to support the demands of modern, agile procurement. In today’s rapidly evolving digital landscape, success isn't just about selecting the right technology or vendor, it’s about aligning acquisition strategies with an agency’s internal capabilities, culture, governance, and tolerance for change. This learning unit focuses on helping participants assess and understand these internal factors so they can make strategic decisions that reduce risk and enhance outcomes.
+Before an agency embarks on a digital service acquisition, it must first understand its own readiness to support the demands of modern, agile procurement. In today’s rapidly evolving digital landscape, success isn't just about selecting the right technology or vendor; it’s about aligning acquisition strategies with an agency’s internal capabilities, culture, governance, and tolerance for change. This learning unit focuses on helping participants assess and understand these internal factors so they can make strategic decisions that reduce risk and enhance outcomes.
 
 Drawing from real-world case studies and frameworks, including maturity models and readiness surveys, this module guides learners through the foundational steps of gauging organizational readiness. Participants will explore how elements like agile adoption, stakeholder alignment, procurement agility, and leadership support can directly influence the success of a digital acquisition. By the end, learners will be equipped to evaluate readiness not just as a bureaucratic checkbox, but as a strategic advantage in designing executable, scalable acquisition strategies.
 
