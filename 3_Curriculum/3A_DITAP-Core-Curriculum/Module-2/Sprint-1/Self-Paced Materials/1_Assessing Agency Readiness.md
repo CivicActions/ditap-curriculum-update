@@ -25,7 +25,7 @@ By the end of this module, participants will be able to:
 
 To effectively lead innovation, you must first know your agency’s current stance and how ready it is for change. This activity will help you tailor your efforts to productively lead change. The survey is intended to help you take a “pulse check” of your agency; it is not intended to be a comprehensive or formal evaluation of change. However, take time to complete it and gather data to inform your answers where appropriate.
 
-The Change and Innovation Readiness Survey will be completed during an in-class session, followed by a discussion. 
+> The Change and Innovation Readiness Survey will be completed during an in-class session, followed by a discussion. 
 
 Please read the following to assist you in the completion of this activity:
 
