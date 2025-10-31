@@ -142,4 +142,4 @@ Please include the date of your interview and an overview of what you discussed.
 To consider this activity completed, you’ll need to adequately prepare for and complete interviews with 2-4 influencer/gatekeepers at your agency and share insights through a written assignment submitted through the Learning Portal.
 
 ## Conclusion
->You’ve completed Sprint 2 of Module 1! Please close this window to return to the course main page, then select Mark Complete to record your progress.
+>You’ve completed Sprint 2 of Module 2! Please close this window to return to the course main page, then select Mark Complete to record your progress.
