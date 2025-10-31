@@ -480,6 +480,7 @@ This combination is particularly valuable in the federal context. It allows agen
 **Playbook integration:** Federal teams use HCD to **guide direction** and DevSecOps to **power execution**, ensuring that services are aligned with user needs while being scalable and secure.
 
 ## Knowledge check 
+> Note: Knowledge checks are designed to help you gauge your understanding of the material. They do not impact your overall grade. Use them as a low-stakes way to test your knowledge, reflect on key concepts, and identify areas you may want to review.
 
 Prompt: You’re working with a federal team building a new mobile app for Veterans to track their healthcare appointments.
 
@@ -495,7 +496,7 @@ Which approach should you prioritize first?
 
 ## Digital service delivery providers - Sources of supply  
 
-### **The government ecosystem**
+### The government ecosystem
 
 Many federal agencies now have internal digital service teams dedicated to transforming and modernizing digital services. One example is the U.S. DOGE Service (USDS), which focuses on building human-centered, Agile digital services, often in collaboration with agency teams and external partners. 
 
@@ -512,7 +513,7 @@ These teams play a critical role in:
 
 How do these government teams collaborate with external vendors? What role do they play in improving digital service delivery?
 
-### **The private sector landscape**
+### The private sector landscape
 
 The private sector plays a crucial role in federal digital service delivery. A growing ecosystem of vendors, from large legacy firms to nimble digital agencies, provides a wide array of services such as research, design, development, and operations. These companies offer essential capacity and expertise, particularly in areas that require specialized talent or rapid scaling.
 
@@ -528,7 +529,7 @@ These suppliers include:
 * **Internal digital service teams** aren’t vendors per se, but intra-agency service providers supporting mission delivery.
 * **Public-private partnerships** are long-term collaborations between agencies and private companies to achieve defined goals.
 
-### **The growing digital service supplier community**
+### The growing digital service supplier community
 
 An increasing number of firms specialize in digital service delivery and either work regularly with public sector organizations and/or are seeing opportunities to perform work in this area. The [Digital Service Coalition](https://digitalservicescoalition.org/) includes a large number of companies in its membership that provide digital services today. 
 
