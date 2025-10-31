@@ -247,12 +247,15 @@ You may be operating on outdated or inappropriate standards for a particular dig
 On the other hand, if you know of a standard or requirement (e.g., Federal Risk and Authorization Management Program (FedRAMP)) for an upcoming acquisition, why not publish it ahead of time rather than only include it in solicitations? Make the standards known to industry as far in advance as possible so they may incorporate them into their commercial products and other offerings.
 
 ### Knowledge check
+> Note: Knowledge checks are designed to help you gauge your understanding of the material. They do not impact your overall grade. Use them as a low-stakes way to test your knowledge, reflect on key concepts, and identify areas you may want to review.
+
 Answering questions about a potential acquisition from vendors before a solicitation is released may result in:  
 
 - [[ ]] A. Delays and extensions to the due date
-- [[X]] B. Better bids (correct)
+- [[X]] B. Better bids
 - [[ ]] C. Charges of unethical behavior
-- [[X]] D. Lower costs (correct)
+- [[X]] D. Lower costs
+[[?]] Consider how early communication (within ethical boundaries) can help vendors better understand your needs.
 
 ## How to communicate effectively 
 
@@ -523,13 +526,11 @@ By designing the market research around demonstration rather than documentation,
 
 These scenarios underscore the importance of thoughtful market research design. By considering the burdens placed on vendors, especially small and non-traditional ones, agencies can foster greater participation, encourage innovation, and ultimately procure more effective solutions.
 
-## Conclusion 
-
-### Applying human-centered design to market research in federal acquisition
+## Applying human-centered design to market research in federal acquisition
 
 Human-centered design (HCD) isn’t just for product development, it can (and should) be applied to the acquisition process, especially in the critical early stage of market research. We can build a more effective and inclusive buying process by centering the needs, behaviors, and constraints of the vendor community, procurement staff, and program stakeholders.
 
-#### Start with empathy—even after the RFI closes
+### Start with empathy—even after the RFI closes
 
 Most government RFIs go out with little follow-up or feedback once the window closes. But this is a missed opportunity for learning. Using HCD principles, we should treat RFIs as two-way engagements, not just data collection exercises.
 
@@ -598,4 +599,7 @@ OMB has outlined [specific steps for obtaining and utilizing](https://obamawhite
 
 Finally, join the discussion below by responding to the following question (optional):
 
-How do you see pre-solicitation communication as essential to acquiring digital services? Provide an example of a situation in which communicating with vendors before solicitation significantly impacted the outcome.  
+How do you see pre-solicitation communication as essential to acquiring digital services? Provide an example of a situation in which communicating with vendors before solicitation significantly impacted the outcome. 
+
+## Conclusion
+>You’ve completed Sprint 4 of Module 2! Please close this window to return to the course main page, then select Mark Complete to record your progress.
