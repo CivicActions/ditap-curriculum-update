@@ -303,6 +303,7 @@ We curated the following readings to help you dive deeper into the world of digi
 
 This article provides a compelling look at how the U.S. Digital Service has evolved over the past decade, highlighting its role in transforming government services through technology and human-centered design, and outlining how it plans to build on that impact in the years ahead.
 
+>You’ve completed Sprint 1 of Module 1! Please close this window to return to the course main page, then select Mark Complete to record your progress.
 
 
 
