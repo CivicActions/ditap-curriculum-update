@@ -121,25 +121,13 @@ In short, evaluation criteria are not a formality; they are a strategic tool for
 
 The Revolutionary FAR Overhaul's updated FAR Part 39 introduces specific evaluation requirements for Information and Communication Technology acquisitions:
 
-**Performance-based evaluation requirements**:
-- Vendors must provide verifiable evidence of success in delivering performance-based outcomes, not just individual qualifications or capabilities statements
-- Evaluation criteria should assess demonstrated results from similar ICT implementations
-- Focus on measurable outcomes such as system performance improvements, user adoption rates, or operational efficiency gains
+| **Consideration** | **Details** |
+|--------------------|-------------|
+| **Performance-based evaluation requirements** | - Vendors must provide verifiable evidence of success in delivering performance-based outcomes, not just individual qualifications or capabilities statements<br>- Evaluation criteria should assess demonstrated results from similar ICT implementations<br>- Focus on measurable outcomes such as system performance improvements, user adoption rates, or operational efficiency gains |
+| **Expanded ICT scope evaluation** | - Assess vendor experience across the full ICT spectrum: traditional IT, Internet of Things devices, emerging technologies, and operational technology<br>- Evaluate vendor adaptability to integrate multiple technology domains within a single solution<br>- Consider vendor approaches to technology convergence and cross-domain security |
+| **Personnel qualification assessment** | - Unlike previous restrictions, agencies may now evaluate specific educational and experience requirements for proposed contractor personnel<br>- Assess the adequacy of proposed team qualifications against minimum requirements specified in the solicitation<br>- Evaluate vendor ability to maintain qualified personnel throughout contract performance |
+| **Security and compliance evaluation** | - Assess vendor compliance capabilities under FAR subpart 4.19 and FAR 52.204-21 for safeguarding contractor information systems<br>- Evaluate vendor experience with Controlled Unclassified Information (CUI) handling requirements<br>- Consider vendor security frameworks for Internet of Things and operational technology environments |
 
-**Expanded ICT scope evaluation**:
-- Assess vendor experience across the full ICT spectrum: traditional IT, Internet of Things devices, emerging technologies, and operational technology
-- Evaluate vendor adaptability to integrate multiple technology domains within a single solution
-- Consider vendor approaches to technology convergence and cross-domain security
-
-**Personnel qualification assessment**:
-- Unlike previous restrictions, agencies may now evaluate specific educational and experience requirements for proposed contractor personnel
-- Assess the adequacy of proposed team qualifications against minimum requirements specified in the solicitation
-- Evaluate vendor ability to maintain qualified personnel throughout contract performance
-
-**Security and compliance evaluation**:
-- Assess vendor compliance capabilities under FAR subpart 4.19 and FAR 52.204-21 for safeguarding contractor information systems
-- Evaluate vendor experience with Controlled Unclassified Information (CUI) handling requirements
-- Consider vendor security frameworks for Internet of Things and operational technology environments
 
 ## III. Selecting appropriate evaluation criteria
 
@@ -162,9 +150,10 @@ Selecting the right evaluation criteria is both a technical and strategic task. 
 
 In agile environments, where collaboration, adaptability, and working software are paramount, evaluation criteria should reward vendors who demonstrate team maturity, technical fluency, and alignment with end-user needs, preferably in real time through oral presentations or working prototypes.
 
->Note to Vendors: The following two appendices may also be shared as optional in-class handouts to support continued learning and student reference beyond the session.
+
 
 ### APPENDIX A: Comparative evaluation model for RFPs
+>The following two appendices can be used to support continued learning and reference.
 
 **I. Introduction: A model for comparative evaluation of vendor proposals.**
 
@@ -376,7 +365,7 @@ It is important to note that negotiations are not necessarily about obtaining th
 
 An agency requires a sensor that uses new, cutting-edge technology. The agency anticipates a high level of performance risk; therefore, while price is an important factor, the focus of negotiations will be on technical factors and expertise. The negotiations may involve tradeoffs among price, reducing performance risk, or achieving a higher level of performance. 
 
-> **A note about using price effectively in proposal evaluations:**
+> **A note about using price effectively in proposal evaluations (see below):**
 
 In digital service acquisitions, price should be evaluated as part of a broader assessment, not in isolation. The lowest price does not always represent the best value, especially when high-quality talent and iterative problem-solving are essential. Instead, price should serve as a check on the vendor's understanding of the work and their ability to deliver effectively.
 
@@ -449,9 +438,9 @@ To attain the best possible overall solution, negotiations often involve tradeof
 
 * Identify and document any deficiencies and significant weaknesses that need to be discussed with the offeror. 
 
-  o   A “deficiency” is a material failure of a proposal to meet a Government requirement, or a combination of significant weaknesses in a proposal that increases the risk of unsuccessful contract performance to an unacceptable level.
+A “deficiency” is a material failure of a proposal to meet a Government requirement, or a combination of significant weaknesses in a proposal that increases the risk of unsuccessful contract performance to an unacceptable level.
 
-  o   A “significant weakness” is a flaw that appreciably increases the risk of unsuccessful contract performance. The CO should consider discussing any weakness that, if addressed, could materially enhance:
+A “significant weakness” is a flaw that appreciably increases the risk of unsuccessful contract performance. The CO should consider discussing any weakness that, if addressed, could materially enhance:
 
   1. The proposal’s potential for award; and  
   2. The likelihood of the Government receiving the best possible solution.
@@ -535,107 +524,94 @@ Here are several readings to help further your understanding of this process, as
 
 
 ---
-## Knowledge check: Neogtiating with vendors
+## Knowledge check: Negotiating with vendors
+> Note: Knowledge checks are designed to help you gauge your understanding of the material. They do not impact your overall grade. Use them as a low-stakes way to test your knowledge, reflect on key concepts, and identify areas you may want to review.
 
 1\. True or False
 
 **Statement:**  
 In digital service acquisitions, it’s usually a waste of time to open negotiations with vendors early in the process.
 
-- [ ] True  
-- [x] False
+- [[ ]] True  
+- [[x]] False
+[[?]] Early negotiations help clarify assumptions, build trust, and shape stronger outcomes.
 
-> Correct! Early negotiations help clarify assumptions, build trust, and shape stronger outcomes.
+2\. Scenario-based multiple choice
 
-2\. Scenario-Based Multiple Choice
+Choose the best response. 
 
 **Question:**  
 During a code challenge, a top vendor assumed and proposed the use of a commercial cloud service that doesn’t meet FedRAMP requirements. What should the agency do next?
 
-- [ ] Eliminate the vendor immediately  
-- [ ] Ask for a new full proposal  
-- [x] Open discussions to clarify assumptions and allow revision  
-- [ ] Ignore it and continue
+- [[ ]] Eliminate the vendor immediately  
+- [[ ]] Ask for a new full proposal  
+- [[x]] Open discussions to clarify assumptions and allow revision  
+- [[ ]] Ignore it and continue
+[[?]] Clarifying assumptions and offering revision opportunities supports a fair and informed evaluation process.
 
-> Correct! Clarifying assumptions and offering revision opportunities supports a fair and informed evaluation process.
+3\. Match the terms
 
-3\. Match the Terms 
-
-Match each term to its correct definition by writing the matching letter next to the number.
-
-**Terms:**
+Match each term to its correct definition by selecting the correct letter for each number.
 
 1. Clarifications  
 2. Communications  
 3. Negotiations  
 4. Best Value
 
+A. Discussions that allow vendors to revise proposals <br>
+B. Limited exchanges to fix minor errors (no proposal changes)<br>
+C. Offer that provides the greatest advantage based on price and technical merit<br>
+D. Exchanges to determine competitive range (no proposal changes)<br>
 
-**Definitions:**
+- [[A] [B] [C] [D]]
+- [ ( ) (X) ( ) ( ) ]  1. Clarifications 
+- [ ( ) ( ) ( ) (X) ]  2. Communications
+- [ (X) ( ) ( ) ( ) ]  3. Negotiations
+- [ ( ) ( ) (X) ( ) ]  4. Best Value
+[[?]]Think about the purpose of each interaction in the procurement process.  <br>- *Clarifications* are meant to fix small errors without changing proposals.  <br> - *Communications* help determine who is in the competitive range. <br> - *Negotiations* allow vendors to revise and improve their proposals.  <br> - *Best Value* is about selecting the offer that balances price and quality for the greatest overall advantage.  
 
-A. Discussions that allow vendors to revise proposals
-B. Limited exchanges to fix minor errors (no proposal changes)
-C. Offer that provides the greatest advantage based on price and technical merit
-D. Exchanges to determine competitive range (no proposal changes)
 
 
-**Your Answers:**
 
-1. ---
+4\. Select all that apply
 
-2. ---
+**What are the benefits of negotiating early in digital services procurements?**
 
-3. ---
+Choose all that apply.
 
-4. ---
+- [[x]] Prevents misunderstandings  
+- [[ ]] Automatically reduces price  
+- [[x]] Builds vendor trust  
+- [[x]] Helps clarify technical assumptions  
+- [[ ]] Avoids needing any evaluation
+[[?]] Early negotiation builds shared understanding and helps align expectations.
 
-Correct Answers:
 
-1. B
+---
 
-2. D
+The following two questions are for your personal reflection. No input is necessary here. 
 
-3. A
-
-4. C
-
-4\. Reflection Prompt
+5\. Reflection prompt
 
 **Think of a time when expectations weren’t clear during a collaboration:**
 
 - What happened as a result?  
 - How might early communication or negotiation have helped?
 
-*Your response:*  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
-5\. Select All That Apply
-
-**What are the benefits of negotiating early in digital services procurements?**
-
-- [x] Prevents misunderstandings  
-- [ ] Automatically reduces price  
-- [x] Builds vendor trust  
-- [x] Helps clarify technical assumptions  
-- [ ] Avoids needing any evaluation
-
-> Correct! Early negotiation builds shared understanding and helps align expectations.
-
-6\. Short Answer – Reflection
+6\. Reflection prompt
 
 **Prompt:**  
+
 Your team is preparing for negotiations. Based on what you’ve learned, name *two things* the team should do before the session.
 
-Your Response:
 
-1\.  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
-
-2\.  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
 ## The art of the post-evaluation feedback in digital services procurements
 
 Generally, offerors spend a considerable amount of time and money to bid on a contract. When they are unsuccessful, they deserve to know why. Post-evaluation feedback is a critical part of this process.
 
-Quality feedback, whether through a formal debrief or informal explanation, helps companies learn, improve future bids, and strengthens trust between government and industry, especially in digital service acquisitions.
+Quality feedback, whether through a formal debrief or informal explanation, helps companies learn, improves future bids, and strengthens trust between government and industry, especially in digital service acquisitions.
 
 **Learning objectives**
 
