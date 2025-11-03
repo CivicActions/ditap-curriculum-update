@@ -113,12 +113,12 @@ AI tools can help ensure compliance with FAR Part 39 requirements by automating 
 
 U.S. Federal policy has rapidly evolved to support the responsible use of AI in procurement and acquisition. 
 
-### Executive Orders
+#### Executive Orders
 
 * [EO 14179 (Jan 2025\)*: *Removing Barriers to American Leadership in AI](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/) revokes EO 14110 and orders the federal government to modernize its AI acquisition and governance practices. It directs agencies to streamline AI procurement and issue a national AI action plan. 
 * [AI Action Plan (July 2025\)*: *Winning the Race: America’s AI Action Plan](https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/) outlines how federal agencies will support infrastructure, workforce development, procurement reform, and cross-agency collaboration to accelerate AI use across government.
 
-### FAR Updates: Parts 6 & 39
+#### FAR Updates: Parts 6 & 39
 
 The Federal Acquisition Regulation has been updated to address AI procurement and competition requirements:
 
@@ -142,7 +142,7 @@ Updates to FAR Part 6 address how AI tools can enhance and complicate competitio
 - Small business considerations: Specific provisions to ensure small businesses can compete effectively in AI acquisitions through appropriate requirement structuring and evaluation methodologies.
 
 
-### OMB guidance
+#### OMB guidance
 
 * [M-25-21](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf) & [M-25-22](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf) (April 2025\): Replaces earlier guidance with updated requirements on identifying “high-impact” AI use cases, enforcing human oversight, and prioritizing open, fair, and responsible AI contracting practices. 
 
@@ -157,7 +157,7 @@ Key changes affecting AI procurement include:
 - **Performance-Based Focus**: FAR Part 39 now requires contractors to provide evidence of success in delivering performance-based outcomes for ICT services. 
 - **Enhanced Accessibility Requirements**: FAR Part 39 strengthens the mandate for accessibility compliance, requiring additional administrative effort and human capital specialists for Section 508 requirements. 
 
-### Federal AI use case inventory
+#### Federal AI use case inventory
 
 A comprehensive inventory of AI use across the federal government gives insight into how agencies are applying AI now (as of January 23, 2025):
 
@@ -194,7 +194,7 @@ Efforts are underway to examine the use of AI in developing and writing an acqui
 * **White House**. [*America’s AI Action Plan* (Jul 2025)](https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/)
 * **OMB**. *[M-25-21](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf) & [M-25-22](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf)*
 
-## Discussion (optional):
+## Discussion (optional)
 
 How should AI influence acquisition strategy development? 
 
