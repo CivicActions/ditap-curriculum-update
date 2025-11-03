@@ -163,6 +163,7 @@ Practical tools and templates
 
 **Instructions:** For each question, select all answer(s) that apply. Some questions may have more than one correct answer.
 
+1\. Multiple choice
 
 **What is the primary purpose of Sprint 0 in an Agile federal contract?**
 
@@ -174,7 +175,7 @@ Practical tools and templates
 
 ---
 
-2\. Multiple Choice
+2\. Multiple choice
 
 **What is a primary reason for slowdowns during the early sprints of a project?**
 
@@ -186,7 +187,7 @@ Practical tools and templates
 
 ---
 
-3\. Select All That Apply
+3\. Select all that apply
 
 **What should be covered during the contract kickoff meeting?**
 
@@ -202,7 +203,7 @@ Practical tools and templates
 
 ---
 
-4\. Multiple Choice
+4\. Multiple choice
 
 **Which responsibility falls under COR/CO oversight in cloud provisioning contracts?**
 
@@ -214,7 +215,7 @@ Practical tools and templates
 
 ---
 
-5\. Multiple Choice
+5\. Multiple choice
 
 **What should be included in a breach escalation SOP for a cloud contract?**
 
