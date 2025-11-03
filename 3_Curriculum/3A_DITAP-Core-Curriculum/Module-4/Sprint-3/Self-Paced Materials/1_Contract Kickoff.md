@@ -17,21 +17,21 @@ Agile delivery doesn't reach peak velocity immediately. The baselining period, d
 
 Contributing Factors:
 
-* Team Dynamics: Vendor teams enter new contexts with different Product Owners, agency processes, tools, and stakeholders, requiring adjustment time.  
-* Velocity Calibration: Teams use estimation techniques like story points to forecast delivery, but initial estimates gain accuracy only after several sprints build shared understanding.  
-* Environment Integration: Teams familiarize themselves with agency-specific workflows, internal rules, stakeholder coordination, and approval processes.
+* Team dynamics: Vendor teams enter new contexts with different Product Owners, agency processes, tools, and stakeholders, requiring adjustment time.  
+* Velocity calibration: Teams use estimation techniques like story points to forecast delivery, but initial estimates gain accuracy only after several sprints build shared understanding.  
+* Environment integration: Teams familiarize themselves with agency-specific workflows, internal rules, stakeholder coordination, and approval processes.
 
 --- 
 
 ## Establishing productive baseline metrics
 
-**Velocity Tracking:** Calculate team velocity (in story points per sprint) after the first sprint and use the trends to forecast future delivery capacity.
+**Velocity tracking:** Calculate team velocity (in story points per sprint) after the first sprint and use the trends to forecast future delivery capacity.
 
-**Quality Measurement:** Set initial expectations for acceptable work quality during early sprints, with clear plans to elevate standards as teams mature.
+**Quality measurement:** Set initial expectations for acceptable work quality during early sprints, with clear plans to elevate standards as teams mature.
 
-**Performance Documentation:** CORs and Product Owners should track sprint-level observations, noting patterns like repeated delays, unclear requirements, missed Definition of Done criteria, or skills gaps that indicate systemic issues requiring adjustment.
+**Performance documentation:** CORs and Product Owners should track sprint-level observations, noting patterns like repeated delays, unclear requirements, missed Definition of Done criteria, or skills gaps that indicate systemic issues requiring adjustment.
 
-**Risk Signals Requiring Action**
+**Risk signals requiring action**
 
 * Consistent failure to improve between iterations due to identical blockers  
 * Team roles or skill sets are not functioning as intended  
@@ -44,26 +44,26 @@ Address these signals promptly by referring to contract scope definitions, accep
 
 ## Strategic Sprint 0 management
 
-**What Sprint 0 Accomplishes**
+**What Sprint 0 accomplishes**
 
 Sprint 0 represents a preparatory period before formal delivery sprints begin. Rather than a traditional sprint with a full backlog and deliverables, it functions as a setup phase, laying the foundation for productive, iterative work. In federal digital service contracts, Sprint 0 proves especially critical for navigating logistical and administrative tasks that must be completed before teams begin full delivery.
 
 ### Essential Sprint 0 activities
 
-**Administrative Setup:**
+**Administrative setup:**
 
 * Onboard vendor team members (clearances, accounts, credentials)  
 * Configure Government-Furnished Equipment, system access, and collaboration tools  
 * Establish shared working environments (ticketing systems, version control, communication platforms)
 
-**Project Foundation:**
+**Project foundation:**
 
 * Conduct comprehensive kickoff meetings and contract orientation. 
 * Define initial product vision and delivery roadmap.
 * Plan and schedule Agile ceremonies and team rhythms.  
 * Align on the Definition of Done, backlog structure, and performance documentation standards.
 
-**Discovery and Planning:**
+**Discovery and planning:**
 
 * Run discovery or design sprints to inform backlog creation.
 * Conduct stakeholder interviews and technical environment assessment.  
@@ -73,13 +73,13 @@ Sprint 0 represents a preparatory period before formal delivery sprints begin. R
 
 ### Minimizing Sprint 0 duration and maximizing value
 
-**Pre-Planning Strategies:**
+**Pre-planning strategies:**
 
-1. **Build Realistic Onboarding Assumptions**: Include accurate timelines for clearances, credentials, and GFE delivery in performance schedules.
-2. **Identify Parallel Pre-Access Work:** Determine tasks that contractors can complete without full access, such as research, documentation review under NDAs, design concepts, or setting up a development environment in the contractor's space.  
-3. **Negotiate Shadow Access Arrangements:** Allow vendor staff to observe government team meetings or tool demonstrations while awaiting full access approvals.  
-4. **Start with Discovery Sprints:** If delivery faces delays, begin with research sprints to clarify user needs, stakeholder landscape, and technical constraints, which will inform backlog creation.  
-5. **Leverage Contractor-Hosted Environments**: Allow vendors to build in secure contractor environments with transition plans to government-approved infrastructure once approvals are complete.
+1. **Build realistic onboarding assumptions**: Include accurate timelines for clearances, credentials, and GFE delivery in performance schedules.
+2. **Identify parallel pre-access work:** Determine tasks that contractors can complete without full access, such as research, documentation review under NDAs, design concepts, or setting up a development environment in the contractor's space.  
+3. **Negotiate shadow access arrangements:** Allow vendor staff to observe government team meetings or tool demonstrations while awaiting full access approvals.  
+4. **Start with discovery sprints:** If delivery faces delays, begin with research sprints to clarify user needs, stakeholder landscape, and technical constraints, which will inform backlog creation.  
+5. **Leverage contractor-hosted environments**: Allow vendors to build in secure contractor environments with transition plans to government-approved infrastructure once approvals are complete.
 
 Sprint 0 establishes a foundation for Agile success by ensuring that the right people, tools, access, and expectations are aligned before productive work begins. Strategic planning and parallel activities prevent frustration while positioning teams for faster, smoother delivery starts.
 
@@ -91,7 +91,7 @@ Sprint 0 establishes a foundation for Agile success by ensuring that the right p
 
 The contract kickoff focuses on the business and contractual framework governing the project. The Contracting Officer and the Contracting Officer's Representative typically co-lead this session, with vendor teams providing solution overviews, and all parties reviewing the shared responsibilities and success criteria.
 
-**Contract Kickoff Topics:**
+**Contract kickoff topics:**
 
 * Scope of the awarded contract and performance constraints  
 * Proposed methods and processes that the contractor will implement  
@@ -102,14 +102,14 @@ The contract kickoff focuses on the business and contractual framework governing
 * Invoicing procedures, funding checkpoints, and payment schedules  
 * Outstanding assumptions and clarifications not addressed during solicitation
 
-**Contract Kickoff Outcomes:** Establish a shared understanding of the formal obligations, timelines, and administrative expectations outlined in the awarded contract, ensuring all parties understand the success criteria and accountability frameworks.
+**Contract kickoff outcomes:** Establish a shared understanding of the formal obligations, timelines, and administrative expectations outlined in the awarded contract, ensuring all parties understand the success criteria and accountability frameworks.
 
 
 ### The technical kickoff
 
 The technical kickoff shifts focus from contract mechanics to day-to-day execution of Agile delivery. The Product Owner and the vendor's Technical Lead/Scrum Master typically co-lead this session with COR support and participation from the entire vendor delivery team.
 
-**Technical Kickoff Topics:**
+**Technical kickoff topics:**
 
 * Agreement on the Definition of Done for user stories and acceptance criteria  
 * Sprint schedule and cadence (planning, demos, retrospectives, stakeholder reviews)  
@@ -122,7 +122,7 @@ The technical kickoff shifts focus from contract mechanics to day-to-day executi
 
 Technical Kickoff Outcomes: Align teams on collaborative software delivery approaches, work acceptance procedures, and sprint-by-sprint progress measurement, creating an operational foundation for productive iterations.
 
-**Shared Success Elements**
+**Shared success elements**
 
 Both kickoff meetings require:
 
@@ -135,23 +135,23 @@ Both kickoff meetings require:
 
 ### Key takeaways
 
-1. Invest in Foundation Setting: Effective kickoff processes and Sprint 0 planning prevent downstream delivery issues and relationship problems while accelerating productive work.  
-2. Separate Business and Technical Concerns: Distinct contractual and technical kickoff meetings ensure appropriate stakeholder engagement and role clarity for complex digital service delivery.  
-3. Embrace Modern Cloud Oversight: FedRAMP 20x changes necessitate updated contract administration approaches that emphasize agency responsibility and automated validation, rather than centralized oversight.  
-4. Plan for Learning Curves: Expect and plan for 3-6 month baselining periods where teams establish effective working relationships and delivery rhythms before achieving peak performance.  
-5. Create Collaborative Performance Culture: Structure performance monitoring to encourage shared problem-solving and continuous improvement rather than adversarial vendor management.
+1. **Invest in foundation setting:** Effective kickoff processes and Sprint 0 planning prevent downstream delivery issues and relationship problems while accelerating productive work.  
+2. **Separate business and technical concerns:** Distinct contractual and technical kickoff meetings ensure appropriate stakeholder engagement and role clarity for complex digital service delivery.  
+3. **Embrace modern cloud oversight:** FedRAMP 20x changes necessitate updated contract administration approaches that emphasize agency responsibility and automated validation, rather than centralized oversight.  
+4. **Plan for learning curves:** Expect and plan for 3-6 month baselining periods where teams establish effective working relationships and delivery rhythms before achieving peak performance.  
+5. **Create collaborative performance culture:** Structure performance monitoring to encourage shared problem-solving and continuous improvement rather than adversarial vendor management.
 
 --- 
 
 ### Additional resources
 
-Federal Guidance and Best Practices
+Federal guidance and best practices
 
 * [TechFAR Hub: Contract Types for Agile Development](https://techfarhub.usds.gov/solicitation/contract-design/)  
 * [FedRAMP 20x Initiative Overview](https://www.fedramp.gov/2025-03-24-FedRAMP-in-2025/)  
 * [FAI Agile Acquisitions Training Materials](https://www.fai.gov/content/transcript-agile-acquisitions-101)
 
-Practical Tools and Templates
+Practical tools and templates
 
 * [Cloud Contract Oversight Checklist](https://www.fedramp.gov/rev5/cloud-service-providers/)  
 * [Agile Performance Metrics Framework](https://techfarhub.usds.gov/resources/learning-center/sample-language-for-government-contracts/)
@@ -247,7 +247,7 @@ These resources reflect the significant changes in federal cloud policy followin
 
 This foundational reading outlines FedRAMP's strategic transformation to support modern cloud procurement. The document explains how automated authorization processes, risk-based security controls, and commercial-first policies are reshaping federal cloud adoption. It emphasizes the shift from government-specific cloud offerings to leveraging commercial platforms that achieve FedRAMP compliance.
 
-**Key Takeaways to Address:**
+**Key takeaways to address:**
 
 * How do automated authorization processes change traditional procurement timelines and vendor evaluation criteria?  
 * What are the implications of transitioning from government-specific to commercial cloud offerings for contract terms and vendor management?  
@@ -259,10 +259,10 @@ This foundational reading outlines FedRAMP's strategic transformation to support
 
 This reading introduces the FedRAMP 20x initiative, which represents a fundamental shift toward cloud-native, automated authorization processes. The document outlines how machine-readable security assessments and API-driven workflows can reduce authorization timeframes from months to weeks while maintaining rigorous security standards.
 
-**Key Takeaways to Address:**
+**Key takeaways to address:**
 
 * How should procurement strategies differ when targeting FedRAMP 20x versus traditional authorization pathways?  
-* What new vendor evaluation criteria become important in automated authorization environments?  
+* What new vendor evaluation criteria have become important in automated authorization environments?  
 * How can acquisition professionals structure contracts to take advantage of faster authorization cycles while managing implementation risks?
 
 ---
@@ -271,7 +271,7 @@ This reading introduces the FedRAMP 20x initiative, which represents a fundament
 
 This comprehensive strategy document provides the policy foundation for federal cloud adoption, emphasizing security, procurement, and workforce development. It outlines the "solve before buy" approach that replaces traditional procurement methods with outcome-focused acquisition strategies.
 
-**Key Takeaways to Address:**
+**Key takeaways to address:**
 
 * How does the "solve before buy" methodology change requirements development and market research approaches?  
 * What role should DevSecOps and continuous delivery practices play in cloud service procurement and contract management?  
@@ -283,7 +283,7 @@ This comprehensive strategy document provides the policy foundation for federal 
 
 This reading provides essential background on the rapidly expanding XaaS market, which reached $328 billion globally in 2024\. It covers the full spectrum of service models from traditional SaaS/PaaS/IaaS to emerging categories like AI-as-a-Service and Function-as-a-Service that are becoming critical to federal digital transformation.
 
-**Key Takeaways to Address:**
+**Key takeaways to address:**
 
 * How should acquisition professionals evaluate the proliferation of specialized XaaS offerings (AI-as-a-Service, Edge-as-a-Service, etc.) for government applications?  
 * What procurement strategies help agencies manage vendor ecosystems when multiple XaaS providers must work together? 
@@ -295,7 +295,7 @@ This reading provides essential background on the rapidly expanding XaaS market,
 
 This practical resource provides actionable guidance and sample contract language for modern cloud and digital service procurements. It reflects lessons learned from successful federal implementations and addresses common challenges in vendor management, performance measurement, and risk mitigation.
 
-**Key Takeaways to Address:**
+**Key takeaways to address:**
 
 * What contract terms and performance metrics are most effective for managing cloud service providers in government contexts?  
 * How can acquisition professionals structure pricing models that align vendor incentives with government efficiency and mission success?  
@@ -305,7 +305,7 @@ This practical resource provides actionable guidance and sample contract languag
 
 ### Supplementary resources
 
-**Case Study Resource: [Library of Congress Agile System Development Support Services](https://www.govconwire.com/2025/02/8-vendors-library-of-congress-contract-agile-development-support/)**
+**Case Study resource: [Library of Congress Agile System Development Support Services](https://www.govconwire.com/2025/02/8-vendors-library-of-congress-contract-agile-development-support/)**
 
 This recent $450 million multiple-award contract provides a real-world example of how agencies are structuring modern cloud and Agile development procurements. The contract covers SaaS development, DevOps, cloud integration, and user experience design services.
 
@@ -320,37 +320,29 @@ The official marketplace provides current information on FedRAMP-authorized clou
 ---
 
 ## Discussion prompt (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS.
 
-Based on the cloud and XaaS procurement readings, prepare to engage with the following questions in our discussion forum:
 
-**Strategic Questions:**
+Based on the cloud and XaaS procurement readings, reflect on the following questions:
+
+**Strategic questions:**
 
 1. How do the automated authorization processes in FedRAMP 20x change the traditional procurement planning timeline, and what new skills must acquisition professionals develop to be effective in this environment?  
 2. Given the shift toward commercial cloud platforms, how should agencies balance the benefits of proven commercial solutions with the need for government-specific security and functionality requirements?
 
-**Practical Application Questions:** 
+**Practical application questions:** 
 
 3. When procuring services that span multiple XaaS categories (SaaS applications, PaaS development platforms, IaaS infrastructure), what contract structures and vendor management approaches are most effective for ensuring integration and performance?
 
 4. How can acquisition professionals structure performance-based contracts for cloud services that encourage innovation and continuous improvement while maintaining predictable costs and clear accountability?
 
-**Risk Management Questions:** 
+**Risk Management questions:** 
 
 5. What strategies help agencies avoid vendor lock-in while still leveraging the full benefits of integrated cloud platforms and XaaS ecosystems?
 
 6. How should data sovereignty, portability, and exit planning requirements be structured in XaaS contracts to protect government interests without limiting vendor innovation?
 
-**Assignment Requirements**
 
-**Due Date:** Your discussion board contributions are due by the end of this module.
 
-**Definition of Done:**
-
-* Post your initial response addressing at least two of the discussion questions above.  
-* Reference specific concepts and recommendations from the required readings.  
-* Respond to at least two classmates' posts with substantive analysis and additional insights.  
-* Connect the reading concepts to real-world federal procurement scenarios you've encountered or researched.
 
 
 
