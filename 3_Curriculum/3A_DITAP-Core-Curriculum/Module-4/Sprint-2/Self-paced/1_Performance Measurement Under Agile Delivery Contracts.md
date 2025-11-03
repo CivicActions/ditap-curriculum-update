@@ -222,17 +222,17 @@ Choose a digital service your agency currently uses or is developing. This servi
    
    * What does it do, and who uses it?  
    * What mission outcome does it support?  
-3. **Select Metrics**
+2. **Select Metrics**
    
    * Choose from the metrics covered in this module  
    * Explain why each metric would be valuable for this specific service  
    * Consider both technical and user-centered metrics  
-5. **Design Incentive Structure**
+3. **Design Incentive Structure**
    
    * Create one monetary and one non-monetary incentive  
    * Explain how each incentive would motivate better performance  
    * Consider how to measure success fairly  
-7. **Implementation Plan**
+4. **Implementation Plan**
    
    * How would you collect and verify the metrics?  
    * What tools would you use?  
@@ -526,13 +526,12 @@ When you see these signs, step back and assess whether your coordination structu
 
 ---
 
+The following question is for your personal reflection. No input is necessary here.
+
 4\. Short Answer
 
 **Imagine you are reviewing a recurring delivery issue that impacted three vendors. What’s the best next step?**
 
-*Your Response:*  
-
-[[solution                                                        ]]
 [[?]]Example of one acceptable answer: Host a joint root cause analysis to understand what happened and agree on system-level improvements.  **Tip:** Look for systemic issues rather than blaming individual vendors. Consider facilitating a retrospective or coordination session to resolve blockers collaboratively.
 
 ---
