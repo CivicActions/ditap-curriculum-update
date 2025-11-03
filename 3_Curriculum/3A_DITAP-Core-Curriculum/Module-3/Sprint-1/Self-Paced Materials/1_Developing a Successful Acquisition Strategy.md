@@ -99,7 +99,7 @@ Let’s look at two examples of how you might re-imagine the various parts of an
 
 How can you integrate the lean canvas tool to your advantage, you ask? Well, you can use them to:  
 
-* **More effectively work with your stakeholders.** As many of you have noted on the discussion boards and in guided learning sessions, the processes and techniques you are learning for digital services acquisition are unfamiliar to many stakeholders. This means you may encounter resistance and sometimes outright hostility to your chosen approach. The lean canvas can help you not only make your case but also provide the vehicle for the required approvals of your acquisition solution.  
+* **More effectively work with your stakeholders.** As you may have noted, the processes and techniques you are learning for digital services acquisition are unfamiliar to many stakeholders. This means you may encounter resistance and sometimes outright hostility to your chosen approach. The lean canvas can help you not only make your case but also provide the vehicle for the required approvals of your acquisition solution.  
 * **Record the “why” of your solution.** You may still need a formal acquisition plan, so base it on your lean canvas tool.  The plan provides the historical record and justification for the acquisition solution in the contract file.
 
 ## Common Risks
