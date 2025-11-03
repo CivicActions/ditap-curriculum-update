@@ -527,20 +527,19 @@ Here are several readings to help further your understanding of this process, as
 ## Knowledge check: Negotiating with vendors
 > Note: Knowledge checks are designed to help you gauge your understanding of the material. They do not impact your overall grade. Use them as a low-stakes way to test your knowledge, reflect on key concepts, and identify areas you may want to review.
 
-1\. True or False
+**1\. True or False**
 
-**Statement:**  
 In digital service acquisitions, it’s usually a waste of time to open negotiations with vendors early in the process.
 
 - [[ ]] True  
 - [[x]] False
 [[?]] Early negotiations help clarify assumptions, build trust, and shape stronger outcomes.
 
-2\. Scenario-based multiple choice
+**2\. Scenario-based multiple choice**
 
 Choose the best response. 
 
-**Question:**  
+Question:  
 During a code challenge, a top vendor assumed and proposed the use of a commercial cloud service that doesn’t meet FedRAMP requirements. What should the agency do next?
 
 - [[ ]] Eliminate the vendor immediately  
@@ -549,7 +548,7 @@ During a code challenge, a top vendor assumed and proposed the use of a commerci
 - [[ ]] Ignore it and continue
 [[?]] Clarifying assumptions and offering revision opportunities supports a fair and informed evaluation process.
 
-3\. Match the terms
+**3\. Match the terms**
 
 Match each term to its correct definition by selecting the correct letter for each number.
 
@@ -573,9 +572,9 @@ D. Exchanges to determine competitive range (no proposal changes)<br>
 
 
 
-4\. Select all that apply
+**4\. Select all that apply**
 
-**What are the benefits of negotiating early in digital services procurements?**
+What are the benefits of negotiating early in digital services procurements?
 
 Choose all that apply.
 
@@ -591,17 +590,17 @@ Choose all that apply.
 
 The following two questions are for your personal reflection. No input is necessary here. 
 
-5\. Reflection prompt
+**5\. Reflection prompt**
 
-**Think of a time when expectations weren’t clear during a collaboration:**
+Think of a time when expectations weren’t clear during a collaboration:
 
 - What happened as a result?  
 - How might early communication or negotiation have helped?
 
 
-6\. Reflection prompt
+**6\. Reflection prompt**
 
-**Prompt:**  
+Prompt: 
 
 Your team is preparing for negotiations. Based on what you’ve learned, name *two things* the team should do before the session.
 
@@ -780,10 +779,15 @@ During the debriefing:
 * Argue or negotiate  
 * Compare vendors directly
 
-## Conclusion
+## Final thoughts
 
 Debriefings can really help shape the way vendors bid on future procurements, as well as give you the opportunity to explain why they didn’t win or what they could do better next time.  Here are several readings to help further your understanding of this process, as well as add new tools to your toolbox:
 
 * [Debriefing Agendas Template](https://github.com/usds/ditap-curriculum-update/blob/fd6dd1f69b160b79d637a71b91e564dd3cd8569e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Template_Debriefing_Agendas.pdf)   
 * [Proposed Debriefing Agenda](https://github.com/usds/ditap-curriculum-update/blob/fd6dd1f69b160b79d637a71b91e564dd3cd8569e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Template_Proposed_Debriefing_Agenda.pdf)   
 * [Sample Debriefing](https://github.com/usds/ditap-curriculum-update/blob/fd6dd1f69b160b79d637a71b91e564dd3cd8569e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Sample_Debriefing.pdf)
+
+## Conclusion 
+
+>You’ve completed Sprint 3 of Module 3! Please close this window to return to the course main page, then select Mark Complete to record your progress.
+
