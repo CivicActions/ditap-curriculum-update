@@ -168,12 +168,11 @@ Practical tools and templates
 
 **What is the primary purpose of Sprint 0 in an Agile federal contract?**
 
-- [ ] To get hands on keyboards and begin sprinting immediately  
-- [x] To complete onboarding, tool access, and roadmap planning  
-- [ ] To allow vendors to bill for unproductive time  
-- [ ] To start user delivery and finalize code acceptance criteria
-
-> Correct! Sprint 0 helps teams get set up, onboarded, and aligned on goals and roadmaps before sprinting begins.
+- [[ ]] To get hands on keyboards and begin sprinting immediately  
+- [[x]] To complete onboarding, tool access, and roadmap planning  
+- [[ ]] To allow vendors to bill for unproductive time  
+- [[ ]] To start user delivery and finalize code acceptance criteria
+[[?]] Sprint 0 helps teams get set up, onboarded, and aligned on goals and roadmaps before sprinting begins.
 
 ---
 
@@ -181,12 +180,11 @@ Practical tools and templates
 
 **What is a primary reason for slowdowns during the early sprints of a project?**
 
-- [ ] Sprint 0 completion without a formal code review  
-- [ ] Delays caused by waiting on final contract signatures  
-- [x] Calibration of team velocity and estimation practices  
-- [ ] Lack of experience with Agile software development methods
-
-> Correct! Teams often need time to calibrate their sprint velocity and estimation methods in the early phases of a project.
+- [[ ]] Sprint 0 completion without a formal code review  
+- [[ ]] Delays caused by waiting on final contract signatures  
+- [[x]] Calibration of team velocity and estimation practices  
+- [[ ]] Lack of experience with Agile software development methods
+[[?]] Teams often need time to calibrate their sprint velocity and estimation methods in the early phases of a project.
 
 ---
 
@@ -194,16 +192,15 @@ Practical tools and templates
 
 **What should be covered during the contract kickoff meeting?**
 
-- [ ] In-depth backlog grooming  
-- [x] Quality Assurance Surveillance Plan (QASP) expectations  
-- [x] Contract success metrics and staffing plans  
-- [ ] Product roadmap refinement and Agile rituals  
-- [x] Escalation procedures and performance management structures  
-- [x] Clarification of assumptions not addressed in the solicitation  
-- [x] Invoicing and funding checkpoints  
-- [ ] Sprint velocity calibration and DoD alignment
-
-> Correct! A strong kickoff should include discussion of QASP expectations, success metrics, escalation procedures, funding checkpoints, and clarifying open questions.
+- [[ ]] In-depth backlog grooming  
+- [[x]] Quality Assurance Surveillance Plan (QASP) expectations  
+- [[x]] Contract success metrics and staffing plans  
+- [[ ]] Product roadmap refinement and Agile rituals  
+- [[x]] Escalation procedures and performance management structures  
+- [[x]] Clarification of assumptions not addressed in the solicitation  
+- [[x]] Invoicing and funding checkpoints  
+- [[ ]] Sprint velocity calibration and DoD alignment
+[[?]] A strong kickoff should include discussion of QASP expectations, success metrics, escalation procedures, funding checkpoints, and clarifying open questions.
 
 ---
 
@@ -211,12 +208,11 @@ Practical tools and templates
 
 **Which responsibility falls under COR/CO oversight in cloud provisioning contracts?**
 
-- [ ] Managing all vendor scrum ceremonies  
-- [x] Monitoring FedRAMP status and breach escalation SOPs  
-- [ ] Conducting backlog refinement with the Product Owner  
-- [ ] Approving every cloud resource provisioned in real time
-
-> Correct! CORs/COs help monitor compliance with FedRAMP and ensure breach SOPs are in place—not manage delivery-level ceremonies.
+- [[ ]] Managing all vendor scrum ceremonies  
+- [[x]] Monitoring FedRAMP status and breach escalation SOPs  
+- [[ ]] Conducting backlog refinement with the Product Owner  
+- [[ ]] Approving every cloud resource provisioned in real time
+[[?]] CORs/COs help monitor compliance with FedRAMP and ensure breach SOPs are in place—not manage delivery-level ceremonies.
 
 ---
 
@@ -224,12 +220,12 @@ Practical tools and templates
 
 **What should be included in a breach escalation SOP for a cloud contract?**
 
-- [x] A timeline for contractor notification (e.g., 24 hours)  
-- [ ] Defined procedures for media response and public disclosure  
-- [ ] A requirement for agency staff to review all contractor code line by line  
-- [ ] A pre-established cap on contractor breach liability
+- [[x]] A timeline for contractor notification (e.g., 24 hours)  
+- [[ ]] Defined procedures for media response and public disclosure  
+- [[ ]] A requirement for agency staff to review all contractor code line by line  
+- [[ ]] A pre-established cap on contractor breach liability
+[[?]] A breach escalation SOP should include clear and timely communication protocols, such as 24-hour notification windows.
 
-> Correct! A breach escalation SOP should include clear and timely communication protocols, such as 24-hour notification windows.
 
 ---
 
