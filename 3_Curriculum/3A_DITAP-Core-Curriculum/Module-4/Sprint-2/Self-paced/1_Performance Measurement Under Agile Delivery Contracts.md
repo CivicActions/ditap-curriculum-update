@@ -532,7 +532,9 @@ The following question is for your personal reflection. No input is necessary he
 
 **Imagine you are reviewing a recurring delivery issue that impacted three vendors. What’s the best next step?**
 
-[[?]]Example of one acceptable answer: Host a joint root cause analysis to understand what happened and agree on system-level improvements.  **Tip:** Look for systemic issues rather than blaming individual vendors. Consider facilitating a retrospective or coordination session to resolve blockers collaboratively.
+Example of one acceptable answer: Host a joint root cause analysis to understand what happened and agree on system-level improvements.  
+
+**Tip:** Look for systemic issues rather than blaming individual vendors. Consider facilitating a retrospective or coordination session to resolve blockers collaboratively.
 
 ---
 
