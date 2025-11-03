@@ -73,7 +73,9 @@ This guide outlines how standard Agile ceremonies align with the responsibilitie
 
 ### Agile ceremony overview \+ procurement touchpoints
 
-#### Daily standup (daily, 15 minutes)
+#### Daily standup 
+
+(daily, 15 minutes)
 
 * **What Happens**: Vendor team shares status updates, blockers, and next steps.  
 * **PO Role**: Ensures focus remains on outcomes and product priorities.  
@@ -83,7 +85,9 @@ This guide outlines how standard Agile ceremonies align with the responsibilitie
   * COR notes major blockers or risks that may impact delivery.  
   * Can inform discussions with CO if risks persist or escalate.
 
-#### Sprint planning (start of every sprint – e.g., Week 1, Week 3)
+#### Sprint planning 
+
+(start of every sprint – e.g., Week 1, Week 3)
 
 * **What Happens**: Vendor team commits to a set of prioritized stories from the product backlog.
 * **PO Role**: Finalizes backlog priorities aligned to user needs and contract scope.
@@ -94,7 +98,9 @@ This guide outlines how standard Agile ceremonies align with the responsibilitie
   - Documents expectations for QASP tracking and vendor evaluation.
 
 
-#### Sprint review (end of each sprint – e.g., Week 2, Week 4)
+#### Sprint review 
+
+(end of each sprint – e.g., Week 2, Week 4)
 
 * **What Happens**: Vendor demos completed work to PO, COR, and stakeholders.  
 * **PO Role**: Accepts or rejects deliverables based on the agreed Definition of Done (DoD).  
@@ -104,7 +110,9 @@ This guide outlines how standard Agile ceremonies align with the responsibilitie
   * COR documents observations in the performance file.  
   * Key input to QASP, CPARS, and other performance assessments.
 
-#### Sprint retrospective (end of each sprint)
+#### Sprint retrospective 
+
+(end of each sprint)
 
 * **What Happens**: Internal team (vendor and government) reflects on what went well, what didn’t, and how to improve.
 * **PO Role**: Fosters a learning culture, encouraging feedback and continuous improvement.
@@ -114,7 +122,9 @@ This guide outlines how standard Agile ceremonies align with the responsibilitie
   - Lessons learned may prompt updates to backlog, team processes, or performance plans.
 
 
-#### Monthly business review (end of month)
+#### Monthly business review 
+
+(end of month)
 
 * **What Happens**: PO, COR, and CO review sprint outcomes, address contract questions, and plan forward.  
 * **Who Participates**: CO, COR, PO, vendor lead  
@@ -150,7 +160,7 @@ This Agile rhythm allows the government to:
 
 ## Managing risks in Agile digital service contracts
 
-Agile contracts necessitate distinct risk management approaches compared to traditional acquisitions. Instead of trying to define everything upfront, you manage risks through transparency and frequent checkpoints.
+Agile contracts necessitate distinct risk management approaches compared to traditional acquisitions. Instead of trying to define everything up front, you manage risks through transparency and frequent checkpoints.
 
 * **Technical Risks**: Regular demos reveal technical problems early when they're easier to fix.
 * **Scope Risks**: Product owners continuously prioritize features, ensuring the most valuable work gets completed first.
@@ -165,12 +175,14 @@ Your job isn't to eliminate these risks but to create contracts that help teams 
 Updated FAR requirements provide new frameworks for managing risks in Agile digital service contracts:
 
 **FAR Part 39 risk management updates**:
+
 - Requirements for continuous risk assessment aligned with Agile delivery cycles
 - New escalation procedures that account for iterative development timelines
 - Integration of cybersecurity risk management with Agile delivery practices
 
 **FAR Part 6 competition risk considerations**:
-- Managing compteition risks in multi-phase Agile procurements
+
+- Managing competition risks in multi-phase Agile procurements
 - Requirements for maintaining competitive integrity throughout iterative delivery
 - Risk mitigation strategies for vendor transitions in continuous competition models
 
@@ -286,14 +298,13 @@ This collection of readings has been specifically curated to enhance your knowle
 
 * [GAO Agile Assessment Guide](https://www.gao.gov/products/gao-20-590g) (optional) \- Latest government auditing guidance from GAO on evaluating Agile implementations, with metrics for program health and success indicators.
 
-* [DevSecOps: Challenges and Solutions](https://www.actiac.org/documents/devsecops-challenges-and-solutions) (optional) \- As organizations go through this transformational journey towards DevSecOps, it is likely to encounter challenges that can be organized in three high level categories—Cultural, Leadership and Technical. ACT-IAC developed this whitepaper to document those challenges as well as offer possible solutions that have had some measure of success within federal organizations.
+* [DevSecOps: Challenges and Solutions](https://www.actiac.org/documents/devsecops-challenges-and-solutions) (optional) \- As organizations go through this transformational journey towards DevSecOps, it is likely to encounter challenges that can be organized in three high-level categories: Cultural, Leadership, and Technical. ACT-IAC developed this whitepaper to document those challenges as well as offer possible solutions that have had some measure of success within federal organizations.
 
 * [5 IT Security Considerations for Building a CI/CD Pipeline](https://citizant.com/blog/devsecops/5-security-considerations-cicd-pipeline/) (optional) \- Government-specific guidance by Citizant on implementing security in CI/CD pipelines with NIST compliance considerations.
 
-### Instructions (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS.
+### Reflection (optional)
 
-For this activity, read at least 2 of the articles listed above and use the discussion board to answer the following questions:
+For this optional activity, read at least 2 of the articles listed above and reflect on the following questions:
 
 1. How can government agencies balance Agile flexibility with compliance requirements?
 2. What are the most meaningful leading indicators for government IT project success?
@@ -301,11 +312,12 @@ For this activity, read at least 2 of the articles listed above and use the disc
 4. When is it appropriate to pivot or terminate an Agile initiative in government?
 5. How do we measure public value in government digital services beyond traditional ROI?
 
-**Share Your Resources:** Use the course **discussion board** to share resources related to industry best practices. Did any of the articles mentioned above lead you to a new resource that could support your research into delivering high-quality digital services? If so, post a brief description and the link to the discussion board. You’re also encouraged to share any helpful resources you’ve discovered on your own during the course. Reviewing each other’s contributions can help build a stronger, shared knowledge base across the class.
+**Share Your Resources:** Did any of the articles mentioned above lead you to a new resource that could support your research into delivering high-quality digital services? If so, post a brief description and the link in Slack or in one of the live class sessions. You’re also encouraged to share any helpful resources you’ve discovered on your own during the course. 
 
-**Your discussion posts are due by the end of Module 4\.**
+## Conclusion
 
-**Definition of Done:** Your discussion posts should fully address the questions listed in the instructions.
+>You’ve completed Sprint 1 of Module 1! Please close this window to return to the course main page, then select Mark Complete to record your progress.
+
 
 
 
