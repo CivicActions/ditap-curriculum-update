@@ -1,6 +1,8 @@
 # Using Value-Based Metrics and Modern Incentives in Federal Agile Procurement
 **Module 4 Sprint 2**
 
+> _Average completion time: 60 - 75 minutes_
+
 ## Why Modern Metrics Matter More Than Ever
 
 Federal agencies now deliver digital services at unprecedented scale and speed. Citizens expect government services to work as well as commercial apps they use daily. Traditional procurement metrics, focused on requirements compliance and schedule adherence, don't capture whether we're delivering value to users.
@@ -203,8 +205,7 @@ The updated FAR Parts 39 and 6 establish new requirements for performance measur
 
 ---
 
-### Discussion Prompt (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS.
+### Discussion (optional)
 
 For this discussion assignment, consider a digital service acquisition that you have worked on or heard about and analyze how modern metrics and incentives could be applied:
 
@@ -217,18 +218,22 @@ Choose a digital service your agency currently uses or is developing. This servi
 
 **Your Task:**
 
-1. **Identify the Service** (2-3 sentences)  
+1. **Identify the Service** 
+   
    * What does it do, and who uses it?  
    * What mission outcome does it support?  
-2. **Select Metrics** (3-5 metrics)  
+3. **Select Metrics**
+   
    * Choose from the metrics covered in this module  
    * Explain why each metric would be valuable for this specific service  
    * Consider both technical and user-centered metrics  
-3. **Design Incentive Structure**  
+5. **Design Incentive Structure**
+   
    * Create one monetary and one non-monetary incentive  
    * Explain how each incentive would motivate better performance  
    * Consider how to measure success fairly  
-4. **Implementation Plan**  
+7. **Implementation Plan**
+   
    * How would you collect and verify the metrics?  
    * What tools would you use?  
    * How often would you review performance?  
@@ -236,9 +241,6 @@ Choose a digital service your agency currently uses or is developing. This servi
 
    
 
-**Due Date:** Your discussion post is due by the end of the current module.
-
-**Definition of Done:** Your post should address all four elements above in sufficient detail to demonstrate your understanding of modern metrics and incentives in agile procurement. Additionally, respond to at least two classmates' posts with substantive feedback or additional insights.
 
 ---
 
@@ -482,18 +484,19 @@ When you see these signs, step back and assess whether your coordination structu
 ---
 ## Knowledge Check: Managing a Multi-Vendor Environment
 
+> Note: Knowledge checks are designed to help you gauge your understanding of the material. They do not impact your overall grade. Use them as a low-stakes way to test your knowledge, reflect on key concepts, and identify areas you may want to review.
+
 
 1\. Multiple Choice
 
 **Which of the following best describes the role of a government team in a multi-vendor digital services environment?**  
 *(Select one)*
 
-- [ ] Enforcing strict competition between vendors  
-- [ ] Monitoring each vendor individually with no coordination  
-- [x] Acting as a Delivery Marketplace Architect to support shared outcomes  
-- [ ] Leaving vendors to figure things out on their own
-
-> Correct! The government’s role in a multi-vendor environment is to act as a Delivery Marketplace Architect—supporting coordination, reducing duplication, and guiding teams toward shared outcomes.
+- [[ ]] Enforcing strict competition between vendors  
+- [[ ]] Monitoring each vendor individually with no coordination  
+- [[x]] Acting as a Delivery Marketplace Architect to support shared outcomes  
+- [[ ]] Leaving vendors to figure things out on their own
+[[?]] The government’s role in a multi-vendor environment is to act as a Delivery Marketplace Architect—supporting coordination, reducing duplication, and guiding teams toward shared outcomes.
 
 ---
 
@@ -502,12 +505,11 @@ When you see these signs, step back and assess whether your coordination structu
 **What is the purpose of joint retrospectives and quarterly program reviews (QPRs)?**  
 *(Select all that apply)*
 
-- [ ] Track individual vendor contract compliance  
-- [x] Surface system-wide blockers and risks  
-- [x] Co-design improvements across teams  
-- [x] Celebrate delivery wins and analyze what went wrong
-
-> Correct! QPRs and retrospectives help identify systemic risks, improve coordination, and reflect on both successes and failures—driving continuous improvement.
+- [[ ]] Track individual vendor contract compliance  
+- [[x]] Surface system-wide blockers and risks  
+- [[x]] Co-design improvements across teams  
+- [[x]] Celebrate delivery wins and analyze what went wrong
+[[?]] QPRs and retrospectives help identify systemic risks, improve coordination, and reflect on both successes and failures—driving continuous improvement.
 
 ---
 
@@ -516,12 +518,11 @@ When you see these signs, step back and assess whether your coordination structu
 **Which of the following is a good example of *vendor self-organization*?**  
 *(Select one)*
 
-- [ ] Waiting for the CO to assign tasks  
-- [x] Forming a working group to align on shared DevOps tools  
-- [ ] Competing with other vendors to block their progress  
-- [ ] Ignoring dependencies between contracts
-
-> Correct! Self-organization happens when vendors proactively coordinate, like forming a working group to align on DevOps tools and practices.
+- [[ ]] Waiting for the CO to assign tasks  
+- [[x]] Forming a working group to align on shared DevOps tools  
+- [[ ]] Competing with other vendors to block their progress  
+- [[ ]] Ignoring dependencies between contracts
+[[?]] Self-organization happens when vendors proactively coordinate, like forming a working group to align on DevOps tools and practices.
 
 ---
 
@@ -531,9 +532,8 @@ When you see these signs, step back and assess whether your coordination structu
 
 *Your Response:*  
 
-> **Example of acceptable answer:** “Host a joint root cause analysis to understand what happened and agree on system-level improvements.”
-
-> Tip: Look for systemic issues rather than blaming individual vendors. Consider facilitating a retrospective or coordination session to resolve blockers collaboratively.
+[[solution                                                        ]]
+[[?]]Example of one acceptable answer: Host a joint root cause analysis to understand what happened and agree on system-level improvements.  **Tip:** Look for systemic issues rather than blaming individual vendors. Consider facilitating a retrospective or coordination session to resolve blockers collaboratively.
 
 ---
 
@@ -601,7 +601,9 @@ Effective warranty strategies in Agile and cloud-based environments ensure that 
 ---
 
 #### Sprint-Level Warranties
-At the sprint level, warranties ensure that each deliverable meets functional, integration, accessibility, and performance requirements. Recommended language includes a commitment that each sprint deliverable will:  
+
+At the sprint level, warranties ensure that each deliverable meets functional, integration, accessibility, and performance requirements. Recommended language includes a commitment that each sprint deliverable will: 
+
 - Function as demonstrated during the sprint review  
 - Integrate seamlessly with all previously accepted deliverables  
 - Meet accessibility and security requirements  
@@ -744,10 +746,15 @@ In this reading, warranties and liability are compared in traditional contractin
 ---
 
 ### Discussion (Optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS.
 
-**Based on the warranty readings, post your response to the following questions:**
+
+**Based on the warranty readings, reflect on the following questions:**
 
 * In agile development, when features are created iteratively, what type of language can you use in the warranty to ensure that the vendor is responsible for the outcome of the entire project?  
 * Warranties for agile development can be difficult to establish due to the iterative nature. What can you do in both the acquisition strategy phase and the contract administration phase to ensure that you are fully protected by warranty?
+
+## Conclusion
+
+>You’ve completed Sprint 2 of Module 4! Please close this window to return to the course main page, then select Mark Complete to record your progress.
+
 
