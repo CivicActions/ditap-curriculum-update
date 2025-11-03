@@ -164,8 +164,6 @@ Practical tools and templates
 **Instructions:** For each question, select all answer(s) that apply. Some questions may have more than one correct answer.
 
 
-1\. Multiple Choice
-
 **What is the primary purpose of Sprint 0 in an Agile federal contract?**
 
 - [[ ]] To get hands on keyboards and begin sprinting immediately  
@@ -225,6 +223,7 @@ Practical tools and templates
 - [[ ]] A requirement for agency staff to review all contractor code line by line  
 - [[ ]] A pre-established cap on contractor breach liability
 [[?]] A breach escalation SOP should include clear and timely communication protocols, such as 24-hour notification windows.
+
 
 
 ---
