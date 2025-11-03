@@ -316,7 +316,7 @@ For this optional activity, read at least 2 of the articles listed above and ref
 
 ## Conclusion
 
->You’ve completed Sprint 1 of Module 1! Please close this window to return to the course main page, then select Mark Complete to record your progress.
+>You’ve completed Sprint 1 of Module 4! Please close this window to return to the course main page, then select Mark Complete to record your progress.
 
 
 
