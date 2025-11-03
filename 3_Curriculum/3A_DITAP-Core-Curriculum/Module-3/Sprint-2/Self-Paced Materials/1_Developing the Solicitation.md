@@ -272,6 +272,9 @@ Ethical and legal considerations require continuous monitoring throughout the AI
 - **Adaptive Policies** to reflect new regulations and ethical guidelines.
 
 
-**Concluding Thoughts**
+**Final Thoughts**
 
 For federal agencies, thoroughly assessing the ethical and legal implications of acquiring AI ensures responsible technology use. By understanding regulatory requirements, ensuring data privacy and security, addressing algorithmic bias, promoting transparency, ensuring accountability, evaluating vendor compliance, and implementing continuous monitoring, agencies can confidently integrate AI solutions that adhere to the highest standards of ethics and legality, mitigating risks while enhancing the impact of AI initiatives.
+
+## Conclusion
+>You’ve completed Sprint 2 of Module 3! Please close this window to return to the course main page, then select Mark Complete to record your progress.
