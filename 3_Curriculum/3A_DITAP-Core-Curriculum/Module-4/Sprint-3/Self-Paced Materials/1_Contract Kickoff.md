@@ -337,6 +337,11 @@ Based on the cloud and XaaS procurement readings, reflect on the following quest
 
 6. How should data sovereignty, portability, and exit planning requirements be structured in XaaS contracts to protect government interests without limiting vendor innovation?
 
+## Conclusion
+
+>You’ve completed Sprint 3 of Module 4! Please close this window to return to the course main page, then select Mark Complete to record your progress.
+
+
 
 
 
