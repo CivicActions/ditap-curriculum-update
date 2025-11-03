@@ -765,6 +765,8 @@ The final slide(s) should provide a high-level summary. It should indicate that 
 
 During the post-evaluation feedback sessions:
 
+**Do**
+
 * Set expectations up front  
 * Start with strengths  
 * Provide helpful, clear information  
@@ -774,6 +776,8 @@ During the post-evaluation feedback sessions:
 * Invite feedback to improve future solicitations
 
 During the debriefing:
+
+**Don't** 
 
 * Apologize  
 * Argue or negotiate  
