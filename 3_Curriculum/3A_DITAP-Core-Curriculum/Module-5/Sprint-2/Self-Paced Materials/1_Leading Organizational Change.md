@@ -599,8 +599,9 @@ D. Call out what's not working — even if it's uncomfortable
 
 You're a relationship builder. You create momentum by fostering collaboration, trust, and shared purpose.  
 
-You might lead a community of practice, organize informal learning sessions, or connect stakeholders across silos.
+>You might lead a community of practice, organize informal learning sessions, or connect stakeholders across silos.
 
+---
 
 **Mostly B – Implementer**  
 
@@ -609,12 +610,15 @@ You turn ideas into action. You're dependable and focused on getting results.
 >You might pilot a new checklist, lead small process changes, or help teams apply what they’ve learned. 
 
 
+---
+
 **Mostly C – Strategist**  
 
 You’re a systems thinker. You analyze and refine the bigger picture.
 
 >You might lead procurement retrospectives, develop internal guidance, or advise on process alignment.
  
+---
 
 **Mostly D – Challenger**  
 
