@@ -597,22 +597,26 @@ D. Call out what's not working — even if it's uncomfortable
 
 **Mostly A – Connector**  
 
- You're a relationship builder. You create momentum by fostering collaboration, trust, and shared purpose.  
+ You're a relationship builder. You create momentum by fostering collaboration, trust, and shared purpose. 
+ 
  \-*You might lead a community of practice, organize informal learning sessions, or connect stakeholders across silos.*
 
 **Mostly B – Implementer**  
 
  You turn ideas into action. You're dependable and focused on getting results.  
+ 
  \-*You might pilot a new checklist, lead small process changes, or help teams apply what they’ve learned.*
 
 **Mostly C – Strategist**  
 
  You’re a systems thinker. You analyze and refine the bigger picture.  
+ 
 \- *You might lead procurement retrospectives, develop internal guidance, or advise on process alignment.*
 
 **Mostly D – Challenger**  
 
- You question the status quo. You’re not afraid to advocate for change, even when it’s difficult.  
+ You question the status quo. You’re not afraid to advocate for change, even when it’s difficult. 
+ 
  \-*You might champion new approaches, propose bold shifts in how work is done, or highlight risks others overlook.*
 
 ---
@@ -638,14 +642,17 @@ Take a few minutes to reflect and jot down your responses to the prompts below. 
 **Your change contribution plan**
 
 **1\. How will I stay informed about emerging tech and trends?**  
+
  *(Example: I’ll subscribe to the FAI (Federal Acquisition Institute) Acquisition Today newsletter and follow two gov tech leads on LinkedIn.)*  
  
 
 **2\. What’s one change I’ll lead or support in my agency or team?**  
+
  *(Example: As a Connector, I’ll start a quarterly knowledge-sharing session on lessons learned in acquisition.)*  
  
 
 **3\. What’s one learning habit I’ll strengthen this year?**  
+
  *(Example: I’ll set aside one hour each month for a “tech check” and review a recent article or case study.)*  
  
 
@@ -660,7 +667,7 @@ This doesn’t need to be a full strategic plan, just a focused way to anchor yo
 
 As you wrap up this module and the course, you’ve explored how continuous learning, personal strengths, and proactive curiosity are essential tools for thriving in a rapidly evolving federal acquisition landscape.
 
->**Remember:** leading change doesn’t require a title—it requires initiative.  
+>**Remember:** leading change doesn’t require a title — it requires initiative.  
 Small actions, consistent habits, and a willingness to try something new can have a meaningful impact on your agency, your team, and the citizens you serve.
 
 You don’t have to do everything on your change contribution plan at once. Just pick one place to start—and keep moving forward.
