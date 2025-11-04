@@ -731,15 +731,9 @@ You must now decide how to proceed. Your recommendation could shape the future o
 
 Select one of the following:
 
-- [[ ]] Option A: Terminate CloudTech for default
-- [[ ]] Option B: Accept CloudTech’s remediation proposal
-- [[ ]] Option C: Restructure to a single prime contractor
-
-
-
-- [[ ]] **Option A:** Terminate CloudTech for default  
-- [[ ]] **Option B:** Accept CloudTech’s remediation proposal  
-- [[ ]] **Option C:** Restructure to a single prime contractor  
+- [ ] **Option A:** Terminate CloudTech for default  
+- [ ] **Option B:** Accept CloudTech’s remediation proposal  
+- [ ] **Option C:** Restructure to a single prime contractor  
 
 > 💡 Tip: Consider both technical impact and long-term program strategy before choosing.
 
