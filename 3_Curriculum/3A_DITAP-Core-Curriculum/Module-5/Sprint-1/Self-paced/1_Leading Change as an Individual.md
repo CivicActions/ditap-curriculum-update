@@ -356,7 +356,7 @@ You have a good working relationship with the team lead. She responds to your su
 
 
 ---
-## Building Your resilience
+## Building your resilience
 
 >As an inventor, Edison made 1,000 unsuccessful attempts at inventing the light bulb. When a reporter asked, "How did it feel to fail 1,000 times?" Edison replied, "I didn't fail 1,000 times. The light bulb was an invention with 1,000 steps."
 
