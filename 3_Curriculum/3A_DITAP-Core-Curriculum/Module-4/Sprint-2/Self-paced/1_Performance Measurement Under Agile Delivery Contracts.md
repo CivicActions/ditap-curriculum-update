@@ -197,7 +197,9 @@ The updated FAR Parts 39 and 6 establish new requirements for performance measur
 4. **Ignoring context:** Consider team maturity, technical debt, and external factors  
 5. **Set-and-forget:** Regularly review and adjust metrics as the project evolves
 
-**Sample contract language**
+---
+
+**Sample contract language:**
 
 **For metrics:** "Contractor shall provide monthly reports including: (1) DORA metrics dashboard showing deployment frequency, lead time, change failure rate, and recovery time; (2) User satisfaction scores from monthly surveys; (3) Sprint completion rates and velocity trends; (4) System uptime and performance metrics."
 
@@ -207,7 +209,7 @@ The updated FAR Parts 39 and 6 establish new requirements for performance measur
 
 ### Discussion (optional)
 
-For this discussion assignment, consider a digital service acquisition that you have worked on or heard about and analyze how modern metrics and incentives could be applied:
+For this discussion, consider a digital service acquisition that you have worked on or heard about and analyze how modern metrics and incentives could be applied:
 
 Choose a digital service your agency currently uses or is developing. This service could be:
 
