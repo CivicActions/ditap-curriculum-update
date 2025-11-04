@@ -7,7 +7,7 @@
 
 Technology and policy in the federal space are evolving faster than ever. From emerging tools like artificial intelligence to policy shifts that emphasize modernization, acquisition professionals must stay ahead of change, not react to it.
 
-In your role, you’re not just supporting procurement, you’re enabling agency success. Your ability to adapt, learn, and apply new knowledge directly impacts how effectively your agency meets its goals.
+In your role, you’re not just supporting procurement; you’re enabling agency success. Your ability to adapt, learn, and apply new knowledge directly impacts how effectively your agency meets its goals.
 
 But keeping up doesn’t just happen. It takes intention. Continuous learning isn’t a one-time event; it’s a mindset and a habit. By staying curious, seeking out new tools and trends, and learning from each acquisition you manage, you build resilience and stay relevant in a fast-changing environment.
 
@@ -597,9 +597,9 @@ D. Call out what's not working — even if it's uncomfortable
 
 **Mostly A – Connector**  
 
- You're a relationship builder. You create momentum by fostering collaboration, trust, and shared purpose.
+ You're a relationship builder. You create momentum by fostering collaboration, trust, and shared purpose.  
  
- *You might lead a community of practice, organize informal learning sessions, or connect stakeholders across silos.*
+ -*You might lead a community of practice, organize informal learning sessions, or connect stakeholders across silos.*
 
 **Mostly B – Implementer**  
 
