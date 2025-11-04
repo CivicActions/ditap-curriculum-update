@@ -532,8 +532,8 @@ Note: This self-assessment is a simplified framework inspired by common change l
 
  A. Reach out and bring people together to talk it through  
 
- B. Roll up your sleeves and start solving the practical issues <br><br>
-  
+ B. Roll up your sleeves and start solving the practical issues
+ 
  C. Step back and assess the overall system or strategy
 
  D. Ask tough questions and challenge assumptions
