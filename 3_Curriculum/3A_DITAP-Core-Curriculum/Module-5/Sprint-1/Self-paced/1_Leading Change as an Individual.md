@@ -470,11 +470,10 @@ Analyze the “no” a bit more. Besides not presenting the change in a way that
 
 **Select 2 responses that apply:**
 
-- [x] The technical team recognizes there is a problem with the status quo, but ironically is resistant to change it, system justification theory at work!  
-- [x] The technical team is so afraid of another failure that they’re afraid to do anything that might “rock the boat” (like the Disney Animation studio before they acquired Pixar).  
-- [ ] The technical team likely didn’t trust you because they didn’t know your credentials. You should’ve started your presentation by listing your credentials and the successful contracts you’ve administered in the past.  
-
-> Correct! Both resistance due to system justification and fear of failure are common, human responses to change. Credentials alone won’t necessarily build trust or shift deeply rooted team dynamics.
+- [[x]] The technical team recognizes there is a problem with the status quo, but ironically is resistant to changing it, system justification theory at work!  
+- [[x]] The technical team is so afraid of another failure that they’re afraid to do anything that might “rock the boat” (like the Disney Animation studio before they acquired Pixar).  
+- [[ ]] The technical team likely didn’t trust you because they didn’t know your credentials. You should’ve started your presentation by listing your credentials and the successful contracts you’ve administered in the past.  
+[[?]] Both resistance due to system justification and fear of failure are common, human responses to change. Credentials alone won’t necessarily build trust or shift deeply rooted team dynamics.
 
 
 ### Part 2: How might I adjust my approach to make it more winnable?
@@ -485,11 +484,10 @@ You’ve determined that this is an important enough topic that you should pursu
 
 **Select the best response:**
 
-- [ ] Send the technical team links and examples that you’ve read, which discuss how to make this approach work in government. Once they see the use cases from other agencies, they’ll be more likely to try it out in your agency.  
-- [ ] Let some time pass so that the memory of the recent IT failure starts to fade, then reengage and present your idea again.  
-- [x] Brainstorm just one small task or part of the solicitation where you can test this approach. Present the idea as just that—an idea that you want to test. Discuss the benefits that could result. Work with someone the technical team trusts and have them present the idea with you.  
-
-> Correct! Introducing a small, testable change and aligning with trusted voices increases your chance of buy-in and minimizes perceived risk.
+- [[ ]] Send the technical team links and examples that you’ve read, which discuss how to make this approach work in government. Once they see the use cases from other agencies, they’ll be more likely to try it out in your agency.  
+- [[ ]] Let some time pass so that the memory of the recent IT failure starts to fade, then re-engage and present your idea again.  
+- [[x]] Brainstorm just one small task or part of the solicitation where you can test this approach. Present the idea as just that—an idea that you want to test. Discuss the benefits that could result. Work with someone the technical team trusts and have them present the idea with you.  
+[[?]] Introducing a small, testable change and aligning with trusted voices increases your chance of buy-in and minimizes perceived risk.
 
 
 ---
@@ -604,7 +602,7 @@ A good case study balances narrative and analysis. It provides the big picture a
 
 By documenting your process in this way, you help others avoid having to reinvent the wheel. You show that good procurement work isn't always linear or perfect, and that shared learning makes us all better.
 
-We have included a sample case study template for Procurements of AI Tools, which is a relevant and immediate topic. The more agencies can share what and how they are procuring AI solutions, the better everyone will get. 
+At the end of this sprint, we have included a sample case study template for Procurements of AI Tools, which is a relevant and immediate topic. The more agencies can share what and how they are procuring AI solutions, the better everyone will get. 
 
 ### Navigating disclosure: What and how to share
 
@@ -619,8 +617,6 @@ Navigating disclosure requires a balance between openness and strategic protecti
 Publishing your procurement story often means getting approval from your agency’s communications office, Office of General Counsel (OGC), and sometimes public affairs or external media teams. Don’t let that slow you down; there are steps you can take to make the process smoother and increase your chances of a green light.
 
 Tips to navigate approvals:
-
-#### Tips to navigate approvals
 
 | Tip | Description |
 |-----|-------------|
@@ -640,7 +636,8 @@ Framing your story as a contribution to professional development and government-
 
 This template is designed to help contracting officers document and share their procurement experience with AI tools. Use it to reflect on your process, capture insights, and contribute to shared learning across government.
 
-*Use this template to document your AI tool procurement experience and share with your peers, acquisition community, or as a formal case study contribution to internal or external knowledge hubs.*
+Use this template to document your AI tool procurement experience and share with your peers, acquisition community, or as a formal case study contribution to internal or external knowledge hubs. 
+
 ---
 
 **Title:**
