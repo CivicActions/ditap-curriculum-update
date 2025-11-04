@@ -1,4 +1,4 @@
-# Introduction: Leading Change
+# Leading Change
 **Module 5 Sprint 1**
 
 > _Average completion time: 60 - 90 minutes_
@@ -7,15 +7,15 @@ In today’s fast-moving government environment, you are uniquely positioned to 
 
 You’ll move through two focused sprints:
 
-* **Sprint 1: Leading Change as an Individual**  
+* **Sprint 1: Leading change as an individual**  
    Learn how to be an effective change agent by identifying your personal influence strategies, building networks, and engaging stakeholders to support new ideas and approaches.
 
-* **Sprint 2: Leading Organizational Change – Continuous Improvement and Scalable Practices**  
+* **Sprint 2: Leading organizational change – Continuous improvement and scalable practices**  
    Explore strategies for staying current with emerging technologies, applying lessons learned from each procurement, and scaling what works across your agency and the broader acquisition community.
 
 Through both sprints, you’ll apply techniques to **create a culture of innovation within your sphere of influence**, one that empowers you and those around you to lead change and guide customers toward the best solutions.
 
-### Learning Objectives
+### Learning objectives
 
 By the end of this module, you will be able to:
 
@@ -34,7 +34,7 @@ By the end of this module, you will be able to:
 * Apply techniques to foster a culture of innovation that enables effective leadership and customer engagement.
 
 ---
-## Preparing for and Having an Influence Conversation 
+## Preparing for and having an influence conversation 
 
 ### Introduction 
 
@@ -52,9 +52,9 @@ In this module, you'll revisit how to prepare for an influence conversation by t
 
 ![An infographic with four steps, each representing a step in an influence conversation. From top to bottom: 1. Identify the Need or Problem for the Influence Conversation. 2. Target the range of influencers who can satisfy the need or help solve the problem. 3. Select those with the greatest leverage. 4. Prepare for the conversation using the Ladder of Inference.](https://github.com/usds/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/steps%20for%20influence%20conversation.png?raw=true)
 
-## Identify the Need or Problem
+## Identify the need or problem
 
-As you lead a digital services procurement, you'll likely need to accomplish out-of-the ordinary tasks. We’ve discussed how you may need to conduct nontraditional market research, engage with potential contractors at a deeper level, or develop a more iterative acquisition strategy. As you work on these unusual tasks, you'll likely encounter resistance or worse from people who oversee or are involved with the practice you are changing, but who function in roles you cannot control. 
+As you lead a digital services procurement, you'll likely need to accomplish out-of-the-ordinary tasks. We’ve discussed how you may need to conduct nontraditional market research, engage with potential contractors at a deeper level, or develop a more iterative acquisition strategy. As you work on these unusual tasks, you'll likely encounter resistance or worse from people who oversee or are involved with the practice you are changing, but who function in roles you cannot control. 
 
 You can anticipate this resistance by understanding what you are working to change and what roles in the process it might affect.   
 
@@ -64,7 +64,7 @@ Think of a particular problem, opportunity, or need you have as a digital servic
 
 * Accelerating cycle time in a particular part of the acquisition lifecycle or procurement process to meet the needs of your Product Owner and particular backlog requirements   
 * Gaining relief from a policy that requires an exhaustive and lengthy review process by a Contract Review Board or other oversight group every time the agency considers a new type of procurement or one that's not common practice in your agency   
-* Addressing a higher intensity role and increased resource commitments you need CORs and program representatives to play in your digital services procurement   
+* Addressing a higher intensity role and increased resource commitment you need CORs and program representatives to play in your digital services procurement   
 * Solving the issue of receiving incremental funding across fiscal years instead of one allocation in a given fiscal year or a larger, multi-year program   
 * Creating different procurement performance **metrics** and measures based on iteration/release outcomes instead of more standard procurement performance outputs
 
@@ -74,7 +74,6 @@ Have you experienced any of these?
 Take a moment to share a challenge of your own, or feel free to adapt one of the examples above. Post your challenge in the discussion section below, and how you overcame these challenges. 
 
 ### Discussion (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 As you think about this topic, consider the following:
 
@@ -89,9 +88,9 @@ As you think about this topic, consider the following:
 * How might we create reusable procurement templates to accelerate future digital acquisitions?  
 * What lessons can we learn from other agencies that have successfully modernized their acquisition practices?
 
-## Target the Range of Influencers Who Can Satisfy the Need/Help Solve the Problem 
+## Target the range of influencers who can satisfy the need/help solve the problem 
 
-Based on the problem you have selected, identify the range of influencers who can help you address this problem. Refer back to the Stakeholder Analysis Activity to help you get started. In some cases, you may need to reach out to your own network and mentors for help in identifying the influencers who you have some direct or indirect power over. 
+Based on the problem you have selected, identify the range of influencers who can help you address this problem. Refer back to the Stakeholder Analysis Activity to help you get started. In some cases, you may need to reach out to your own network and mentors for help in identifying the influencers whom you have some direct or indirect power over. 
 
 ![A group of business people stand on a network of interconnected circles, simulating a social or professional network](https://github.com/usds/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/target%20range%20of%20influencers.png?raw=true)
 
@@ -108,7 +107,7 @@ The following table lists some example challenges you may encounter, along with 
 Now think about the titles of the influencers in your chosen problem. Who could help, or hinder, your efforts? 
 
 ### Discussion (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS.
+
 
 As you think about this topic, consider the following:
 
@@ -142,11 +141,10 @@ To help you determine who has the greatest leverage in your situation, answer th
 5. How significant is their influence over your issue or challenge? Is it direct or indirect? 
 
 ### Discussion (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS.
 
-Based on your answer to these questions, select the influencer who can most impact your issue or challenge, either negatively or positively. Share below and provide your reasons for why you chose this person. Again, use a title instead of a name. 
+Based on your answer to these questions, select the influencer who can most impact your issue or challenge, either negatively or positively. 
 
-## Prepare for the Conversation Using the Ladder of Inference 
+## Prepare for the conversation using the Ladder of Inference 
 
 ![Two businessmen, both wearing suits, are shaking hands and smiling](https://github.com/usds/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/two%20men%20shaking%20hands.png?raw=true)
 
@@ -172,9 +170,8 @@ To use the Ladder of Inference, think about how the influencer may arrive at the
 To set the meeting with your influencer, reach out directly if you already know each other or are close enough in the organization that you know each other by your roles. If you are not familiar with each other, ask your mentor, adviser, or another contact for an introduction. Finally, you also have the option to reach out directly under the authority of your digital services acquisition role because your agency has committed to your digital services education. 
 
 ### Discussion (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS.
 
-Analyze your problem using the Ladder of Inference. Share what each rung would cover and how you can use it to direct the conversation in the discussion below. 
+Analyze your problem using the Ladder of Inference. What would each rung of the ladder cover, and how can you use it to direct the conversation? 
 
 As you think about this topic, consider the following:
 
@@ -193,29 +190,29 @@ As you think about this topic, consider the following:
 
 Once you have considered the above, consider some strategies to overcome these challenges:
 
-* **Find Common Ground**: Acknowledge the importance of oversight while suggesting tailored approaches for different situations.  
-* **Share Success Stories**: Provide examples of successful procurements that used streamlined review processes.  
-* **Propose Alternative Oversight**: Develop a modified review process that addresses specific risks without the full CRB burden.  
-* **Use Data**: Present metrics on time/resources spent on CRB versus outcomes achieved.  
-* **Collaborative Problem-Solving**: Invite the Representative to help design an alternative process that addresses their concerns.  
-* **Pilot Approach**: Suggest a limited test of a modified review process with specific success metrics.  
-* **Risk-Based Assessment**: Propose a framework for matching review intensity to actual risk level of the procurement.  
-* **Elevate Agency Goals**: Frame the discussion around how streamlined processes support broader agency mission and service delivery.  
-* **Document Safeguards**: Create explicit documentation of how oversight will be maintained in the alternative approach.  
-* **Feedback Loop**: Build in checkpoints and feedback mechanisms to demonstrate commitment to learning and improvement.
+* **Find common ground**: Acknowledge the importance of oversight while suggesting tailored approaches for different situations.  
+* **Share success stories**: Provide examples of successful procurements that used streamlined review processes.  
+* **Propose alternative oversight**: Develop a modified review process that addresses specific risks without the full CRB burden.  
+* **Use data**: Present metrics on time/resources spent on CRB versus outcomes achieved.  
+* **Collaborative problem-solving**: Invite the Representative to help design an alternative process that addresses their concerns.  
+* **Pilot approach**: Suggest a limited test of a modified review process with specific success metrics.  
+* **Risk-based assessment**: Propose a framework for matching review intensity to actual risk level of the procurement.  
+* **Elevate agency goals**: Frame the discussion around how streamlined processes support broader agency mission and service delivery.  
+* **Document safeguards**: Create explicit documentation of how oversight will be maintained in the alternative approach.  
+* **Feedback loop**: Build in checkpoints and feedback mechanisms to demonstrate commitment to learning and improvement.
 
   
 
-## Transitioning to the Conversation
+## Transitioning to the conversation
 
 The next section will teach you how to survive a difficult conversation by identifying constructive approaches in a conversation, identifying useful tactics to react to problems, and recognizing common topics that can cause misalignment with acquisition strategies and Agile methodology.
 
 
 ---
 
-## Difficult Conversations
+## Difficult conversations
 
-In this section, you will learn about the art of surviving a difficult conversation. You have already practiced preparing for and having influence conversations, but what should you do when the conversation doesn’t go according to plan? Be it delivering bad news or attempting to persuade a peer to support your decision, we all struggle with having difficult conversations that may be out of our comfort zone. 
+In this section, you will learn about the art of surviving a difficult conversation. You have already practiced preparing for and having influential conversations, but what should you do when the conversation doesn’t go according to plan? Be it delivering bad news or attempting to persuade a peer to support your decision, we all struggle with having difficult conversations that may be out of our comfort zone. 
 
 At the conclusion of this section, you will be able to: 
 
@@ -225,7 +222,7 @@ At the conclusion of this section, you will be able to:
 
 ![Checkmark](https://github.com/usds/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/check%20mark.png?raw=true)
 
-## Why Can Conversations Be Difficult?
+## Why can conversations be difficult?
 
 ![A black and white headshot of Winston Churchill wearing a dark hat and a bow tie.](https://github.com/usds/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/churchill.png?raw=true)
 
@@ -233,18 +230,18 @@ At the conclusion of this section, you will be able to:
 
 \-**Winston Churchill** 
 
-As you saw in the classroom sessions, implementing change is not easy; it requires courage and a willingness to both lead and listen, just as Churchill so astutely acknowledges. It requires humility and recognition that we don’t always know the answers, that’s why we must talk to our users ([Digital Services Playbook Play \#1](https://playbook.usds.gov/#play1)!) first and foremost and why we value validated learning over untested assumptions. These tenets all apply when we approach conversations that we expect to be challenging—or perhaps even downright difficult. How do you make these conversations most productive? 
+As you saw in the classroom sessions, implementing change is not easy; it requires courage and a willingness to both lead and listen, just as Churchill so astutely acknowledges. It requires humility and recognition that we don’t always know the answers; that’s why we must talk to our users ([Digital Services Playbook Play \#1](https://playbook.usds.gov/#play1)!) first and foremost and why we value validated learning over untested assumptions. These tenets all apply when we approach conversations that we expect to be challenging—or perhaps even downright difficult. How do you make these conversations most productive? 
 
-## Preparing for a Difficult Conversation
+## Preparing for a difficult conversation
 
-The first step in navigating difficult conversations and situations in general, is to prepare and strategize. Here are some techniques to help you prepare for a difficult conversation. 
+The first step in navigating difficult conversations and situations in general is to prepare and strategize. Here are some techniques to help you prepare for a difficult conversation. 
 
 ![A hand holding a piece of chalk is drawing a clock face with the hands at almost 12 o'clock on a dark blue chalkboard. Above the clock face, the words 'Time to Think' are written in large, yellow chalk letters](https://github.com/usds/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/time%20to%20think.png?raw=true)
 
 
 **1\. Reframe** 
 
-The first thing is to not think of it as a difficult conversation that you need to have, but rather frame your approach in a more positive way. Social psychologists have long explored the impact that labels have in influencing people’s behavior, from perpetuating stereotypes to even changing people’s fundamental self, concepts and identities. In this case, don’t label the conversation, or more importantly the person, as difficult. Instead, approach the conversation as though you’re having a constructive conversation about development. Think about your shared goals and the fact that you’re trying to produce better outcomes for you and the person you’re talking to. Leave the combative me vs. them mentality at home. 
+The first thing is not to think of it as a difficult conversation that you need to have, but rather to frame your approach in a more positive way. Social psychologists have long explored the impact that labels have in influencing people’s behavior, from perpetuating stereotypes to even changing people’s fundamental self-concepts and identities. In this case, don’t label the conversation, or more importantly, the person, as difficult. Instead, approach the conversation as though you’re having a constructive conversation about development. Think about your shared goals and the fact that you’re trying to produce better outcomes for you and the person you’re talking to. Leave the combative me vs. them mentality at home. 
 
 ![A man wearing glasses, a dark suit, and a tie is seated at a desk, intently typing on a computer keyboard.](https://github.com/usds/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/man%20at%20computer.png?raw=true)
 
@@ -254,23 +251,23 @@ If someone comes to you with an issue that might lead to a hard conversation, br
 
 ![An overhead shot of three business people at a rectangular table covered with papers](https://github.com/usds/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/business%20people%20at%20table%20with%20papers.png?raw=true)
 
-**3\. Listen Deeply** 
+**3\. Listen deeply** 
 
-Think back to Churchill’s quote. Truly and actively listening is a courageous act and one that will buy you goodwill with the other person and help you get to the bottom of the issue. Listen for what the problem is, and for what the other person thinks the problem is. If you don’t understand what the problem is, acknowledge that and ask, and make sure neither of you are making assumptions. Show an interest in the person’s feelings that you’re talking to, and look for overlap in your points of view. Problems are complicated. Avoid oversimplification by respecting the problem you’re trying to resolve and the person you’re talking to.  
+Think back to Churchill’s quote. Truly and actively listening is a courageous act and one that will buy you goodwill with the other person and help you get to the bottom of the issue. Listen for what the problem is, and for what the other person thinks the problem is. If you don’t understand what the problem is, acknowledge it, ask for clarification, and make sure neither of you are making assumptions. Show an interest in the person’s feelings that you’re talking to, and look for overlap in your points of view. Problems are complicated. Avoid oversimplification by respecting the problem you’re trying to resolve and the person you’re talking to.  
 
 ![A man and a woman in business attire are seated at a table in an office setting. The man on the left is holding up a paper and gesturing with his right hand as he speaks to the woman. The woman on the right is looking at the papers on the table and appears to be speaking or explaining something](https://github.com/usds/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/man%20woman%20at%20table.png?raw=true)
 
-**4\. Deliver Difficult News Directly but Considerately** 
+**4\. Deliver difficult news directly but considerately** 
 
-If you have to deliver bad news, be compassionate and considerate but do so in a courageous, honest, and fair way, just as you would want to receive the information if the situation was reversed. Don’t emote or overly emphasize how hard it is to make a difficult delivery (e.g., avoid going on and on with statements like, “This isn’t something I like to do; this is hard news to deliver…”). It takes practice, but you want to be clear, direct, and unemotional. Keep the pace of the conversation slow, which helps to find the right words and reduce any tensions. If the conversation puts the other person in a difficult spot, where you’re taking something away from them, think of what you might be able to give back. For example, if you have to turn down your boss for a work assignment, think of a viable alternative solution that might help them as an option. 
+If you have to deliver bad news, be compassionate and considerate, but do so in a courageous, honest, and fair way, just as you would want to receive the information if the situation were reversed. Don’t emote or overly emphasize how hard it is to make a difficult delivery (e.g., avoid going on and on with statements like, “This isn’t something I like to do; this is hard news to deliver…”). It takes practice, but you want to be clear, direct, and unemotional. Keep the pace of the conversation slow, which helps to find the right words and reduce any tensions. If the conversation puts the other person in a difficult spot, where you’re taking something away from them, think of what you might be able to give back. For example, if you have to turn down your boss for a work assignment, think of a viable alternative solution that might help them as an option. 
 
 For more information on these techniques, review this [Harvard Business Review](https://hbr.org/2015/01/how-to-handle-difficult-conversations-at-work) article.
 
-## What Makes the Conversations Difficult?
+## What makes the conversations difficult?
 
 In most cases, the conversation will be difficult because the parties involved are not in agreement about the subject matter. One of the best tools you can have to deal with disagreement is empathy. Here is a framework for analyzing the drivers for the difficult conversation: 
 
-### Making Assumptions 
+### Making assumptions 
 
 * You can’t know what the other person’s intentions are. They also don’t know what your intentions are. 
 * Don’t assume the other person has bad intentions. 
@@ -294,12 +291,12 @@ In most cases, the conversation will be difficult because the parties involved a
 ### Self-identity 
 
 * When people’s self-identities are threatened, they usually react strongly. This can make problems hard to resolve. 
-* Think about what the conversation says about who you are and how it relates to your self-identity. Also, think about how it relates to the other person’s self identity. 
+* Think about what the conversation says about who you are and how it relates to your self-identity. Also, think about how it relates to the other person’s self-identity. 
 * Being aware of your vulnerabilities is key to maintaining your balance during a conversation. You don’t want to be surprised by your reactions. 
 * Be aware of the role hierarchy plays in people’s self-identities. 
 
    
-## Tips to Navigate the Conversation
+## Tips to navigate the conversation
 
 As you mentally prepare for a conversation, here are some tips that can help you: 
 
@@ -314,7 +311,7 @@ As you mentally prepare for a conversation, here are some tips that can help you
 * Formalize an agreement into a series of commitments and next step action items. 
 
 
-## Common Topics for Difficult Conversations
+## Common topics for difficult conversations
 
 | Topic | Challenge / Context | Observation / Solution | Reference |
 |-------|-------------------|----------------------|-----------|
@@ -330,7 +327,7 @@ As you mentally prepare for a conversation, here are some tips that can help you
 
  
 ---
-## Knowledge Check
+## Knowledge check
 
 1\. True or False
 
@@ -362,7 +359,7 @@ You have a good working relationship with the team lead. She responds to your su
 
 
 ---
-## Introduction - Building Your Resilience
+## Building Your resilience
 
 >As an inventor, Edison made 1,000 unsuccessful attempts at inventing the light bulb. When a reporter asked, "How did it feel to fail 1,000 times?" Edison replied, "I didn't fail 1,000 times. The light bulb was an invention with 1,000 steps."
 
@@ -385,7 +382,7 @@ In this module, you’ll learn techniques to help you cultivate your mindset aro
 * How to differentiate between situations where it makes sense to continue pushing for change and others where you may need to redirect.
 
 ---
-## Cultivating Your Growth Mindset
+## Cultivating Your growth mindset
 
 Consider another example: Walt Disney had great success with 1994’s The Lion King. However, the company struggled thereafter, producing a series of movies that lacked the same popularity with audiences. Then, Disney acquired Pixar in 2006\. Ed Catmull, current president of Disney and Animation and Pixar, describes what happened thereafter in this book, *Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration*. As Catmull describes it, “Creativity has to do with problem solving…the issue is that companies and the officer ... put blocks in the way – well-meaning, trying to think they’re being safe or help things along, but in fact they’re throwing blocks up.” By removing those blocks and adopting Pixar’s culture of risk-taking, the Disney Animation team has since created a series of hits like *Tangled* and *Frozen*—their biggest hits since *The Lion King*. And as Catmull says, “Here’s the key takeaway – it’s largely the same people who were there when they were failing. All we were doing was trying to remove the roadblocks.”
 
@@ -397,13 +394,13 @@ What Disney Animation, and many other firms and individuals, sometimes lack is a
 
 For you and your work in digital services acquisition, two characteristics are particularly relevant and important to cultivate:
 
-* **Perspective on risk:** People who embrace a growth mindset are more willing to step outside of their comfort zone and take risks that might result in a short term “failure.” When you’re advocating for the non-traditional approaches you’ve learned about in this program, chances are that these are relatively, or entirely, new for your agency. As you learned in the Leading Change module, leading change from the middle is not easy; however, it is possible. By working to change your perspective on risk and those of your team members (and employing the other strategies discussed in the Leading Change module), you can gradually contribute to the growth mindset of your organization.  
-* **Embracing failure as you challenge the status quo:** By undertaking challenges, you open yourself up to learning opportunities. Failure will be part of that learning, that is, if you make a conscious effort to learn from it. Learning from failure means you analyze what happened and explore what you could’ve done differently to create an alternative outcome. Pixar embodies this approach (read more about their approach, introduced above, [here](https://www.brainpickings.org/2014/05/02/creativity-inc-ed-catmull-book/)). NASA is another organization that has adopted this mindset over the years. For instance, in the 1960s during the race to the moon, NASA leadership deliberately encouraged engineers to take more risks. When unmanned rockets exploded on takeoff, department heads would applaud; in this way, everyone would know that their division had tried and failed, but at least they had tried.
+* **Perspective on risk:** People who embrace a growth mindset are more willing to step outside of their comfort zone and take risks that might result in a short term “failure.” When you’re advocating for the non-traditional approaches you’ve learned about in this program, chances are that these are relatively, or entirely new for your agency. As you learned in the Leading Change module, leading change from the middle is not easy; however, it is possible. By working to change your perspective on risk and those of your team members (and employing the other strategies discussed in the Leading Change module), you can gradually contribute to the growth mindset of your organization.  
+* **Embracing failure as you challenge the status quo:** By undertaking challenges, you open yourself up to learning opportunities. Failure will be part of that learning, that is, if you make a conscious effort to learn from it. Learning from failure means you analyze what happened and explore what you could’ve done differently to create an alternative outcome. Pixar embodies this approach (read more about their approach, introduced above, [here](https://www.brainpickings.org/2014/05/02/creativity-inc-ed-catmull-book/)). NASA is another organization that has adopted this mindset over the years. For instance, in the 1960s, during the race to the moon, NASA leadership deliberately encouraged engineers to take more risks. When unmanned rockets exploded on takeoff, department heads would applaud; in this way, everyone would know that their division had tried and failed, but at least they had tried.
 
 ---
-## Wellness Rituals to Support You in Times of Transition
+## Wellness rituals to support you in times of transition
 
-Failure is a natural part of growth, if you’re not failing, you’re likely not taking enough risks. The key is to take small, calculated risks over time (the “buy small, miss small” principle) and develop strategies to support yourself through change.
+Failure is a natural part of growth; if you’re not failing, you’re likely not taking enough risks. The key is to take small, calculated risks over time (the “buy small, miss small” principle) and develop strategies to support yourself through change.
 
 Research by Jim Loehr and Tony Schwartz [(“The Making of a Corporate Athlete,” Harvard Business Review, 2001)](https://hbr.org/2001/01/the-making-of-a-corporate-athlete) shows that sustained high performance requires engaging four capacities—body, emotions, mind, and spirit—treating individuals as a whole. Small, daily rituals can strengthen these areas and help maintain performance even under stress.
 
@@ -413,7 +410,7 @@ Support systems are essential; connecting with others provides encouragement and
 
 ---
 
-## Analyze Where the “No” Came From
+## Analyze where the “no” came from
 
 So, you’ve been told no. You’ve been cultivating your growth mindset and using wellness techniques to keep you in the right frame of mind. Now it’s time to think through why you were told “no” and determine how to move forward from there.
 
@@ -427,11 +424,11 @@ When you are told “no,” it becomes easy to dwell on what went wrong. It’s 
 To avoid falling victim to these cognitive traps, take a step back and revisit your preparation for the conversation. Think back to the Ladder of Inference as a tool to help you think about how the other party in a conversation draws his/her conclusions. Try to consider the role that the Ladder of Inference may have had when you were told “no.” Did the other party interpret the information differently than you expected? Are they even looking at the same information as you in their analysis? 
 
 ---
-## Should I Fight This Battle, or How Might I Adjust My Approach To Make It More “Winnable”?
+## Should I fight this battle, or how might I adjust my approach to make it more “winnable”?
 
-Once you’ve analyzed the situation, and you understand the origin of the “no,” assess whether this is a challenge that you should pursue. Ask yourself the following questions:
+Once you’ve analyzed the situation and you understand the origin of the “no,” assess whether this is a challenge that you should pursue. Ask yourself the following questions:
 
-* **Is this a situation that, if left unaddressed, could cause real harm to my agency or the government or threaten our ability to achieve our mission?** The answer to this question is relative, and it’s not black and white. Recall the discussion from the classroom session and the example included at the beginning of this module about Carmen Medina. Ms. Medina felt that the mission of the CIA, and the intelligence community, was at risk by not having a real-time way to share information.  
+* **Is this a situation that, if left unaddressed, could cause real harm to my agency or the government or threaten our ability to achieve our mission?** The answer to this question is relative, and it’s not black and white. Recall the discussion from the classroom session and the example included at the beginning of this module about Carmen Medina. Ms. Medina felt that the mission of the CIA and the intelligence community was at risk by not having a real-time way to share information.  
 * **What are my obstacles and opportunities?** Size up the risks associated with continuing to advocate for this change, and determine if it’s a risk worth taking. Ask yourself: could continuing to push for this change *in the same way* threaten my job? How might I adjust my approach or bide my time until conditions are more favorable? Again, think of Carmen Medina and her approach to change. (Beware of using the “bide my time” approach as a cop-out\!)  
 * **How do I advance some change—any change—while also maintaining working relationships?** Consider how to meet the person where they are and advance change incrementally, while maintaining relationships and not demoralizing the team. As you learned earlier, this is the essence of being a network leader, and your role in digital services acquisition; you have to collaborate with people in your network to make change happen. Remember the content around influence? Meeting another person where they are shows that you care about them and makes them more willing to work with you over time. 
 
@@ -448,7 +445,7 @@ Refer back to your Change and Innovation Readiness Survey from Module 2 to help 
 
 ---
 
-## What to Do When You’re Told No \- Framework in Action
+## What to do when you’re told no \- framework in action
 
 Now that you’ve learned about a framework you can use to figure out why you were told “no” and how to respond, try putting it into practice in the scenario that follows.
 
@@ -466,7 +463,7 @@ Review the following factors were at play in this situation:
 
 ### Part 1: Analyze the no
 
-Knowledge Check
+Knowledge check
 
 So what’s next?
 
@@ -481,9 +478,9 @@ Analyze the “no” a bit more. Besides not presenting the change in a way that
 > Correct! Both resistance due to system justification and fear of failure are common, human responses to change. Credentials alone won’t necessarily build trust or shift deeply rooted team dynamics.
 
 
-### Part 2: How Might I Adjust My Approach to Make it More Winnable?
+### Part 2: How might I adjust my approach to make it more winnable?
 
-Knowledge Check
+Knowledge check
 
 You’ve determined that this is an important enough topic that you should pursue it, but that you need to change up your approach. So, size up the situation, obstacles, and opportunities. Think of small incremental changes you can make. Given the environment and what has recently happened, what should you do?
 
@@ -497,18 +494,18 @@ You’ve determined that this is an important enough topic that you should pursu
 
 
 ---
-## Adjust Approach & Identify Lessons Learned
+## Adjust approach & identify lessons learned
 
-Now that you’ve assessed the root of the “no,” considered whether or how to advance change, and considered the right-size amount of change, determine how best to approach the situation. Use the Lean “[build-measure-learn](http://theleanstartup.com/principles)” approach here. Decide how to adjust, test it out, and see how it works. Then, learn from the experience by documenting lessons learned and sharing them with others.
+Now that you’ve assessed the root of the “no,” considered whether or how to advance change, and considered the right size amount of change, determine how best to approach the situation. Use the Lean “[build-measure-learn](http://theleanstartup.com/principles)” approach here. Decide how to adjust, test it out, and see how it works. Then, learn from the experience by documenting lessons learned and sharing them with others.
 
 Remember our discussion of wellness rituals and performance areas from our earlier discussion? [Well, it just so happens that research shows that capitalizing on your strengths leads you to feel revitalized](http://www.sciencedirect.com/science/article/pii/S0191886910003946). Another wellness ritual to add to your arsenal! If you’re dealing with a difficult situation, remind yourself and affirm your strengths. Then, think about how to leverage those strengths along your change and innovation journey.
 
 ---
-## Telling Your Procurement Story
+## Telling Your procurement story
 
-### Sharing What You’ve Learned to Help Others Succeed
+### Sharing what you’ve learned to help others succeed
 
-**Why Your Story Matters**
+**Why your story matters**
 
 Digital service procurement is always evolving. What works today might help someone else tomorrow. Sharing your procurement experiences, what went well, what didn’t, and what you’d do differently, is a powerful way to help the community.
 
@@ -516,10 +513,10 @@ You don’t need to be a professional writer. Honest reflection and storytelling
 
 As a DITAP graduate, you can pay it forward by documenting your successes and lessons learned, contributing to the larger body of knowledge, one story at a time.
 
-### Why Sharing Matters in Government Procurement
+### Why sharing matters in government procurement
 
 
-#### When You Share, Everyone Benefits
+#### When you share, everyone benefits
 Procurement can be messy, new tech, tight timelines, unexpected challenges, but every project teaches lessons about collaboration, process, communication, risk, and innovation. Sharing those lessons strengthens the whole ecosystem by:
 
 - Avoiding repeat mistakes  
@@ -527,16 +524,16 @@ Procurement can be messy, new tech, tight timelines, unexpected challenges, but 
 - Spreading good ideas across agencies  
 - Creating a record of lessons for others to build on  
 
-#### Stories Make Work Understandable
+#### Stories make work understandable
 Acquisition isn’t linear. Stories explain the “why” and “how” behind decisions, making lessons memorable and applicable in different contexts.  
 
-#### What to Share
+#### What to share
 - **Explicit knowledge:** Policies, templates, rules  
 - **Tacit knowledge:** Gut instincts, relationship strategies, workarounds  
 
 Sharing your procurement story turns tacit knowledge into practical guidance for others.  
 
-#### Building a Sharing Culture
+#### Building a sharing culture
 Normalize knowledge sharing by:  
 
 - Learning from mistakes openly  
@@ -546,23 +543,23 @@ Normalize knowledge sharing by:
 Psychological safety is key. Supportive leadership, public recognition, or incorporating sharing into performance goals can foster lasting change.
 
 
-### Blogging Your Procurement Journey
+### Blogging Your procurement journey
 
-#### Why Blog?  
+#### Why blog?  
 Blogging is an easy way to share what you know. Keep it honest, helpful, and clear, like explaining to a colleague who wasn’t in the room. Sharing experiences helps others learn, builds community, and makes your work visible.
 
-#### Blogs Can:  
+#### Blogs can:  
 - Break down what worked and why  
 - Highlight tools, templates, or techniques  
 - Share lessons learned  
 - Serve as starting points for case studies  
 
-#### Good Blogging is User-Centered  
+#### Good blogging is user-centered  
 - Who are you writing for?  
 - What should they learn?  
 - How can it help them do their work better?  
 
-#### Blog Structure (Problem-Solution-Impact)  
+#### Blog structure (problem-solution-impact)  
 - **Problem:** What were you trying to solve?  
 - **Solution:** What did you try?  
 - **Impact:** What happened? What would you do differently?  
@@ -572,15 +569,15 @@ Keep posts short (500–800 words), use plain language, clear headers, links/vis
 Reference: [TTS Blogging Guide](https://www.gsa.gov/tts/blogging-guide)
 
 
-### Writing a Procurement Case Study
+### Writing a procurement case study
 
-#### What Makes a Good Case Study?
+#### What makes a good case study?
 
 Case studies have been a core part of this course, used to evaluate vendor approaches, support your in-class activities, and serve as key reference material drawn from the Periodic Table of Acquisition Innovations. They help us learn not just by doing, but by seeing how others have approached similar challenges. In fact, creating your own case study is an outstanding way to reflect and capture the insights you’ve gained from a particular strategy, approach, or procurement process. It helps solidify your learning and contributes to the broader community of practice. Case studies give you the chance to go deep, to show not just what happened, but how and why. They offer a fuller picture of your procurement approach, including the real-world conditions that shaped your decisions and the results that followed.
 
 They're not just stories to read; they're tools for learning. Whether someone is looking for examples to follow or pitfalls to avoid, a well-written case study becomes a how-to guide grounded in lived experience.
 
-#### Key Elements of a Great Case Study
+#### Key elements of a great case study
 
 A good case study balances narrative and analysis. It provides the big picture and zooms in on key moments that changed the direction or tone of the work. Here's how you might break it down:
 
@@ -598,7 +595,7 @@ A good case study balances narrative and analysis. It provides the big picture a
 | **Call to Action** | Invite others to try your method or reach out | Encourages ongoing conversation and knowledge sharing |
 
 
-#### Tips for Writing a Strong Case Study
+#### Tips for writing a strong case study
 
 * **Use plain language.** Don’t assume readers know your agency’s acronyms or internal jargon.  
 * **Make it skimmable.** Use bullet points, headers, and pull quotes so readers can scan and dig in where needed.  
@@ -610,21 +607,21 @@ By documenting your process in this way, you help others avoid having to reinven
 
 We have included a sample case study template for Procurements of AI Tools, which is a relevant and immediate topic. The more agencies can share what and how they are procuring AI solutions, the better everyone will get. 
 
-### Navigating Disclosure: What and How to Share
+### Navigating disclosure: What and how to share
 
 While transparency is a core principle, acquisition professionals must understand the boundaries of what information can be shared. This involves careful consideration of sensitive information, proprietary data, and ongoing legal or contractual obligations. The focus should remain on sharing lessons learned, process improvements, and measurable public benefits. Government guidelines on transparency, even in areas like supply chains, often detail requirements for disclosing organizational structure, supply chain overview, long-term partnerships, and how information was gathered. 
 
-Emphasis is placed on detailed disclosure requirements and data accuracy and verification in procurement documents. For audit purposes, it is often advised to "over-document everything" and to "Trust, but verify" vendor data.  
+Emphasis is placed on detailed disclosure requirements, data accuracy, and verification in procurement documents. For audit purposes, it is often advised to "over-document everything" and to "Trust, but verify" vendor data.  
 
 Navigating disclosure requires a balance between openness and strategic protection. While extensive disclosure requirements exist in government and procurement, there is an inherent tension between complete transparency and safeguarding sensitive commercial or national security information. Acquisition professionals need to understand that sharing "what worked well" should be done in a manner that provides actionable insights without compromising competitive advantage for vendors or sensitive government operations. This often necessitates careful judgment and potentially redacting specific figures or proprietary details while still conveying the core lessons and benefits. It is about *strategic* transparency that maximizes public benefit without undue risk. The ability to share transparent stories about procurement success is directly tied to the quality and completeness of internal documentation. The advice to "Over-document everything" for audit trails and the observation that "Better Record Management" is a benefit of transparency underscore this connection. Acquisition professionals should be encouraged to maintain meticulous records throughout the acquisition process, not solely for compliance, but as a foundational element for future storytelling. Robust documentation makes it easier to verify claims, provide evidence, and ensure the accuracy required for public sharing.
 
-### Getting Internal Approval to Publish
+### Getting internal approval to publish
 
-Publishing your procurement story often means getting approval from your agency’s communications office, Office of General Counsel (OGC), and sometimes public affairs or external media teams. Don’t let that slow you down, there are steps you can take to make the process smoother and increase your chances of a green light.
+Publishing your procurement story often means getting approval from your agency’s communications office, Office of General Counsel (OGC), and sometimes public affairs or external media teams. Don’t let that slow you down; there are steps you can take to make the process smoother and increase your chances of a green light.
 
 Tips to navigate approvals:
 
-#### Tips to Navigate Approvals
+#### Tips to navigate approvals
 
 | Tip | Description |
 |-----|-------------|
@@ -640,10 +637,11 @@ Tips to navigate approvals:
 Framing your story as a contribution to professional development and government-wide learning often shifts the tone from "risk" to "value." The more you position yourself as a thoughtful steward of your agency’s mission, the more likely you are to get support.
 
 ---
-## AI Tool Procurement Case Study Template
+## AI tool procurement case study template
 
 This template is designed to help contracting officers document and share their procurement experience with AI tools. Use it to reflect on your process, capture insights, and contribute to shared learning across government.
 
+*Use this template to document your AI tool procurement experience and share with your peers, acquisition community, or as a formal case study contribution to internal or external knowledge hubs.*
 ---
 
 **Title:**
@@ -654,13 +652,13 @@ Example: *“Procuring an AI-Powered Document Summarization Tool for FOIA Reques
 
 ---
 
-**Executive Summary:**
+**Executive summary:**
 
 Brief overview of what this procurement aimed to accomplish, the kind of AI tool involved, and the overall outcome.
 
 ---
 
-**Agency Context:**
+**Agency context:**
 
 * Name of agency and office
 
@@ -670,7 +668,7 @@ Brief overview of what this procurement aimed to accomplish, the kind of AI tool
 
 ---
 
-**Initial Use Case:**
+**Initial use case:**
 
 * What problem were you trying to solve?
 
@@ -680,7 +678,7 @@ Brief overview of what this procurement aimed to accomplish, the kind of AI tool
   
 ---
 
-**Desired AI Capabilities:**
+**Desired AI capabilities:**
 
 * What specific type of AI or machine learning capability were you seeking? (e.g., summarization, classification, chat interface, generative models, etc.)
 
@@ -688,7 +686,7 @@ Brief overview of what this procurement aimed to accomplish, the kind of AI tool
   
 ---
 
-**Market Research Conducted:**
+**Market research conducted:**
 
 * What tools or techniques did you use for market research? (e.g., RFIs, industry days, market surveys)
 
@@ -698,7 +696,7 @@ Brief overview of what this procurement aimed to accomplish, the kind of AI tool
   
 ---
 
-**Final Tool Selected:**
+**Final tool selected:**
 
 * Description of the tool or platform selected
 
@@ -708,7 +706,7 @@ Brief overview of what this procurement aimed to accomplish, the kind of AI tool
   
 ---
 
-**Security and Privacy Navigation:**
+**Security and privacy navigation:**
 
 * What were the major concerns or constraints related to security, privacy, or data governance?
 
@@ -718,7 +716,7 @@ Brief overview of what this procurement aimed to accomplish, the kind of AI tool
   
 ---
 
-**Procurement Strategy:**
+**Procurement strategy:**
 
 * What type of contract or vehicle did you use?
 
@@ -728,7 +726,7 @@ Brief overview of what this procurement aimed to accomplish, the kind of AI tool
   
 ---
 
-**Implementation Lessons:**
+**Implementation lessons:**
 
 * What went well during implementation?
 
@@ -738,7 +736,7 @@ Brief overview of what this procurement aimed to accomplish, the kind of AI tool
   
 ---
 
-**Results / Outcomes:**
+**Results / outcomes:**
 
 * What impact has the tool had (so far)?
 
@@ -746,7 +744,7 @@ Brief overview of what this procurement aimed to accomplish, the kind of AI tool
 
 ---
 
-**Retrospective & Recommendations:**
+**Retrospective and recommendations:**
 
 * What would you do differently next time?
 
@@ -756,7 +754,7 @@ Brief overview of what this procurement aimed to accomplish, the kind of AI tool
   
 ---
 
-**Supporting Materials:**
+**Supporting materials:**
 
 Attach or link to any of the following if available:
 
@@ -772,7 +770,7 @@ Attach or link to any of the following if available:
 
 ---
 
-*Use this template to document your AI tool procurement experience and share with your peers, acquisition community, or as a formal case study contribution to internal or external knowledge hubs.*
+
 
 ## Conclusion
 
