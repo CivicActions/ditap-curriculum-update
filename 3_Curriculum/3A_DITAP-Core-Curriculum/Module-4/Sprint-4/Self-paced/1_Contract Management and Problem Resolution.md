@@ -363,7 +363,7 @@ Case Study Background Materials
 
 ## Exit strategy 
 
-### Case study: The digital identity crisis at FedConnect
+### The digital identity crisis at FedConnect
 
 *Choose Your Own Path: The FedConnect Exit Strategy*
 
