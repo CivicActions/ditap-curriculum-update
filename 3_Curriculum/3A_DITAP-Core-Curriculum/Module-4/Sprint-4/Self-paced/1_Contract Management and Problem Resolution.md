@@ -735,6 +735,19 @@ Select one of the following:
 - [[ ]] Option B: Accept CloudTech’s remediation proposal
 - [[ ]] Option C: Restructure to a single prime contractor
 
+
+Select one of the following options for how to proceed with CloudTech:
+
+- [[ ]] **Option A:** Terminate CloudTech for default  
+  > ⚠️ Consider the consequences carefully: terminating may remove a problematic vendor but also loses continuity.  
+
+- [[ ]] **Option B:** Accept CloudTech’s remediation proposal  
+  > ✅ Think about whether the remediation is sufficient to protect the system and maintain trust.  
+
+- [[ ]] **Option C:** Restructure to a single prime contractor  
+  > ⚠️ This simplifies contracts but may reduce flexibility and innovation opportunities.  
+
+
 Keep going to view the outcome of your decision.
 
 #### Option A: Terminate CloudTech for default
