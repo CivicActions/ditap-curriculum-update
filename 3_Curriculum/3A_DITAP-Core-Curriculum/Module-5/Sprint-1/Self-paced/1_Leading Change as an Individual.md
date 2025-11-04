@@ -545,13 +545,13 @@ Psychological safety is key. Supportive leadership, public recognition, or incor
 #### Why blog?  
 Blogging is an easy way to share what you know. Keep it honest, helpful, and clear, like explaining to a colleague who wasn’t in the room. Sharing experiences helps others learn, builds community, and makes your work visible.
 
-#### Blogs can:  
+Blogs can:  
 - Break down what worked and why  
 - Highlight tools, templates, or techniques  
 - Share lessons learned  
 - Serve as starting points for case studies  
 
-#### Good blogging is user-centered  
+Good blogging is user-centered  
 - Who are you writing for?  
 - What should they learn?  
 - How can it help them do their work better?  
@@ -608,7 +608,7 @@ At the end of this sprint, we have included a sample case study template for Pro
 
 While transparency is a core principle, acquisition professionals must understand the boundaries of what information can be shared. This involves careful consideration of sensitive information, proprietary data, and ongoing legal or contractual obligations. The focus should remain on sharing lessons learned, process improvements, and measurable public benefits. Government guidelines on transparency, even in areas like supply chains, often detail requirements for disclosing organizational structure, supply chain overview, long-term partnerships, and how information was gathered. 
 
-Emphasis is placed on detailed disclosure requirements, data accuracy, and verification in procurement documents. For audit purposes, it is often advised to "over-document everything" and to "Trust, but verify" vendor data.  
+>Emphasis is placed on detailed disclosure requirements, data accuracy, and verification in procurement documents. For audit purposes, it is often advised to "over-document everything" and to "Trust, but verify" vendor data.  
 
 Navigating disclosure requires a balance between openness and strategic protection. While extensive disclosure requirements exist in government and procurement, there is an inherent tension between complete transparency and safeguarding sensitive commercial or national security information. Acquisition professionals need to understand that sharing "what worked well" should be done in a manner that provides actionable insights without compromising competitive advantage for vendors or sensitive government operations. This often necessitates careful judgment and potentially redacting specific figures or proprietary details while still conveying the core lessons and benefits. It is about *strategic* transparency that maximizes public benefit without undue risk. The ability to share transparent stories about procurement success is directly tied to the quality and completeness of internal documentation. The advice to "Over-document everything" for audit trails and the observation that "Better Record Management" is a benefit of transparency underscore this connection. Acquisition professionals should be encouraged to maintain meticulous records throughout the acquisition process, not solely for compliance, but as a foundational element for future storytelling. Robust documentation makes it easier to verify claims, provide evidence, and ensure the accuracy required for public sharing.
 
