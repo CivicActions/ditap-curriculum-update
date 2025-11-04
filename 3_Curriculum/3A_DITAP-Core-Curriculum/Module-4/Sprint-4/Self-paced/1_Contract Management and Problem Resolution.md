@@ -225,17 +225,19 @@ Case Study Materials
 
 
 ## Discussion instructions (required)
->Note: this is a **required** self-paced learning activity in the Learning Portal.
+>Note: this is a **required** activity in the Learning Portal.
 
 This discussion activity challenges you to apply modern software engineering practices to real federal IT acquisition challenges, using the FAFSA case study and other current examples from [GAO's 2025 High Risk List](https://www.gao.gov/high-risk-list). Your analysis should demonstrate understanding of how contemporary DevOps, CI/CD, and digital transformation practices can address systemic issues that plague federal IT acquisitions.
 
 **Step 1:** Choose a case study
 
-**Step 2:** Respond to the Three Discussion Questions
+**Step 2:** Respond to the three discussion questions
 
 **Step 3:** Write your initial post (Due by the end of Module 4)
 
-**Step 4:** Engage with Your Peers 
+**Step 4:** Engage with your peers 
+
+>There are resources in the *Additional resources for analysis* section that may help with this activity.
 
 ### Case study selection
 
@@ -261,18 +263,18 @@ Choose ONE of the following federal IT challenges for your analysis:
 
 #### Question 1: Acquisition Strategy Redesign
 
-**Scenario Application**: Apply your selected case study to the threaded case study scenario we've been using throughout this module. How would you restructure the acquisition approach to prevent the failures you've identified?
+**Scenario Application**: For your selected case study, how would you restructure the acquisition approach to prevent the failures you've identified?
 
-Specific Analysis Required:
+**Specific Analysis Required:**
 
-* Contract Structure: How would you modify contract type, performance standards, and payment structures to incentivize modern development practices?  
-* Vendor Selection: What evaluation criteria would prioritize vendors with demonstrated DevSecOps and CI/CD capabilities?  
-* Oversight Framework: How would you establish government oversight that enables rather than impedes Agile delivery methods?  
-* Risk Mitigation: What contract mechanisms would provide early warning systems for delivery problems?
+* **Contract Structure:** How would you modify contract type, performance standards, and payment structures to incentivize modern development practices?  
+* **Vendor Selection:** What evaluation criteria would prioritize vendors with demonstrated DevSecOps and CI/CD capabilities?  
+* **Oversight Framework:** How would you establish government oversight that enables rather than impedes Agile delivery methods?  
+* **Risk Mitigation:** What contract mechanisms would provide early warning systems for delivery problems?
 
 **Practical Deliverable:** Design a specific contract clause or statement of work language that addresses one of the root causes you identified in your chosen case study.
 
-**Learning Note:** *Consider how performance-based contracting can incentivize quality outcomes, what role government technical capacity plays in effective oversight, how modular contracting approaches enable iterative delivery, and what contract terms are needed to support DevSecOps integration.*
+>**Learning Tip:** *Consider how performance-based contracting can incentivize quality outcomes, what role government technical capacity plays in effective oversight, how modular contracting approaches enable iterative delivery, and what contract terms are needed to support DevSecOps integration.*
 
 ---
 
@@ -287,15 +289,15 @@ Specific Analysis Required:
 * **Sustainable Expertise:** How would you address the problem of high turnover in government technical positions (FAFSA had six different CIOs during the modernization period)?  
 * **Vendor Partnership Model:** What type of government-vendor collaboration model would maximize learning while maintaining appropriate oversight?
 
-**Practical Application:** Using your threaded case study scenario, design a comprehensive approach for building your agency's internal technical capacity through strategic acquisition planning.
+**Practical Application:** Using your chosen case study, design a comprehensive approach for building your agency's internal technical capacity through strategic acquisition planning.
 
-**Learning Note:** *Consider what skills government staff need to effectively oversee modern IT contracts, how to structure vendor relationships that build rather than replace government expertise, what role technical training and certification play in acquisition workforce development, and how to create sustainable technical career paths within government.*
+>**Learning Tip:** *Consider what skills government staff need to effectively oversee modern IT contracts, how to structure vendor relationships that build rather than replace government expertise, what role technical training and certification play in acquisition workforce development, and how to create sustainable technical career paths within government.*
 
 ---
 
 #### Question 3: Performance measurement and continuous improvement 
 
-**Industry Context**: Research shows that technical adoption alone doesn't guarantee success—organizational culture, change management, and performance measurement are equally critical for digital transformation success.
+**Industry Context**: Research shows that technical adoption alone doesn't guarantee success — organizational culture, change management, and performance measurement are equally critical for digital transformation success.
 
 **Federal Application Analysis:**
 
@@ -306,7 +308,7 @@ Specific Analysis Required:
 
 **Scenario Integration:** Apply your performance measurement framework to the threaded case study, showing how you would track progress and drive continuous improvement throughout the contract lifecycle.
 
-**Learning Note:** *Consider why traditional contract compliance metrics may conflict with Agile delivery methods, how to balance accountability with innovation flexibility, what role user feedback should play in contract performance evaluation, and how to structure vendor incentives that promote continuous improvement rather than minimum compliance.*
+>**Learning Tip:** *Consider why traditional contract compliance metrics may conflict with Agile delivery methods, how to balance accountability with innovation flexibility, what role user feedback should play in contract performance evaluation, and how to structure vendor incentives that promote continuous improvement rather than minimum compliance.*
 
 ### Definition of done
 
@@ -326,15 +328,18 @@ Your initial post must include:
    - Include at least one concrete example of contract language, evaluation criteria, or oversight procedure.  
    - Reference concepts and practices learned throughout the DITAP course.
 
+---
 
 **Peer Engagement Requirements**
 
-Engage meaningfully with at least three classmates' posts by:
+Engage meaningfully with at least two classmates' posts by:
 
 1. Comparative Analysis: Compare your approach with classmates who chose different case studies but similar acquisition strategies  
 2. Alternative Perspectives: Challenge or build upon classmates' recommendations with specific examples from your experience  
 3. Implementation Discussion: Discuss practical challenges of implementing proposed solutions in real federal acquisition environments  
 4. Best Practice Synthesis: Identify common themes across different approaches and case studies
+
+---
 
 **Success Tips**
 
@@ -344,7 +349,7 @@ Engage meaningfully with at least three classmates' posts by:
 4. Think Practically: Consider real-world implementation challenges, including budget constraints, regulatory requirements, and political pressures.  
 5. Learn from Peers: Use peer discussion to refine your understanding and discover alternative approaches to common challenges.
 
-## Additional resources for analysis
+### Additional resources for analysis
 
 Federal Acquisition Context
 
