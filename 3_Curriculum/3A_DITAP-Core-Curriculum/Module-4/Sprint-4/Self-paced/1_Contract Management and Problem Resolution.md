@@ -719,22 +719,29 @@ Analyze the pros and cons of:
 
 ## Choose your own path: The FedConnect exit strategy
 
-### Scenario introduction
-
 You are **Sarah Martinez**, a seasoned Contracting Officer at the Federal Bureau of Digital Services (FBDS). Eighteen months ago, your agency launched *FedConnect*, a modular digital identity platform meant to revolutionize citizen access to federal services.
 
-You adopted modular contracting to encourage flexibility and reduce vendor lock-in. But one vendor—**CloudTech Innovations**, responsible for the authentication module—has become a bottleneck. Their service fails under real-world load, creating cascading integration issues and locking users out during pilot testing.
+You adopted modular contracting to encourage flexibility and reduce vendor lock-in. But one vendor — **CloudTech Innovations**, responsible for the authentication module — has become a bottleneck. Their service fails under real-world load, creating cascading integration issues and locking users out during pilot testing.
 
-You must now decide how to proceed. Your recommendation could shape the future of this $25 million digital initiative—and the agency’s confidence in modular contracting.
+You must now decide how to proceed. Your recommendation could shape the future of this $25 million digital initiative — and the agency’s confidence in modular contracting.
 
 ### Decision point
 
 **What strategy should you recommend to leadership?**  
+
 Select one of the following:
+
+- [[ ]] Option A: Terminate CloudTech for default
+- [[ ]] Option B: Accept CloudTech’s remediation proposal
+- [[ ]] Option C: Restructure to a single prime contractor
+
+Keep going to view the outcome of your decision.
 
 #### Option A: Terminate CloudTech for default
 
-**You prioritize accountability.** You recommend terminating CloudTech’s contract and launching an emergency procurement to find a replacement.
+**You prioritize accountability.** 
+
+You recommend terminating CloudTech’s contract and launching an emergency procurement to find a replacement.
 
 **Consequences:**
 
@@ -749,17 +756,18 @@ Select one of the following:
 
  Which of these are required for a successful vendor transition?
 
-- [ ] Updated interface specs
-- [ ] Contract novation
-- [ ] Parallel testing plans
-- [ ] GAO approval
-
-> ✅ **Correct Answers:** Updated interface specs, Parallel testing plans
+- [[x]] Updated interface specs
+- [[ ]] Contract novation
+- [[x]] Parallel testing plans
+- [[ ]] GAO approval
+[[?]] Think about what ensures continuity and compatibility when a new vendor takes over — focus on technical alignment and validation, not legal or external approvals.
 
 
 #### Option B: Accept CloudTech’s remediation proposal
 
-**You decide to preserve continuity.** You recommend giving CloudTech a second chance—under new, stricter performance and integration terms.
+**You decide to preserve continuity.** 
+
+You recommend giving CloudTech a second chance — under new, stricter performance and integration terms.
 
 **Consequences:**
 
@@ -767,23 +775,25 @@ Select one of the following:
 * Stakeholders question the wisdom of further investment in a weak vendor.  
 * The modular structure remains intact, but trust in CloudTech erodes.
 
-**Reflection Prompt:** *Are you rewarding poor performance—or protecting a fragile system? What performance guardrails should you now require?*
+**Reflection Prompt:** *Are you rewarding poor performance — or protecting a fragile system? What performance guardrails should you now require?*
 
 **Quick Check:**
 
 Which of the following should be added to CloudTech’s modified contract?
 
-- [ ] Clear timeout/error-handling protocols
-- [ ] Joint integration test milestones
-- [ ] Public apology
-- [ ] Co-located teams with other vendors
+- [[x]] Clear timeout/error-handling protocols
+- [[x]] Joint integration test milestones
+- [[ ]] Public apology
+- [[ ]] Co-located teams with other vendors
+[[?]] Focus on measurable, technical safeguards that strengthen reliability and coordination — not reputation management or team logistics.
 
-> ✅ **Correct Answers:** Clear timeout/error-handling protocols, Joint integration test milestones
 
 
 #### Option C: Restructure to a single prime contractor
 
-**You choose to abandon modular contracting.** You recommend collapsing the project into a single-award, unified contract and recompeting the entire system.
+**You choose to abandon modular contracting.** 
+
+You recommend collapsing the project into a single-award, unified contract and recompeting the entire system.
 
 **Consequences:**
 
@@ -798,12 +808,12 @@ Which of the following should be added to CloudTech’s modified contract?
 
 What are key drawbacks to abandoning modularity mid-project?
 
-- [ ] Higher vendor competition
-- [ ] Loss of lessons learned
-- [ ] Reduced flexibility
-- [ ] More oversight from OMB
+- [[ ]] Higher vendor competition
+- [[x]] Loss of lessons learned
+- [[x]] Reduced flexibility
+- [[ ]] More oversight from OMB
+[[?]] Think about what’s lost when you give up incremental learning and adaptability — consider the long-term effects on innovation and responsiveness.
 
-> ✅ **Correct Answers:** Loss of lessons learned, Reduced flexibility
 
 
 ### Final reflection
@@ -817,7 +827,7 @@ You’ve made your recommendation. As you prepare to brief agency leadership and
 
 ### Optional: Replay & explore another path
 
-Want to explore a different decision path? Go back and choose another option to see how outcomes differ—and how tradeoffs shift depending on your strategy.
+Want to explore a different decision path? Go back and choose another option to see how outcomes differ — and how tradeoffs shift depending on your strategy.
 
 ## Conclusion
 
