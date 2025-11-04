@@ -544,8 +544,11 @@ D. Ask tough questions and challenge assumptions
 **2\. You feel most energized when:**
 
 A. Facilitating conversations and connecting colleagues
-B. Getting tasks across the finish line 
-C. Identifying long-term improvements and patterns  
+
+B. Getting tasks across the finish line
+
+C. Identifying long-term improvements and patterns
+
 D. Shaking things up or pushing for change that matters
 
 
@@ -554,8 +557,11 @@ D. Shaking things up or pushing for change that matters
 **3\. In meetings, you’re most likely to:**
 
 A. Help make sure everyone is heard
+
 B. Volunteer to take ownership of next steps
+
 C. Ask about how today’s work aligns with broader goals
+
 D. Question why the group is doing things a certain way
 
 
@@ -563,9 +569,12 @@ D. Question why the group is doing things a certain way
 
 **4\. Your teammates would likely describe you as:**
 
-A. Approachable and well-connected  
-B. Reliable and action-oriented  
-C. Strategic and thoughtful  
+A. Approachable and well-connected
+
+B. Reliable and action-oriented
+
+C. Strategic and thoughtful
+
 D. Bold and unafraid to challenge the norm
 
 
@@ -573,9 +582,12 @@ D. Bold and unafraid to challenge the norm
 
 **5\. When it comes to improving your team or agency, you:**
 
-A. Build networks or communities to share knowledge  
-B. Make small, consistent process changes  
-C. Analyze what’s working and propose big-picture solutions  
+A. Build networks or communities to share knowledge
+
+B. Make small, consistent process changes
+
+C. Analyze what’s working and propose big-picture solutions
+
 D. Call out what's not working — even if it's uncomfortable
 
 
