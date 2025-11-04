@@ -306,7 +306,7 @@ Choose ONE of the following federal IT challenges for your analysis:
 * **Continuous Improvement**: What contract structures and oversight processes would enable rapid identification and correction of delivery problems?  
 * **Cultural Change:** How can acquisition strategies support rather than hinder the cultural changes needed for successful digital transformation?
 
-**Scenario Integration:** Apply your performance measurement framework to the threaded case study, showing how you would track progress and drive continuous improvement throughout the contract lifecycle.
+**Scenario Integration:** Apply your performance measurement framework to your selected case study, showing how you would track progress and drive continuous improvement throughout the contract lifecycle.
 
 >**Learning Tip:** *Consider why traditional contract compliance metrics may conflict with Agile delivery methods, how to balance accountability with innovation flexibility, what role user feedback should play in contract performance evaluation, and how to structure vendor incentives that promote continuous improvement rather than minimum compliance.*
 
