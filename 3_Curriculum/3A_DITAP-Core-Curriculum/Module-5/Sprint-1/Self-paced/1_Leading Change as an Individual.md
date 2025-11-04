@@ -1,5 +1,5 @@
 # Introduction: Leading Change
-**Module 4 Sprint 4**
+**Module 5 Sprint 1**
 
 > _Average completion time: 60 - 90 minutes_
 
@@ -773,6 +773,11 @@ Attach or link to any of the following if available:
 ---
 
 *Use this template to document your AI tool procurement experience and share with your peers, acquisition community, or as a formal case study contribution to internal or external knowledge hubs.*
+
+## Conclusion
+
+>You’ve completed Sprint 1 of Module 5! Please close this window to return to the course main page, then select Mark Complete to record your progress.
+
 
 
 
