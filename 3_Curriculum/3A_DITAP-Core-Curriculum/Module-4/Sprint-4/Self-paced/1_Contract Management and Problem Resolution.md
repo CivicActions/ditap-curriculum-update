@@ -268,7 +268,7 @@ Choose ONE of the following federal IT challenges for your analysis:
 | **Practical Deliverable** | Design a specific contract clause or statement of work language that addresses one of the root causes you identified in your chosen case study. |
 | **Learning Note** | *Consider how performance-based contracting can incentivize quality outcomes, what role government technical capacity plays in effective oversight, how modular contracting approaches enable iterative delivery, and what contract terms are needed to support DevSecOps integration.* |
 
-**Question 2: Building government technical capacity**
+#### **Question 2: Building government technical capacity**
 
 | **Section** | **Details** |
 |--------------|-------------|
@@ -277,7 +277,7 @@ Choose ONE of the following federal IT challenges for your analysis:
 | **Practical Application** | Using your threaded case study scenario, design a comprehensive approach for building your agency's internal technical capacity through strategic acquisition planning. |
 | **Learning Note** | *Consider what skills government staff need to effectively oversee modern IT contracts, how to structure vendor relationships that build rather than replace government expertise, what role technical training and certification play in acquisition workforce development, and how to create sustainable technical career paths within government.* |
 
-**Question 3: Performance measurement and continuous improvement**
+#### **Question 3: Performance measurement and continuous improvement**
 
 | **Section** | **Details** |
 |--------------|-------------|
@@ -342,21 +342,18 @@ Specific Analysis Required:
 
 Your initial post must include:
 
-1. Case Study Selection and Analysis (300-400 words)
-     
-   * Clearly identify which case study you selected and why.
-      
-   * Summarize the key acquisition failures and their root causes.
-      
-   * Connect these failures to broader patterns in federal IT acquisition.
-       
-2. Question Responses (200-250 words each)
-   
-   * Address all three questions with specific, actionable recommendations.
-     
-   * Include at least one concrete example of contract language, evaluation criteria, or oversight procedure.
-     
-   * Reference concepts and practices learned throughout the DITAP course.
+1. **Case Study Selection and Analysis (300–400 words)**
+
+   - Clearly identify which case study you selected and why.  
+   - Summarize the key acquisition failures and their root causes.  
+   - Connect these failures to broader patterns in federal IT acquisition.
+
+2. **Question Responses (200–250 words each)**
+
+   - Address all three questions with specific, actionable recommendations.  
+   - Include at least one concrete example of contract language, evaluation criteria, or oversight procedure.  
+   - Reference concepts and practices learned throughout the DITAP course.
+
 
 **Peer Engagement Requirements (Due: One week after initial posts)**
 
