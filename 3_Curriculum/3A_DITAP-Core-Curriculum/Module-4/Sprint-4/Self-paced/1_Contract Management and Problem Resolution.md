@@ -229,9 +229,12 @@ Case Study Materials
 
 This discussion activity challenges you to apply modern software engineering practices to real federal IT acquisition challenges, using the FAFSA case study and other current examples from [GAO's 2025 High Risk List](https://www.gao.gov/high-risk-list). Your analysis should demonstrate understanding of how contemporary DevOps, CI/CD, and digital transformation practices can address systemic issues that plague federal IT acquisitions.
 
-**Step 1:** Choose a Case Study
+**Step 1:** Choose a case study
+
 **Step 2:** Respond to the Three Discussion Questions
-**Step 3:** Write Your Initial Post (Due by End of Module 4)
+
+**Step 3:** Write your initial post (Due by the end of Module 4)
+
 **Step 4:** Engage with Your Peers 
 
 ### Case study selection
@@ -256,19 +259,28 @@ Choose ONE of the following federal IT challenges for your analysis:
 
 ### Discussion questions
 
-| **Question** | **Details** |
-|---------------|-------------|
-| **Question 1: Acquisition Strategy Redesign** |  |
+#### **Question 1: Acquisition Strategy Redesign** 
+
+| **Section** | **Details** |
+|--------------|-------------|
 | **Scenario Application** | Apply your selected case study to the threaded case study scenario we've been using throughout this module. How would you restructure the acquisition approach to prevent the failures you've identified? |
 | **Specific Analysis Required** | • **Contract Structure:** How would you modify contract type, performance standards, and payment structures to incentivize modern development practices?<br>• **Vendor Selection:** What evaluation criteria would prioritize vendors with demonstrated DevSecOps and CI/CD capabilities?<br>• **Oversight Framework:** How would you establish government oversight that enables rather than impedes Agile delivery methods?<br>• **Risk Mitigation:** What contract mechanisms would provide early warning systems for delivery problems? |
 | **Practical Deliverable** | Design a specific contract clause or statement of work language that addresses one of the root causes you identified in your chosen case study. |
 | **Learning Note** | *Consider how performance-based contracting can incentivize quality outcomes, what role government technical capacity plays in effective oversight, how modular contracting approaches enable iterative delivery, and what contract terms are needed to support DevSecOps integration.* |
-| **Question 2: Building government technical capacity** |  |
+
+**Question 2: Building government technical capacity**
+
+| **Section** | **Details** |
+|--------------|-------------|
 | **Challenge** | Federal agencies often lack internal technical expertise to effectively oversee complex IT contracts, leading to inadequate vendor management and poor delivery outcomes (as demonstrated in the FAFSA case, where CIOs were not involved in governance activities). |
 | **Strategic Response Required** | • **Capacity Building Strategy:** How would you structure contracts to build government technical capacity rather than simply outsourcing technical decisions?<br>• **Knowledge Transfer Requirements:** What specific contract provisions would ensure that government staff gain technical expertise throughout the project lifecycle?<br>• **Sustainable Expertise:** How would you address the problem of high turnover in government technical positions (FAFSA had six different CIOs during the modernization period)?<br>• **Vendor Partnership Model:** What type of government-vendor collaboration model would maximize learning while maintaining appropriate oversight? |
 | **Practical Application** | Using your threaded case study scenario, design a comprehensive approach for building your agency's internal technical capacity through strategic acquisition planning. |
 | **Learning Note** | *Consider what skills government staff need to effectively oversee modern IT contracts, how to structure vendor relationships that build rather than replace government expertise, what role technical training and certification play in acquisition workforce development, and how to create sustainable technical career paths within government.* |
-| **Question 3: Performance measurement and continuous improvement** |  |
+
+**Question 3: Performance measurement and continuous improvement**
+
+| **Section** | **Details** |
+|--------------|-------------|
 | **Industry Context** | Research shows that technical adoption alone doesn't guarantee success—organizational culture, change management, and performance measurement are equally critical for digital transformation success. |
 | **Federal Application Analysis** | • **Current Challenge:** Why do federal agencies struggle to implement DevOps practices even when contracts require them? (Use specific examples from your chosen case study.)<br>• **Measurement Framework:** How would you design performance metrics that capture both technical delivery quality and user outcome achievement?<br>• **Continuous Improvement:** What contract structures and oversight processes would enable rapid identification and correction of delivery problems?<br>• **Cultural Change:** How can acquisition strategies support rather than hinder the cultural changes needed for successful digital transformation? |
 | **Scenario Integration** | Apply your performance measurement framework to the threaded case study, showing how you would track progress and drive continuous improvement throughout the contract lifecycle. |
