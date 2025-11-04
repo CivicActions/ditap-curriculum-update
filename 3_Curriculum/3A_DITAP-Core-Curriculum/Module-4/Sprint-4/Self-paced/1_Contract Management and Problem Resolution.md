@@ -90,37 +90,61 @@ The Department allocated $50 million in federal funding to nonprofit organizatio
 
 ### Modular contracting and incremental delivery
 
-**Problem with Traditional Approach:** The FAFSA modernization attempted a "big bang" replacement of the entire system, contradicting modern DevOps practices that emphasize incremental delivery and continuous feedback.
+**Problem with Traditional Approach:** 
 
-**Modern Solution:** Modular contracting breaks extensive IT modernizations into smaller, manageable components that can be delivered independently. Each module undergoes user testing and stakeholder feedback before integration with other elements.
+The FAFSA modernization attempted a "big bang" replacement of the entire system, contradicting modern DevOps practices that emphasize incremental delivery and continuous feedback.
 
-**Practical Application:** Structure contracts to deliver working software increments every 2-4 weeks, with user acceptance testing and stakeholder feedback integrated into each delivery cycle. Include contract clauses requiring demonstrated integration between modules before accepting new functionality.
+**Modern Solution:** 
+
+Modular contracting breaks extensive IT modernizations into smaller, manageable components that can be delivered independently. Each module undergoes user testing and stakeholder feedback before integration with other elements.
+
+**Practical Application:** 
+
+Structure contracts to deliver working software increments every 2-4 weeks, with user acceptance testing and stakeholder feedback integrated into each delivery cycle. Include contract clauses requiring demonstrated integration between modules before accepting new functionality.
 
 ### User-centered design and continuous feedback
 
-**Problem with Traditional Approach:** FSA did not conduct an independent review of the project's processes, products, and risks throughout its life cycle, which limited FSA's ability to identify and address costs and performance risks.
+**Problem with Traditional Approach:** 
 
-Modern Solution: Embed user research, usability testing, and stakeholder feedback loops directly into contract requirements and payment structures. Require vendors to conduct regular user testing sessions and demonstrate how feedback influences design decisions.
+FSA did not conduct an independent review of the project's processes, products, and risks throughout its life cycle, which limited FSA's ability to identify and address costs and performance risks.
 
-**Practical Application:** Include performance standards that measure user satisfaction, task completion rates, and accessibility compliance—structure payments to reward improvements in user experience metrics rather than simply delivering technical specifications.
+**Modern Solution:**
+
+Embed user research, usability testing, and stakeholder feedback loops directly into contract requirements and payment structures. Require vendors to conduct regular user testing sessions and demonstrate how feedback influences design decisions.
+
+**Practical Application:** 
+
+Include performance standards that measure user satisfaction, task completion rates, and accessibility compliance—structure payments to reward improvements in user experience metrics rather than simply delivering technical specifications.
 
 
 ## DevSecOps integration and quality assurance
 
-**Problem with Traditional Approach:** The FAFSA project separated security, testing, and deployment into sequential phases, which prevented the early identification of integration issues and security vulnerabilities.
+**Problem with Traditional Approach:** 
 
-**Modern Solution:** Require vendors to implement DevSecOps practices with automated testing, continuous security scanning, and integrated deployment pipelines. Include contract language that requires demonstration of these capabilities during the vendor selection process.
+The FAFSA project separated security, testing, and deployment into sequential phases, which prevented the early identification of integration issues and security vulnerabilities.
 
-**Practical Application:** Establish contract requirements for automated test coverage minimums (e.g., 80% code coverage), security scan frequency (e.g., daily), and deployment automation standards. Include penalties for deploying code that fails automated quality gates.
+**Modern Solution:** 
+
+Require vendors to implement DevSecOps practices with automated testing, continuous security scanning, and integrated deployment pipelines. Include contract language that requires demonstration of these capabilities during the vendor selection process.
+
+**Practical Application:** 
+
+Establish contract requirements for automated test coverage minimums (e.g., 80% code coverage), security scan frequency (e.g., daily), and deployment automation standards. Include penalties for deploying code that fails automated quality gates.
 
 
 ## Technical oversight and government capacity building
 
-**Problem with Traditional Approach:** The Chief Information Officers from both ED and FSA were not involved in governance and oversight activities for the FPS, which is "essential" for successful modernization. Since the FAFSA overhaul began in 2021, there have been six different Education Department CIOs.
+**Problem with Traditional Approach:** 
 
-**Modern Solution:** Structure contracts to require regular technical reviews with government technical staff, include knowledge transfer requirements, and establish joint government-vendor technical working groups for significant decisions.
+The Chief Information Officers from both ED and FSA were not involved in governance and oversight activities for the FPS, which is "essential" for successful modernization. Since the FAFSA overhaul began in 2021, there have been six different Education Department CIOs.
 
-**Practical Application:** Require vendors to provide technical training to government staff, document architectural decisions with government review, and establish escalation procedures that involve government technical leadership in delivery decisions.
+**Modern Solution:** 
+
+Structure contracts to require regular technical reviews with government technical staff, include knowledge transfer requirements, and establish joint government-vendor technical working groups for significant decisions.
+
+**Practical Application:** 
+
+Require vendors to provide technical training to government staff, document architectural decisions with government review, and establish escalation procedures that involve government technical leadership in delivery decisions.
 
 --- 
 
@@ -197,11 +221,11 @@ Federal Guidance and Best Practices
 Case Study Materials
 
 * [GAO FAFSA Investigation Reports](https://www.gao.gov/blog/botched-fafsa-rollout-leaves-uncertainty-students-seeking-financial-aid-college)  
-* [Department of Education FAFSA Lessons Learned](https://studentaid.gov/)
+* [Department of Education FAFSA Lessons Learned](https://www.ed.gov/sites/ed/files/2024-09/AFocusonImprovingtheFAFSAExperience.pdf)
 
 
 ## Discussion instructions (required)
->Note for vendors: this is a required self-paced learning activity in the LMS.
+>Note: this is a **required** self-paced learning activity in the Learning Portal.
 
 This discussion activity challenges you to apply modern software engineering practices to real federal IT acquisition challenges, using the FAFSA case study and other current examples from GAO's 2025 High Risk List. Your analysis should demonstrate understanding of how contemporary DevOps, CI/CD, and digital transformation practices can address systemic issues that plague federal IT acquisitions.
 
