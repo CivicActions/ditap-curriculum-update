@@ -753,7 +753,9 @@ You recommend terminating CloudTech’s contract and launching an emergency proc
 * Other vendors remain intact, but morale is shaken.  
 * Your team must manage parallel systems during the transition.
 
-**Reflection Prompt:** *What risks did you accept by choosing termination? How will you manage the fallout with stakeholders and Congress?*
+**Reflection Prompt:** 
+
+*What risks did you accept by choosing termination? How will you manage the fallout with stakeholders and Congress?*
 
 **Quick Check:**
 
@@ -778,7 +780,9 @@ You recommend giving CloudTech a second chance — under new, stricter performan
 * Stakeholders question the wisdom of further investment in a weak vendor.  
 * The modular structure remains intact, but trust in CloudTech erodes.
 
-**Reflection Prompt:** *Are you rewarding poor performance — or protecting a fragile system? What performance guardrails should you now require?*
+**Reflection Prompt:** 
+
+*Are you rewarding poor performance — or protecting a fragile system? What performance guardrails should you now require?*
 
 **Quick Check:**
 
@@ -805,7 +809,9 @@ You recommend collapsing the project into a single-award, unified contract and r
 * The agency’s commitment to modular procurement is undermined.  
 * Stakeholder support for innovation diminishes.
 
-**Reflection Prompt:** *What does this decision say about your agency’s risk appetite? How might it shape future digital acquisition strategies?*
+**Reflection Prompt:** 
+
+*What does this decision say about your agency’s risk appetite? How might it shape future digital acquisition strategies?*
 
 **Quick Check:**
 
