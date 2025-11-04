@@ -98,11 +98,11 @@ The following table lists some example challenges you may encounter, along with 
 
 | Potential Issue/Challenge | Potential Range of Influencers |
 | :---- | :---- |
-| Accelerating cycle time in the procurement process | Head Contracting Authority (HCA) or Procurement Division Lead Policy Office Lead or Representative Senior Contracting Officer Senior Contracting Officer Representative (COR) |
-| Gaining relief from a policy that requires a lengthy review process | Senior Procurement Representative, Deputy, or SPE Office Representative Office of General Counsel or Representative Chief Management Officer, Deputy Secretary, or Designee HCA or Representatives Policy Office Lead Representative Acquisition Innovation Advocate |
-| Addressing increased role and  resource commitments with  program representatives | Bureau or Office Directors or Designees Product Owner(s) Program Leaders CORs |
+| Accelerating cycle time in the procurement process | Head Contracting Authority (HCA) or Procurement Division Lead, Policy Office Lead, or Representative Senior Contracting Officer, Senior Contracting Officer Representative (COR) |
+| Gaining relief from a policy that requires a lengthy review process | Senior Procurement Representative, Deputy, or SPE Office Representative, Office of General Counsel, or Representative Chief Management Officer, Deputy Secretary, or Designee HCA or Representatives Policy Office Lead, Representative Acquisition Innovation Advocate |
+| Addressing increased role and  resource commitments with program representatives | Bureau or Office Directors or Designees Product Owner(s), Program Leaders, CORs |
 | Receiving incremental funding across fiscal years | Chief Financial Officer (CFO), Deputy or Designee HCA, Procurement Division Lead, or Designee SPE or Designee |
-| Creating different/agile  procurement performance  measures | Policy Office Lead or Designee SPE, Deputy SPE or Designee Performance Improvement or Strategy Office CMO or Designee  |
+| Creating different/agile  procurement performance measures | Policy Office Lead or Designee SPE, Deputy SPE or Designee Performance Improvement, or Strategy Office CMO, or Designee  |
 
 Now think about the titles of the influencers in your chosen problem. Who could help, or hinder, your efforts? 
 
@@ -220,7 +220,6 @@ At the conclusion of this section, you will be able to:
 * Identify useful tactics for how to react to problems.   
 * Recognize common topics that contribute to misalignment of acquisition strategies and Agile methodology. 
 
-![Checkmark](https://github.com/usds/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/check%20mark.png?raw=true)
 
 ## Why can conversations be difficult?
 
@@ -333,10 +332,9 @@ As you mentally prepare for a conversation, here are some tips that can help you
 
 **When preparing for a difficult conversation, it is best to clarify the problem in your own mind first and do a little research to understand the opposing mindset.**
 
-- [x] True  
-- [ ] False  
-
-> Correct! Clarifying your thinking and considering the other person’s mindset helps you prepare for a more thoughtful, productive conversation.
+- [[x]] True  
+- [[ ]] False  
+[[?]] Clarifying your thinking and considering the other person’s mindset helps you prepare for a more thoughtful, productive conversation.
 
 ---
 
@@ -347,15 +345,14 @@ You're working with a team in your agency that is planning for government/end us
 
 You have a good working relationship with the team lead. She responds to your suggestion by saying:
 
-*“I really appreciate all you’re doing to transform how we do business around here, but we don’t have time or money to break up our reviews and hold them more iteratively. We only have a year period of performance, and our budget is tight! I know what the Agile Manifesto says about the importance of customer collaboration—and we’re doing it! But we’re also adapting it to the realities of the government and our agency.”*
+>*“I really appreciate all you’re doing to transform how we do business around here, but we don’t have time or money to break up our reviews and hold them more iteratively. We only have a year period of performance, and our budget is tight! I know what the Agile Manifesto says about the importance of customer collaboration—and we’re doing it! But we’re also adapting it to the realities of the government and our agency.”*
 
 **How should you respond?**
 
-- [x] “Can you talk me through your past experiences with the 2-3 day sessions and how they’ve been used to gather customer feedback? What has worked well? What hasn’t?”  
-- [ ] “I have a great case study from another agency about how they implemented this approach and mitigated risk. It really can work in government!”  
-- [ ] “I understand where you’re coming from. It doesn’t sound like this is the time to try something different, but please keep it in mind for future efforts.”  
-
-> Correct! This response invites collaboration and reflection without being confrontational. It acknowledges the team’s experience and opens a productive dialogue.
+- [[x]] “Can you talk me through your past experiences with the 2-3 day sessions and how they’ve been used to gather customer feedback? What has worked well? What hasn’t?”  
+- [[ ]] “I have a great case study from another agency about how they implemented this approach and mitigated risk. It really can work in government!”  
+- [[ ]] “I understand where you’re coming from. It doesn’t sound like this is the time to try something different, but please keep it in mind for future efforts.”  
+[[?]] This response invites collaboration and reflection without being confrontational. It acknowledges the team’s experience and opens a productive dialogue.
 
 
 ---
@@ -429,10 +426,12 @@ To avoid falling victim to these cognitive traps, take a step back and revisit y
 Once you’ve analyzed the situation and you understand the origin of the “no,” assess whether this is a challenge that you should pursue. Ask yourself the following questions:
 
 * **Is this a situation that, if left unaddressed, could cause real harm to my agency or the government or threaten our ability to achieve our mission?** The answer to this question is relative, and it’s not black and white. Recall the discussion from the classroom session and the example included at the beginning of this module about Carmen Medina. Ms. Medina felt that the mission of the CIA and the intelligence community was at risk by not having a real-time way to share information.  
-* **What are my obstacles and opportunities?** Size up the risks associated with continuing to advocate for this change, and determine if it’s a risk worth taking. Ask yourself: could continuing to push for this change *in the same way* threaten my job? How might I adjust my approach or bide my time until conditions are more favorable? Again, think of Carmen Medina and her approach to change. (Beware of using the “bide my time” approach as a cop-out\!)  
+* **What are my obstacles and opportunities?** Size up the risks associated with continuing to advocate for this change, and determine if it’s a risk worth taking. Ask yourself: could continuing to push for this change *in the same way* threaten my job? How might I adjust my approach or bide my time until conditions are more favorable? Again, think of Carmen Medina and her approach to change. (Beware of using the “bide my time” approach as a cop-out!)  
 * **How do I advance some change—any change—while also maintaining working relationships?** Consider how to meet the person where they are and advance change incrementally, while maintaining relationships and not demoralizing the team. As you learned earlier, this is the essence of being a network leader, and your role in digital services acquisition; you have to collaborate with people in your network to make change happen. Remember the content around influence? Meeting another person where they are shows that you care about them and makes them more willing to work with you over time. 
 
-***What does this look like in action?*** As you’ve learned throughout this program, USDS, others in government, and now you, have a vision for what a true agile solicitation should look like. However, at times, you may be called in to support a team in your agency or another agency that has already spent time developing an RFQ that doesn’t quite align with that vision. This is something Traci and Jonathan, two of the innovative procurement experts and thought leaders mentioned in Module 1, have experience with firsthand. For instance, they have been called in to review an RFQ that an agency team has been working on for three months and that is now 100 pages long. The agency team is energized and excited about it. Even if the solicitation doesn’t align with the vision that you, Traci, or Jonathan would advocate for, the battle isn’t won by throwing out what the team has been working on. Instead, consider how to take what the team has worked on, make tweaks, and include an exit strategy so that the team has a way out if something goes wrong. This allows you to find a middle ground that helps meet the team where they are, advances some change, maintains your working relationship and keeps the team’s energy up, and protects the government from some of the biggest risks.
+***What does this look like in action?*** 
+
+As you’ve learned throughout this program, USDS, others in government, and now you, have a vision for what a true agile solicitation should look like. However, at times, you may be called in to support a team in your agency or another agency that has already spent time developing an RFQ that doesn’t quite align with that vision. This is something Traci and Jonathan, two of the innovative procurement experts and thought leaders mentioned in Module 1, have experience with firsthand. For instance, they have been called in to review an RFQ that an agency team has been working on for three months and that is now 100 pages long. The agency team is energized and excited about it. Even if the solicitation doesn’t align with the vision that you, Traci, or Jonathan would advocate for, the battle isn’t won by throwing out what the team has been working on. Instead, consider how to take what the team has worked on, make tweaks, and include an exit strategy so that the team has a way out if something goes wrong. This allows you to find a middle ground that helps meet the team where they are, advances some change, maintains your working relationship and keeps the team’s energy up, and protects the government from some of the biggest risks.
 
 If you determine that you should revisit the conversation, think about taking a different approach and the trade offs that come with adjusting your approach. Put on your consultant hat and think about how to move the needle incrementally. If you can’t fully implement the change that you were pushing for, can you make a smaller change to later build from? Remember the old mantra, Rome wasn’t built in a day. It may help to ask yourself some of these questions:
 
@@ -453,7 +452,7 @@ Now that you’ve learned about a framework you can use to figure out why you we
 
 First, review the scenario below:
 
-You are working with a technical team to draft a solicitation. The technical team has recently experienced challenges that put them in the public spotlight for some IT failures. They need to find a new vendor. They have told you many times that we “can’t mess this one up” and that “we can’t introduce risk.” The previous contract failed, in part, because of a reliance on a waterfall-based method and a contract that had a lengthy list of system requirements but no statement that the software needed to work. The solution to fix this problem seems so obvious to you, they need to write a contract that supports agile software development! You’re excited coming out of this class, and you tell them what your diagnosis of the problem is and how you have a solution that can really improve results and deliver what their users need. You finish your presentation to them. Silence. Uncomfortable shifting in their seats. Finally, someone speaks up, “That’s great and all that you’re some expert in digital services acquisition, but that’s not how things work in the real world. Swooping in and making large-scale changes like this—that will not work here in this organization right now. Maybe next year when things settle down.” You’re floored. The solution is sitting right in front of them! How could they be so deluded?!
+>You are working with a technical team to draft a solicitation. The technical team has recently experienced challenges that put them in the public spotlight for some IT failures. They need to find a new vendor. They have told you many times that we “can’t mess this one up” and that “we can’t introduce risk.” The previous contract failed, in part, because of a reliance on a waterfall-based method and a contract that had a lengthy list of system requirements but no statement that the software needed to work. The solution to fix this problem seems so obvious to you, they need to write a contract that supports agile software development! You’re excited coming out of this class, and you tell them what your diagnosis of the problem is and how you have a solution that can really improve results and deliver what their users need. You finish your presentation to them. Silence. Uncomfortable shifting in their seats. Finally, someone speaks up, “That’s great and all that you’re some expert in digital services acquisition, but that’s not how things work in the real world. Swooping in and making large-scale changes like this—that will not work here in this organization right now. Maybe next year when things settle down.” You’re floored. The solution is sitting right in front of them! How could they be so deluded?!
 
 Review the following factors were at play in this situation:
 
@@ -501,7 +500,7 @@ Now that you’ve assessed the root of the “no,” considered whether or how t
 Remember our discussion of wellness rituals and performance areas from our earlier discussion? [Well, it just so happens that research shows that capitalizing on your strengths leads you to feel revitalized](http://www.sciencedirect.com/science/article/pii/S0191886910003946). Another wellness ritual to add to your arsenal! If you’re dealing with a difficult situation, remind yourself and affirm your strengths. Then, think about how to leverage those strengths along your change and innovation journey.
 
 ---
-## Telling Your procurement story
+## Telling your procurement story
 
 ### Sharing what you’ve learned to help others succeed
 
