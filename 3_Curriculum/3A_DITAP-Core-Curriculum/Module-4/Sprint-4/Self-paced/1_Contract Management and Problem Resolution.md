@@ -40,33 +40,49 @@ Agencies often lack internal technical expertise to effectively oversee complex 
 
 ## Case study analysis: The FAFSA system modernization
 
->Note for vendors: the case study below can be used for the activity that follows.
+>Note: the case study below can be used for the activity that follows.
 
 **Procurement Context and Initial Decisions**
 
 The Department of Education's attempt to modernize the Free Application for Federal Student Aid (FAFSA) system provides a revealing case study of how procurement decisions and contract management practices directly impact technical delivery outcomes.
 
-**Contract Award and Structure:** In March 2022, the Department awarded a $121.7 million contract to General Dynamics Information Technology to modernize the FAFSA Processing System. The procurement used traditional approaches with fixed requirements, waterfall delivery expectations, and limited iterative feedback mechanisms.
+**Contract Award and Structure:** 
 
-**Timeline and Mandate Pressures:** Congress mandated system availability by January 1, 2024, creating artificial deadline pressure that influenced both procurement strategy and technical delivery decisions. The contract structure did not adequately account for the complexity of modernizing a 45-year-old system while integrating with IRS data systems.
+In March 2022, the Department awarded a $121.7 million contract to General Dynamics Information Technology to modernize the FAFSA Processing System. The procurement used traditional approaches with fixed requirements, waterfall delivery expectations, and limited iterative feedback mechanisms.
+
+**Timeline and Mandate Pressures:** 
+
+Congress mandated system availability by January 1, 2024, creating artificial deadline pressure that influenced both procurement strategy and technical delivery decisions. The contract structure did not adequately account for the complexity of modernizing a 45-year-old system while integrating with IRS data systems.
 
 **Technical Delivery Failures and Acquisition Implications**
 
-**Milestone Management and Oversight:** Twenty-five critical milestones for contract requirements were pushed back by months, signaling early trouble with project management and execution. This pattern indicates inadequate contract performance monitoring and insufficient escalation procedures for addressing delivery risks.
+**Milestone Management and Oversight:** 
 
-**Quality Assurance and Testing Gaps:** Following deployment, the FSA identified 55 defects in the FPS, with seven categorized as "critical" and 20 remaining unresolved as of August 2024\. FSA told GAO that "they accepted the risk of reducing testing activities because the application cycle was already late and the department was required to launch by the statutory deadline".
+Twenty-five critical milestones for contract requirements were pushed back by months, signaling early trouble with project management and execution. This pattern indicates inadequate contract performance monitoring and insufficient escalation procedures for addressing delivery risks.
+
+**Quality Assurance and Testing Gaps:** 
+
+Following deployment, the FSA identified 55 defects in the FPS, with seven categorized as "critical" and 20 remaining unresolved as of August 2024\. FSA told GAO that "they accepted the risk of reducing testing activities because the application cycle was already late and the department was required to launch by the statutory deadline".
 
 This decision reflects fundamental misunderstandings about balancing speed and quality in software delivery, principles that effective procurement structures should embed from contract inception.
 
-**Integration and Data Processing Problems:** The direct IRS data integration, a marquee feature of the new system, failed for approximately 20 percent of applications, necessitating extensive reprocessing. Integration challenges like this are predictable in complex modernization projects and should be addressed through contract requirements for iterative testing and incremental delivery.
+**Integration and Data Processing Problems:** 
+
+The direct IRS data integration, a marquee feature of the new system, failed for approximately 20 percent of applications, necessitating extensive reprocessing. Integration challenges like this are predictable in complex modernization projects and should be addressed through contract requirements for iterative testing and incremental delivery.
 
 **Impact Assessment and Lessons for Procurement Professionals**
 
-**User Impact and Mission Failure:** Over 432,000 fewer students completed the FAFSA compared to the previous year, a 3% decrease with disproportionate impact on lower-income students. The majority of this decrease was attributed to high school seniors and other first-time FAFSA applicants, who experienced a 9% decline in submissions.
+**User Impact and Mission Failure:** 
 
-Operational Disruption: During the first five months of the FAFSA application cycle, from January to May 2024, the ED's call center received 5.4 million calls; however, only 1.4 million of those calls were answered, meaning nearly three-quarters of calls to ED were left unanswered.
+Over 432,000 fewer students completed the FAFSA compared to the previous year, a 3% decrease with disproportionate impact on lower-income students. The majority of this decrease was attributed to high school seniors and other first-time FAFSA applicants, who experienced a 9% decline in submissions.
 
-**Recovery Costs and Emergency Measures:** The Department allocated $50 million in federal funding to nonprofit organizations to provide additional support to institutions struggling with the new system, demonstrating how poor initial delivery creates downstream costs that procurement strategies should anticipate and prevent.
+**Operational Disruption:**
+
+During the first five months of the FAFSA application cycle, from January to May 2024, the ED's call center received 5.4 million calls; however, only 1.4 million of those calls were answered, meaning nearly three-quarters of calls to ED were left unanswered.
+
+**Recovery Costs and Emergency Measures:** 
+
+The Department allocated $50 million in federal funding to nonprofit organizations to provide additional support to institutions struggling with the new system, demonstrating how poor initial delivery creates downstream costs that procurement strategies should anticipate and prevent.
 
 --- 
 
