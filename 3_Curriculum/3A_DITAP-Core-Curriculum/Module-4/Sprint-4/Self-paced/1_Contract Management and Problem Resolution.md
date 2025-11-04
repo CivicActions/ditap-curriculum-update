@@ -406,7 +406,7 @@ The modular approach, intended to provide flexibility, had instead created new c
 * Potential modifications to other vendors' modules to accommodate a new authentication service  
 * Risk that replacing one module could introduce new integration failures
 
-Sarah's analysis revealed the complexity of the modular contracting financial picture. CloudTech had received $6.2 million of their $8 million contract, but their authentication service was essential to the entire $25 million FedConnect system. Terminating CloudTech could require:
+Sarah's analysis revealed the complexity of the modular contracting financial picture. CloudTech had received 6.2 million of its 8 million contract, but their authentication service was essential to the entire $25 million FedConnect system. Terminating CloudTech could require:
 
 * $800,000 in termination costs  
 * $1.5-2.3 million for emergency procurement of replacement authentication services  
