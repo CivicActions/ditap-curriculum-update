@@ -78,13 +78,13 @@ It’s easy to fall behind if learning isn’t part of your routine. Here are sm
 * **Add tech trend reviews** to after-action discussions or procurement retrospectives  
 * **Block time during less busy weeks** for self-guided learning or event replays
 
-### Final thoughts
+**Final thoughts**
 
 You don’t need to be an expert in AI, cybersecurity, or cloud architecture. But understanding the direction technology is heading and how it’s shaping your acquisition environment makes you a more strategic, forward-thinking contracting professional.
 
 Staying current isn’t about keeping up with every trend; it’s about staying connected enough to ask smart questions, spot opportunities, and support your agency’s evolving needs.
 
-## Self-reflection: Your tech awareness habits (Optional)
+## Self-reflection: Your tech awareness habits (optional)
 
 Take a few minutes to reflect on the following questions. You can jot down your responses or simply pause to think them through:
 
@@ -208,7 +208,7 @@ Working closely with program staff, especially on **iterative requirement develo
 
 ### Document and share what works
 
-Sharing what worked—and what didn’t — with peers or newer contracting officers fosters collective learning. Whether you write a short summary in a shared folder, post a quick note in your team’s collaboration space (e.g., Teams, Slack), present a “top 3 takeaways” at a team meeting, or contribute to an internal playbook, knowledge sharing turns individual experience into agency-wide progress.
+Sharing what worked — and what didn’t — with peers or newer contracting officers fosters collective learning. Whether you write a short summary in a shared folder, post a quick note in your team’s collaboration space (e.g., Teams, Slack), present a “top 3 takeaways” at a team meeting, or contribute to an internal playbook, knowledge sharing turns individual experience into agency-wide progress.
 
 ### Final thoughts
 
@@ -240,7 +240,7 @@ High-performance product teams in the tech industry leverage playbooks to:
 
 ### Beyond the playbook: Types of practical guides
 
-Not all guidance needs to come in the form of a playbook. In fact, the most effective digital service teams often draw from a variety of practical formats depending on their goals, audience, and moment in the project lifecycle. From high-level frameworks that map strategic decisions to tip sheets you can reference mid-meeting, these tools serve different but complementary purposes. Below is a breakdown of common types of practical guides—what they’re best for, how they differ, and real examples you can borrow or build upon.
+Not all guidance needs to come in the form of a playbook. In fact, the most effective digital service teams often draw from a variety of practical formats depending on their goals, audience, and moment in the project lifecycle. From high-level frameworks that map strategic decisions to tip sheets you can reference mid-meeting, these tools serve different but complementary purposes. Below is a breakdown of common types of practical guides - what they’re best for, how they differ, and real examples you can borrow or build upon.
 
 **Playbooks**: Strategy-focused and flexible. They outline general approaches and common scenarios, often broken down into "plays."
 
@@ -286,7 +286,7 @@ Practical guides help:
 * Preserve institutional knowledge.  
 * Promotes user-centered thinking.
 
-### Creating your wwn: What makes a guide practical
+### Creating your own: What makes a guide practical
 
 Here’s what separates a practical guide from a dense report or policy doc:
 
@@ -312,7 +312,7 @@ Not every challenge needs a guide. But if any of these sound familiar, it might 
 
 Creating and using practical guides isn’t just about documentation. It’s about culture. When teams invest time in making things clearer and more repeatable, they’re also investing in transparency, equity, and shared ownership.
 
-Encouraging others to adapt and improve the guides over time makes them more than just a resource, they become part of how your organization learns. And when your guides are public or shared across agencies, they build bridges. They become proof that government can work smarter, together.
+Encouraging others to adapt and improve the guides over time makes them more than just a resource; they become part of how your organization learns. And when your guides are public or shared across agencies, they build bridges. They become proof that government can work smarter, together.
 
 ### Final thoughts
 
@@ -320,7 +320,7 @@ In the public sector, these practical guides represent a strategic mechanism for
 
 You don’t have to write a book. Sometimes all you need is a one-pager that helps someone take the next step with confidence. The goal of any guide, no matter the format, is the same:
 
-**Make it easier for people to do the right thing well.**
+>**Make it easier for people to do the right thing well.**
 
 So if you've got experience that others could benefit from, write it down. Call it a playbook, a field guide, a cheat sheet—whatever works. Just don’t let it stay in your head.
 
@@ -520,7 +520,7 @@ Feel free to share your answers with your fellow participants and/or your superv
 
 ---
 
-## Self-Assessment: What’s Your Change Style?
+## Self-assessment: What’s your change style?
 
 **Instructions:** Answer the following questions based on how you typically approach work, collaboration, and improvement. Keep track of your answers (A, B, C, or D) and count which letter you selected most often.
 
@@ -532,7 +532,7 @@ Note: This self-assessment is a simplified framework inspired by common change l
 
  A. Reach out and bring people together to talk it through  
 
- B. Roll up your sleeves and start solving the practical issues
+ B. Roll up your sleeves and start solving the practical issues <br>
   
  C. Step back and assess the overall system or strategy
 
@@ -588,26 +588,30 @@ Note: This self-assessment is a simplified framework inspired by common change l
 
  C. Analyze what’s working and propose big-picture solutions  
 
- D. Call out what's not working—even if it's uncomfortable
+ D. Call out what's not working — even if it's uncomfortable
 
 
 ---
 
-## Results: What’s Your Primary Change Style?
+## Results: What’s your primary change style?
 
 **Mostly A – Connector**  
+
  You're a relationship builder. You create momentum by fostering collaboration, trust, and shared purpose.  
  \-*You might lead a community of practice, organize informal learning sessions, or connect stakeholders across silos.*
 
 **Mostly B – Implementer**  
+
  You turn ideas into action. You're dependable and focused on getting results.  
  \-*You might pilot a new checklist, lead small process changes, or help teams apply what they’ve learned.*
 
 **Mostly C – Strategist**  
+
  You’re a systems thinker. You analyze and refine the bigger picture.  
 \- *You might lead procurement retrospectives, develop internal guidance, or advise on process alignment.*
 
 **Mostly D – Challenger**  
+
  You question the status quo. You’re not afraid to advocate for change, even when it’s difficult.  
  \-*You might champion new approaches, propose bold shifts in how work is done, or highlight risks others overlook.*
 
