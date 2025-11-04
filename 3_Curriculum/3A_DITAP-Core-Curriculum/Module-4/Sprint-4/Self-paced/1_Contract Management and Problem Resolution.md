@@ -750,3 +750,8 @@ You’ve made your recommendation. As you prepare to brief agency leadership and
 ### Optional: Replay & explore another path
 
 Want to explore a different decision path? Go back and choose another option to see how outcomes differ—and how tradeoffs shift depending on your strategy.
+
+## Conclusion
+
+>You’ve completed Sprint 4 of Module 4! Please close this window to return to the course main page, then select Mark Complete to record your progress.
+
