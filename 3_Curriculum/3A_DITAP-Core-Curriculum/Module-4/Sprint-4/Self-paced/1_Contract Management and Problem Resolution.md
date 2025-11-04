@@ -363,13 +363,15 @@ Case Study Background Materials
 
 ## Exit strategy 
 
-### DITAP case study: The digital identity crisis at FedConnect
+### Case study: The digital identity crisis at FedConnect
+
+*Choose Your Own Path: The FedConnect Exit Strategy*
 
 **Scenario:**
 
-Sarah Martinez had been a Contracting Officer at the Federal Bureau of Digital Services (FBDS) for eight years, but she had never faced a situation quite like this. As she reviewed the latest performance reports from CloudTech Innovations, she realized that what had started as the agency's flagship digital transformation project—structured using cutting-edge modular contracting principles—was rapidly becoming a cautionary tale.
+Sarah Martinez had been a Contracting Officer at the Federal Bureau of Digital Services (FBDS) for eight years, but she had never faced a situation quite like this. As she reviewed the latest performance reports from CloudTech Innovations, she realized that what had started as the agency's flagship digital transformation project — structured using cutting-edge modular contracting principles — was rapidly becoming a cautionary tale.
 
-Eighteen months earlier, FBDS had embarked on creating "FedConnect"—a unified digital identity platform allowing citizens to access all federal services with a single sign-on. Rather than awarding a single, monolithic contract, FBDS adopted modular contracting principles, breaking the system into distinct functional modules that could be developed independently and integrated through well-defined Application Programming Interfaces (APIs).
+Eighteen months earlier, FBDS had embarked on creating "FedConnect" — a unified digital identity platform allowing citizens to access all federal services with a single sign-on. Rather than awarding a single, monolithic contract, FBDS adopted modular contracting principles, breaking the system into distinct functional modules that could be developed independently and integrated through well-defined Application Programming Interfaces (APIs).
 
 The modular approach divided FedConnect into five key components:
 
@@ -420,10 +422,7 @@ As Sarah prepared recommendations for her Director, she faced a unique challenge
 
 Her decision would not only affect the immediate FedConnect project but would also influence the agency's future use of modular contracting for digital services.
 
-## Instruction notes
->Note for vendors: The content below is to assist with *Choose Your Own Path: The FedConnect Exit Strategy* activity and is designed for self-paced learning in the LMS. 
-
-### DITAP case study answer key: Exit strategies in modular contracting
+### Exit strategies in modular contracting
 
 In modular contracting, no module exists in isolation. Overall development and acquisition strategies should develop systems thinking about how individual vendor decisions affect the broader contracting ecosystem.
 
@@ -438,6 +437,8 @@ Key discussion points you should think about include:
 * The importance of stakeholder communication and change management
 
 You are encouraged to research recent GAO decisions, Court of Federal Claims cases, and agency guidance related to IT contract terminations to inform your analysis and recommendations.
+
+---
 
 **Exit Strategy Evaluation**
 
@@ -459,6 +460,8 @@ Module-specific Termination for Default:
 * Potential delays while the new vendor learns the existing interfaces  
 * May require contract modifications with other vendors
 
+---
+
 **System-wide Contract Restructuring:**
 
 *Pros:*
@@ -473,6 +476,8 @@ Module-specific Termination for Default:
 * Terminates relationships with performing vendors  
 * Significantly higher costs and longer timeline  
 * Political implications of abandoning the innovative contracting method
+
+---
 
 **Accepting Remediation with Enhanced Integration Requirements:**
 
@@ -491,6 +496,8 @@ Module-specific Termination for Default:
 * The political difficulty of explaining additional costs for a failed vendor
 
 Each option involves different risk profiles, cost implications, and strategic trade-offs. Understand that there may not be a "perfect" solution—only careful analysis of competing priorities.
+
+---
 
 **How do integration risks with other modules affect the feasibility of replacing CloudTech?**
 
@@ -525,6 +532,8 @@ Positive vendor performance implications:
 * Other vendors represent $17M in functioning capability that shouldn't be disrupted unnecessarily.
 * Demonstrates that the modular approach can work with competent vendors.
 
+---
+
 **Decision-making considerations:**
 
 * Protecting relationships with performing vendors should be a priority.  
@@ -539,6 +548,8 @@ Positive vendor performance implications:
 * Maintains a competitive environment for future module procurements.
 
 In modular contracting, individual vendor decisions must consider impacts on the broader vendor ecosystem and strategic approach.
+
+---
 
 **Implementation and Integration Planning**
 
@@ -574,6 +585,8 @@ Performance monitoring:
 
 Integrating complex systems requires proactive planning as early as possible, effective stakeholder coordination, and comprehensive risk mitigation strategies.
 
+---
+
 **What contract modifications might be needed with other vendors to accommodate a replacement authentication service?**
 
 Some potential modification requirements:
@@ -608,6 +621,8 @@ Legal and administrative considerations:
 
 Oftentimes in modular contracting, vendor management evolves into vendor ecosystem management, necessitating coordination across multiple simultaneous contracts.
 
+---
+
 **How can future modular contracts better address integration performance requirements?**
 
 Enhanced contract structure:
@@ -639,6 +654,8 @@ Risk mitigation approaches:
 * System architecture review and approval before module development begins
 
 Modular contracting requires extensive and enhanced upfront planning, as well as ongoing coordination, compared to traditional single-vendor approaches.
+
+---
 
 **Strategic Implications**
 
