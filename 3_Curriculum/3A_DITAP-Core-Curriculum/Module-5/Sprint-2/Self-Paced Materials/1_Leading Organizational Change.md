@@ -597,7 +597,7 @@ D. Call out what's not working — even if it's uncomfortable
 
 **Mostly A – Connector**  
 
-You're a relationship builder. You create momentum by fostering collaboration, trust, and shared purpose.  
+You're a relationship builder. You create momentum by fostering collaboration, trust, and shared purpose.
 
 >You might lead a community of practice, organize informal learning sessions, or connect stakeholders across silos.
 
