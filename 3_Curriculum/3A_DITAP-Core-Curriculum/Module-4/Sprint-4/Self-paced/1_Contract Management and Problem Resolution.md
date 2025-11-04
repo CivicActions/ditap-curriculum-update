@@ -227,7 +227,7 @@ Case Study Materials
 ## Discussion instructions (required)
 >Note: this is a **required** self-paced learning activity in the Learning Portal.
 
-This discussion activity challenges you to apply modern software engineering practices to real federal IT acquisition challenges, using the FAFSA case study and other current examples from GAO's 2025 High Risk List. Your analysis should demonstrate understanding of how contemporary DevOps, CI/CD, and digital transformation practices can address systemic issues that plague federal IT acquisitions.
+This discussion activity challenges you to apply modern software engineering practices to real federal IT acquisition challenges, using the FAFSA case study and other current examples from [GAO's 2025 High Risk List](https://www.gao.gov/high-risk-list). Your analysis should demonstrate understanding of how contemporary DevOps, CI/CD, and digital transformation practices can address systemic issues that plague federal IT acquisitions.
 
 ### Case study selection
 
@@ -306,13 +306,20 @@ Specific Analysis Required:
 
 Your initial post must include:
 
-1. Case Study Selection and Analysis (300-400 words)  
-   * Clearly identify which case study you selected and why.  
-   * Summarize the key acquisition failures and their root causes.  
-   * Connect these failures to broader patterns in federal IT acquisition.  
-2. Question Responses (200-250 words each)  
-   * Address all three questions with specific, actionable recommendations.  
+1. Case Study Selection and Analysis (300-400 words)
+     
+   * Clearly identify which case study you selected and why.
+      
+   * Summarize the key acquisition failures and their root causes.
+      
+   * Connect these failures to broader patterns in federal IT acquisition.
+       
+2. Question Responses (200-250 words each)
+   
+   * Address all three questions with specific, actionable recommendations.
+     
    * Include at least one concrete example of contract language, evaluation criteria, or oversight procedure.
+     
    * Reference concepts and practices learned throughout the DITAP course.
 
 **Peer Engagement Requirements (Due: One week after initial posts)**
@@ -349,12 +356,16 @@ Technical Best Practices References
 Case Study Background Materials
 
 * [FAFSA GAO Investigation Reports](https://www.gao.gov/blog/botched-fafsa-rollout-leaves-uncertainty-students-seeking-financial-aid-college)  
-* [SBA Unified Certification Platform Report](https://www.gao.gov/products/gao-25-107852)  
-* [IRS Modernization Challenges Overview](https://www.gao.gov/products/gao-25-107852)
+* [SBA Unified Certification Platform Report](https://www.gao.gov/products/gao-25-107852)
+* [Major Management Challenges Facing the IRS in FY 2026](https://www.tigta.gov/sites/default/files/reports/2025-10/FY%202026%20MMC%20(Final).pdf) 
+* [Agencies Need to Plan for Modernizing Critical Decades-Old Legacy Systems ](https://www.gao.gov/assets/gao-25-107795.pdf)
+* [IRS Is Developing a New Modernization Framework]([IRS Is Developing a New Modernization Framework](https://www.gao.gov/assets/gao-25-107611.pdf))
 
 ## Exit strategy 
 
 ### DITAP case study: The digital identity crisis at FedConnect
+
+**Scenario:**
 
 Sarah Martinez had been a Contracting Officer at the Federal Bureau of Digital Services (FBDS) for eight years, but she had never faced a situation quite like this. As she reviewed the latest performance reports from CloudTech Innovations, she realized that what had started as the agency's flagship digital transformation project—structured using cutting-edge modular contracting principles—was rapidly becoming a cautionary tale.
 
