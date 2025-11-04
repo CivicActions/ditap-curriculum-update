@@ -759,7 +759,7 @@ You recommend terminating CloudTech’s contract and launching an emergency proc
 
 **Quick Check:**
 
- Which of these are required for a successful vendor transition?
+ Which of these are required for a successful vendor transition? (Select all that apply)
 
 - [[x]] Updated interface specs
 - [[ ]] Contract novation
@@ -786,7 +786,7 @@ You recommend giving CloudTech a second chance — under new, stricter performan
 
 **Quick Check:**
 
-Which of the following should be added to CloudTech’s modified contract?
+Which of the following should be added to CloudTech’s modified contract? (Select all that apply)
 
 - [[x]] Clear timeout/error-handling protocols
 - [[x]] Joint integration test milestones
@@ -815,7 +815,7 @@ You recommend collapsing the project into a single-award, unified contract and r
 
 **Quick Check:**
 
-What are key drawbacks to abandoning modularity mid-project?
+What are key drawbacks to abandoning modularity mid-project? (Select all that apply)
 
 - [[ ]] Higher vendor competition
 - [[x]] Loss of lessons learned
