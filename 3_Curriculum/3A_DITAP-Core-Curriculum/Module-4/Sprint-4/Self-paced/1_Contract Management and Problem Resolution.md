@@ -9,7 +9,7 @@ You have studied modern software engineering best practices, including DevOps, c
 
 ## The federal IT challenge: Context and scale
 
-**Current State of Federal IT Management**
+**Current state of federal IT management**
 
 Federal agencies invest over $100 billion annually in IT, yet much of this spending maintains aging legacy systems rather than implementing innovative solutions. This massive investment has not translated into proportional improvements in citizen services or operational efficiency, creating what the GAO identifies as a persistent high-risk area that requires urgent attention.
 
@@ -42,45 +42,45 @@ Agencies often lack internal technical expertise to effectively oversee complex 
 
 >Note: the case study below can be used for the activity that follows.
 
-**Procurement Context and Initial Decisions**
+**Procurement context and initial decisions**
 
 The Department of Education's attempt to modernize the Free Application for Federal Student Aid (FAFSA) system provides a revealing case study of how procurement decisions and contract management practices directly impact technical delivery outcomes.
 
-**Contract Award and Structure:** 
+**Contract award and structure:** 
 
 In March 2022, the Department awarded a $121.7 million contract to General Dynamics Information Technology to modernize the FAFSA Processing System. The procurement used traditional approaches with fixed requirements, waterfall delivery expectations, and limited iterative feedback mechanisms.
 
-**Timeline and Mandate Pressures:** 
+**Timeline and mandate pressures:** 
 
 Congress mandated system availability by January 1, 2024, creating artificial deadline pressure that influenced both procurement strategy and technical delivery decisions. The contract structure did not adequately account for the complexity of modernizing a 45-year-old system while integrating with IRS data systems.
 
-**Technical Delivery Failures and Acquisition Implications**
+**Technical delivery failures and acquisition implications**
 
-**Milestone Management and Oversight:** 
+**Milestone management and oversight:** 
 
 Twenty-five critical milestones for contract requirements were pushed back by months, signaling early trouble with project management and execution. This pattern indicates inadequate contract performance monitoring and insufficient escalation procedures for addressing delivery risks.
 
-**Quality Assurance and Testing Gaps:** 
+**Quality assurance and testing gaps:** 
 
 Following deployment, the FSA identified 55 defects in the FPS, with seven categorized as "critical" and 20 remaining unresolved as of August 2024\. FSA told GAO that "they accepted the risk of reducing testing activities because the application cycle was already late and the department was required to launch by the statutory deadline".
 
 This decision reflects fundamental misunderstandings about balancing speed and quality in software delivery, principles that effective procurement structures should embed from contract inception.
 
-**Integration and Data Processing Problems:** 
+**Integration and data processing problems:** 
 
 The direct IRS data integration, a marquee feature of the new system, failed for approximately 20 percent of applications, necessitating extensive reprocessing. Integration challenges like this are predictable in complex modernization projects and should be addressed through contract requirements for iterative testing and incremental delivery.
 
-**Impact Assessment and Lessons for Procurement Professionals**
+**Impact assessment and lessons for procurement professionals**
 
-**User Impact and Mission Failure:** 
+**User impact and mission failure:** 
 
 Over 432,000 fewer students completed the FAFSA compared to the previous year, a 3% decrease with disproportionate impact on lower-income students. The majority of this decrease was attributed to high school seniors and other first-time FAFSA applicants, who experienced a 9% decline in submissions.
 
-**Operational Disruption:**
+**Operational disruption:**
 
 During the first five months of the FAFSA application cycle, from January to May 2024, the ED's call center received 5.4 million calls; however, only 1.4 million of those calls were answered, meaning nearly three-quarters of calls to ED were left unanswered.
 
-**Recovery Costs and Emergency Measures:** 
+**Recovery costs and emergency measures:** 
 
 The Department allocated $50 million in federal funding to nonprofit organizations to provide additional support to institutions struggling with the new system, demonstrating how poor initial delivery creates downstream costs that procurement strategies should anticipate and prevent.
 
@@ -90,59 +90,59 @@ The Department allocated $50 million in federal funding to nonprofit organizatio
 
 ### Modular contracting and incremental delivery
 
-**Problem with Traditional Approach:** 
+**Problem with traditional approach:** 
 
 The FAFSA modernization attempted a "big bang" replacement of the entire system, contradicting modern DevOps practices that emphasize incremental delivery and continuous feedback.
 
-**Modern Solution:** 
+**Modern solution:** 
 
 Modular contracting breaks extensive IT modernizations into smaller, manageable components that can be delivered independently. Each module undergoes user testing and stakeholder feedback before integration with other elements.
 
-**Practical Application:** 
+**Practical application:** 
 
 Structure contracts to deliver working software increments every 2-4 weeks, with user acceptance testing and stakeholder feedback integrated into each delivery cycle. Include contract clauses requiring demonstrated integration between modules before accepting new functionality.
 
 ### User-centered design and continuous feedback
 
-**Problem with Traditional Approach:** 
+**Problem with traditional approach:** 
 
 FSA did not conduct an independent review of the project's processes, products, and risks throughout its life cycle, which limited FSA's ability to identify and address costs and performance risks.
 
-**Modern Solution:**
+**Modern solution:**
 
 Embed user research, usability testing, and stakeholder feedback loops directly into contract requirements and payment structures. Require vendors to conduct regular user testing sessions and demonstrate how feedback influences design decisions.
 
-**Practical Application:** 
+**Practical application:** 
 
 Include performance standards that measure user satisfaction, task completion rates, and accessibility compliance—structure payments to reward improvements in user experience metrics rather than simply delivering technical specifications.
 
 
 ## DevSecOps integration and quality assurance
 
-**Problem with Traditional Approach:** 
+**Problem with traditional approach:** 
 
 The FAFSA project separated security, testing, and deployment into sequential phases, which prevented the early identification of integration issues and security vulnerabilities.
 
-**Modern Solution:** 
+**Modern solution:** 
 
 Require vendors to implement DevSecOps practices with automated testing, continuous security scanning, and integrated deployment pipelines. Include contract language that requires demonstration of these capabilities during the vendor selection process.
 
-**Practical Application:** 
+**Practical application:** 
 
 Establish contract requirements for automated test coverage minimums (e.g., 80% code coverage), security scan frequency (e.g., daily), and deployment automation standards. Include penalties for deploying code that fails automated quality gates.
 
 
 ## Technical oversight and government capacity building
 
-**Problem with Traditional Approach:** 
+**Problem with traditional approach:** 
 
 The Chief Information Officers from both ED and FSA were not involved in governance and oversight activities for the FPS, which is "essential" for successful modernization. Since the FAFSA overhaul began in 2021, there have been six different Education Department CIOs.
 
-**Modern Solution:** 
+**Modern solution:** 
 
 Structure contracts to require regular technical reviews with government technical staff, include knowledge transfer requirements, and establish joint government-vendor technical working groups for significant decisions.
 
-**Practical Application:** 
+**Practical application:** 
 
 Require vendors to provide technical training to government staff, document architectural decisions with government review, and establish escalation procedures that involve government technical leadership in delivery decisions.
 
@@ -150,21 +150,21 @@ Require vendors to provide technical training to government staff, document arch
 
 ## Connecting modern practices to procurement decisions
 
-**Agile Contract Structures**
+**Agile contract structures**
 
 DevOps-Enabled Contracting: Use time-and-materials or hybrid contract types that enable iterative delivery while maintaining cost controls through sprint-based budgeting and performance incentives.
 
 Continuous Integration/Continuous Delivery (CI/CD) Requirements: Include contract language requiring automated testing pipelines, deployment automation, and regular delivery cycles. Establish performance standards for deployment frequency, lead time for changes, and mean time to recovery.
 
-**Example Contract Language:** "The contractor shall demonstrate working software increments every two weeks through automated deployment to staging environments. Each increment must pass automated security scans, achieve 85% test coverage, and demonstrate integration with existing system components."
+**Example contract language:** "The contractor shall demonstrate working software increments every two weeks through automated deployment to staging environments. Each increment must pass automated security scans, achieve 85% test coverage, and demonstrate integration with existing system components."
 
 ## Performance-based contracting for quality outcomes
 
-**User Outcome Metrics**: Replace traditional specification compliance with user-centered performance metrics such as task completion rates, user satisfaction scores, and accessibility compliance measures.
+**User outcome metrics**: Replace traditional specification compliance with user-centered performance metrics such as task completion rates, user satisfaction scores, and accessibility compliance measures.
 
-**Technical Quality Standards**: Establish measurable technical quality gates, including automated test coverage, security vulnerability remediation times, and system performance benchmarks.
+**Technical quality standards**: Establish measurable technical quality gates, including automated test coverage, security vulnerability remediation times, and system performance benchmarks.
 
-**Example Performance Standards:**
+**Example performance standards:**
 
 * User task completion rate: 95% of users complete primary workflows without assistance  
 * System availability: 99.9% uptime during business hours with 4-hour maximum downtime for maintenance  
@@ -172,15 +172,15 @@ Continuous Integration/Continuous Delivery (CI/CD) Requirements: Include contrac
 
 ## Risk management through contract design
 
-**Early Warning Systems:** Establish contract requirements for regular delivery demonstrations, automated quality reporting, and stakeholder feedback collection to identify issues before they become critical failures.
+**Early warning systems:** Establish contract requirements for regular delivery demonstrations, automated quality reporting, and stakeholder feedback collection to identify issues before they become critical failures.
 
-**Escalation and Remediation Procedures:** Include clear procedures for addressing performance issues, technical debt accumulation, and integration challenges through collaborative problem-solving rather than adversarial contract enforcement.
+**Escalation and remediation procedures:** Include clear procedures for addressing performance issues, technical debt accumulation, and integration challenges through collaborative problem-solving rather than adversarial contract enforcement.
 
-**Exit and Transition Planning:** Require vendors to maintain current system documentation, provide code in government repositories, and create transition plans that ensure service continuity in the event of contract termination.
+**Exit and transition planning:** Require vendors to maintain current system documentation, provide code in government repositories, and create transition plans that ensure service continuity in the event of contract termination.
 
 ## AI-powered automation and federal acquisition
 
-**Current Trends and Opportunities**
+**Current trends and opportunities**
 
 Federal agencies are increasingly integrating artificial intelligence and machine learning into their operations, with agencies establishing Chief AI Officers and implementing AI-powered automation tools. These technologies create new procurement considerations and opportunities.
 
@@ -196,29 +196,29 @@ Example Applications:
 
 ## Procurement considerations for AI integration
 
-**Data Rights and Algorithm Transparency:** Establish contract requirements for algorithm explainability, training data documentation, and government rights to inspect and audit AI system decisions.
+**Data rights and algorithm transparency:** Establish contract requirements for algorithm explainability, training data documentation, and government rights to inspect and audit AI system decisions.
 
-**Bias Detection and Mitigation:** Include performance standards for algorithmic fairness, bias testing requirements, and remediation procedures for discriminatory outcomes.
+**Bias detection and mitigation:** Include performance standards for algorithmic fairness, bias testing requirements, and remediation procedures for discriminatory outcomes.
 
-**Human Oversight and Control:** Require vendors to maintain human oversight capabilities for AI-powered systems and establish procedures for manual intervention in the event of automated system failures.
+**Human oversight and control:** Require vendors to maintain human oversight capabilities for AI-powered systems and establish procedures for manual intervention in the event of automated system failures.
 
 ## Key takeaways 
 
-1. **Procurement Decisions Drive Technical Outcomes:** Contract structures, performance standards, and oversight approaches directly influence whether IT projects succeed or fail, as seen in the FAFSA modernization.  
-2. **Modern Development Practices Require Modern Contracting:** DevSecOps, CI/CD, and Agile methodologies need corresponding changes in contract types, performance metrics, and vendor management approaches.  
-3. **User-Centered Design Must Be Contractually Mandated:** Successful digital services require continuous user feedback and iterative improvement, which contracts must incentivize and measure.  
-4. **Government Technical Capacity Is Essential**: Effective oversight of complex IT modernizations requires internal technical expertise that contracts should help build rather than replace.  
-5. **Risk Mitigation Through Early Detection:** Modern contracting approaches emphasize identifying and addressing problems early through automated monitoring, regular delivery cycles, and collaborative vendor relationships.
+1. **Procurement decisions drive technical outcomes:** Contract structures, performance standards, and oversight approaches directly influence whether IT projects succeed or fail, as seen in the FAFSA modernization.  
+2. **Modern development practices require modern contracting:** DevSecOps, CI/CD, and Agile methodologies need corresponding changes in contract types, performance metrics, and vendor management approaches.  
+3. **User-centered design must be contractually mandated:** Successful digital services require continuous user feedback and iterative improvement, which contracts must incentivize and measure.  
+4. **Government technical capacity is essential**: Effective oversight of complex IT modernizations requires internal technical expertise that contracts should help build rather than replace.  
+5. **Risk mitigation through early detection:** Modern contracting approaches emphasize identifying and addressing problems early through automated monitoring, regular delivery cycles, and collaborative vendor relationships.
 
 ## Additional resources
 
-Federal Guidance and Best Practices
+Federal guidance and best practices
 
 * [GAO High-Risk Series: IT Acquisition and Management](https://www.gao.gov/products/gao-25-107852)  
 * [TechFAR Hub: Modern IT Acquisition Practices](https://techfarhub.usds.gov/)  
 * [Digital Services Playbook](https://playbook.cio.gov/)
 
-Case Study Materials
+Case study materials
 
 * [GAO FAFSA Investigation Reports](https://www.gao.gov/blog/botched-fafsa-rollout-leaves-uncertainty-students-seeking-financial-aid-college)  
 * [Department of Education FAFSA Lessons Learned](https://www.ed.gov/sites/ed/files/2024-09/AFocusonImprovingtheFAFSAExperience.pdf)
@@ -243,38 +243,38 @@ This discussion activity challenges you to apply modern software engineering pra
 
 Choose ONE of the following federal IT challenges for your analysis:
 
-**Option 1: FAFSA System Modernization**
+**Option 1: FAFSA system modernization**
 
 >Use the detailed case study from this module, focusing on the $121.7 million General Dynamics contract and the systemic acquisition failures that led to student impact and operational disruption.
 
-**Option 2: IRS Business Systems Modernization**
+**Option 2: IRS business systems modernization**
 
 >Examine the ongoing challenges with IRS tax processing system modernization, including the decades-long effort to replace legacy systems and the impact on taxpayer services.
 
-**Option 3: SBA Unified Certification Platform**
+**Option 3: SBA unified certification platform**
 
 >Analyze the Small Business Administration's recent attempt to modernize its certification systems, including the deployment challenges and remaining functionality gaps identified by GAO.
 
-**Option 4: Your Agency's Current IT Challenge**
+**Option 4: Your agency's current IT challenge**
 
 >Select a significant IT modernization or acquisition challenge from your own agency experience, applying the same analytical framework used in the FAFSA case study.
 
 ### Discussion questions
 
-#### Question 1: Acquisition Strategy Redesign
+#### Question 1: Acquisition strategy redesign
 
-**Scenario Application**: For your selected case study, how would you restructure the acquisition approach to prevent the failures you've identified?
+**Scenario application**: For your selected case study, how would you restructure the acquisition approach to prevent the failures you've identified?
 
-**Specific Analysis Required:**
+**Specific analysis required:**
 
-* **Contract Structure:** How would you modify contract type, performance standards, and payment structures to incentivize modern development practices?  
-* **Vendor Selection:** What evaluation criteria would prioritize vendors with demonstrated DevSecOps and CI/CD capabilities?  
-* **Oversight Framework:** How would you establish government oversight that enables rather than impedes Agile delivery methods?  
-* **Risk Mitigation:** What contract mechanisms would provide early warning systems for delivery problems?
+* **Contract structure:** How would you modify contract type, performance standards, and payment structures to incentivize modern development practices?  
+* **Vendor selection:** What evaluation criteria would prioritize vendors with demonstrated DevSecOps and CI/CD capabilities?  
+* **Oversight framework:** How would you establish government oversight that enables rather than impedes Agile delivery methods?  
+* **Risk mitigation:** What contract mechanisms would provide early warning systems for delivery problems?
 
-**Practical Deliverable:** Design a specific contract clause or statement of work language that addresses one of the root causes you identified in your chosen case study.
+**Practical deliverable:** Design a specific contract clause or statement of work language that addresses one of the root causes you identified in your chosen case study.
 
->**Learning Tip:** *Consider how performance-based contracting can incentivize quality outcomes, what role government technical capacity plays in effective oversight, how modular contracting approaches enable iterative delivery, and what contract terms are needed to support DevSecOps integration.*
+>**Learning tip:** *Consider how performance-based contracting can incentivize quality outcomes, what role government technical capacity plays in effective oversight, how modular contracting approaches enable iterative delivery, and what contract terms are needed to support DevSecOps integration.*
 
 ---
 
@@ -282,37 +282,37 @@ Choose ONE of the following federal IT challenges for your analysis:
 
 **Challenge:** Federal agencies often lack internal technical expertise to effectively oversee complex IT contracts, leading to inadequate vendor management and poor delivery outcomes (as demonstrated in the FAFSA case, where CIOs were not involved in governance activities).
 
-**Strategic Response Required:**
+**Strategic response required:**
 
-* **Capacity Building Strategy:** How would you structure contracts to build government technical capacity rather than simply outsourcing technical decisions?  
-* **Knowledge Transfer Requirements:** What specific contract provisions would ensure that government staff gain technical expertise throughout the project lifecycle?  
-* **Sustainable Expertise:** How would you address the problem of high turnover in government technical positions (FAFSA had six different CIOs during the modernization period)?  
-* **Vendor Partnership Model:** What type of government-vendor collaboration model would maximize learning while maintaining appropriate oversight?
+* **Capacity building strategy:** How would you structure contracts to build government technical capacity rather than simply outsourcing technical decisions?  
+* **Knowledge transfer requirements:** What specific contract provisions would ensure that government staff gain technical expertise throughout the project lifecycle?  
+* **Sustainable expertise:** How would you address the problem of high turnover in government technical positions (FAFSA had six different CIOs during the modernization period)?  
+* **Vendor partnership model:** What type of government-vendor collaboration model would maximize learning while maintaining appropriate oversight?
 
-**Practical Application:** Using your chosen case study, design a comprehensive approach for building your agency's internal technical capacity through strategic acquisition planning.
+**Practical application:** Using your chosen case study, design a comprehensive approach for building your agency's internal technical capacity through strategic acquisition planning.
 
->**Learning Tip:** *Consider what skills government staff need to effectively oversee modern IT contracts, how to structure vendor relationships that build rather than replace government expertise, what role technical training and certification play in acquisition workforce development, and how to create sustainable technical career paths within government.*
+>**Learning tip:** *Consider what skills government staff need to effectively oversee modern IT contracts, how to structure vendor relationships that build rather than replace government expertise, what role technical training and certification play in acquisition workforce development, and how to create sustainable technical career paths within government.*
 
 ---
 
 #### Question 3: Performance measurement and continuous improvement 
 
-**Industry Context**: Research shows that technical adoption alone doesn't guarantee success — organizational culture, change management, and performance measurement are equally critical for digital transformation success.
+**Industry context**: Research shows that technical adoption alone doesn't guarantee success — organizational culture, change management, and performance measurement are equally critical for digital transformation success.
 
-**Federal Application Analysis:**
+**Federal application analysis:**
 
-* **Current Challenge:** Why do federal agencies struggle to implement DevOps practices even when contracts require them? (Use specific examples from your chosen case study.)  
-* **Measurement Framework:** How would you design performance metrics that capture both technical delivery quality and user outcome achievement?  
-* **Continuous Improvement**: What contract structures and oversight processes would enable rapid identification and correction of delivery problems?  
-* **Cultural Change:** How can acquisition strategies support rather than hinder the cultural changes needed for successful digital transformation?
+* **Current challenge:** Why do federal agencies struggle to implement DevOps practices even when contracts require them? (Use specific examples from your chosen case study.)  
+* **Measurement framework:** How would you design performance metrics that capture both technical delivery quality and user outcome achievement?  
+* **Continuous improvement**: What contract structures and oversight processes would enable rapid identification and correction of delivery problems?  
+* **Cultural change:** How can acquisition strategies support rather than hinder the cultural changes needed for successful digital transformation?
 
-**Scenario Integration:** Apply your performance measurement framework to your selected case study, showing how you would track progress and drive continuous improvement throughout the contract lifecycle.
+**Scenario integration:** Apply your performance measurement framework to your selected case study, showing how you would track progress and drive continuous improvement throughout the contract lifecycle.
 
->**Learning Tip:** *Consider why traditional contract compliance metrics may conflict with Agile delivery methods, how to balance accountability with innovation flexibility, what role user feedback should play in contract performance evaluation, and how to structure vendor incentives that promote continuous improvement rather than minimum compliance.*
+>**Learning tip:** *Consider why traditional contract compliance metrics may conflict with Agile delivery methods, how to balance accountability with innovation flexibility, what role user feedback should play in contract performance evaluation, and how to structure vendor incentives that promote continuous improvement rather than minimum compliance.*
 
 ### Definition of done
 
-**Initial Post Requirements (Due: End of Module 4)**
+**Initial post requirements (Due: End of Module 4)**
 
 Your initial post must include:
 
@@ -330,7 +330,7 @@ Your initial post must include:
 
 ---
 
-**Peer Engagement Requirements**
+**Peer engagement requirements**
 
 Engage meaningfully with at least two classmates' posts by:
 
@@ -341,7 +341,7 @@ Engage meaningfully with at least two classmates' posts by:
 
 ---
 
-**Success Tips**
+**Success tips**
 
 1. Be Specific: Use concrete examples of contract language, evaluation criteria, or oversight procedures rather than general statements about "better management."  
 2. Connect to Acquisition: Every recommendation should clearly show how procurement decisions enable or prevent the desired technical outcomes.  
@@ -351,19 +351,19 @@ Engage meaningfully with at least two classmates' posts by:
 
 ### Additional resources for analysis
 
-Federal Acquisition Context
+Federal acquisition context
 
 * [GAO High-Risk Series: IT Acquisition and Management (2025)](https://www.gao.gov/products/gao-25-107852)  
 * [TechFAR Hub: Modern Contract Language Examples](https://techfarhub.usds.gov/resources/learning-center/sample-language-for-government-contracts/)  
 * [Digital Services Playbook: Acquisition Guidance](https://playbook.cio.gov/)
 
-Technical Best Practices References
+Technical best practices references
 
 * [DevSecOps Implementation Guide for Federal Agencies](https://www.cisa.gov/resources-tools/resources/devsecops)  
 * [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework)  
 * [Federal Cloud Computing Strategy](https://cloud.cio.gov/strategy/)
 
-Case Study Background Materials
+Case study background materials
 
 * [FAFSA GAO Investigation Reports](https://www.gao.gov/blog/botched-fafsa-rollout-leaves-uncertainty-students-seeking-financial-aid-college)  
 * [SBA Unified Certification Platform Report](https://www.gao.gov/products/gao-25-107852)
@@ -375,7 +375,7 @@ Case Study Background Materials
 
 ### The digital identity crisis at FedConnect
 
-*Choose Your Own Path: The FedConnect Exit Strategy*
+*Choose your own path: The FedConnect exit strategy*
 
 **Scenario:**
 
@@ -450,11 +450,11 @@ You are encouraged to research recent GAO decisions, Court of Federal Claims cas
 
 ---
 
-**Exit Strategy Evaluation**
+**Exit strategy evaluation**
 
 Analyze the pros and cons of various exit strategies.
 
-Module-specific Termination for Default:
+Module-specific termination for default:
 
 *Pros:*
 
@@ -472,7 +472,7 @@ Module-specific Termination for Default:
 
 ---
 
-**System-wide Contract Restructuring:**
+**System-wide contract restructuring:**
 
 *Pros:*
 
@@ -489,7 +489,7 @@ Module-specific Termination for Default:
 
 ---
 
-**Accepting Remediation with Enhanced Integration Requirements:**
+**Accepting remediation with enhanced integration requirements:**
 
 *Pros:*
 
@@ -561,7 +561,7 @@ In modular contracting, individual vendor decisions must consider impacts on the
 
 ---
 
-**Implementation and Integration Planning**
+**Implementation and integration planning**
 
 If terminating CloudTech, how should Sarah manage integration risks with other functioning modules?
 
@@ -667,7 +667,7 @@ Modular contracting requires extensive and enhanced upfront planning, as well as
 
 ---
 
-**Strategic Implications**
+**Strategic implications**
 
 **How should this experience inform the agency's future use of modular contracting for complex digital services?**
 
@@ -763,11 +763,11 @@ You recommend terminating CloudTech’s contract and launching an emergency proc
 * Other vendors remain intact, but morale is shaken.  
 * Your team must manage parallel systems during the transition.
 
-**Reflection Prompt:** 
+**Reflection prompt:** 
 
 *What risks did you accept by choosing termination? How will you manage the fallout with stakeholders and Congress?*
 
-**Quick Check:**
+**Quick check:**
 
  Which of these are required for a successful vendor transition? (Select all that apply)
 
@@ -790,11 +790,11 @@ You recommend giving CloudTech a second chance — under new, stricter performan
 * Stakeholders question the wisdom of further investment in a weak vendor.  
 * The modular structure remains intact, but trust in CloudTech erodes.
 
-**Reflection Prompt:** 
+**Reflection prompt:** 
 
 *Are you rewarding poor performance — or protecting a fragile system? What performance guardrails should you now require?*
 
-**Quick Check:**
+**Quick check:**
 
 Which of the following should be added to CloudTech’s modified contract? (Select all that apply)
 
@@ -819,11 +819,11 @@ You recommend collapsing the project into a single-award, unified contract and r
 * The agency’s commitment to modular procurement is undermined.  
 * Stakeholder support for innovation diminishes.
 
-**Reflection Prompt:** 
+**Reflection prompt:** 
 
 *What does this decision say about your agency’s risk appetite? How might it shape future digital acquisition strategies?*
 
-**Quick Check:**
+**Quick check:**
 
 What are key drawbacks to abandoning modularity mid-project? (Select all that apply)
 
