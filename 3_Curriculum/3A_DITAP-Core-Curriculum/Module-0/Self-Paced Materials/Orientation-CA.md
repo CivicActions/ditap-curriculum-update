@@ -1,4 +1,4 @@
-# DITAP Course: What to Expect, How to Navigate
+# DITAP Course: What to Expect
 **Module 0 Sprint 0**
 
 > _Average completion time: 15 - 20 minutes_
@@ -17,25 +17,31 @@
 
   - **Course modules**
 
-    - **Module 1 – Describe**  
+    - **Module 1 – Describe**
+      
       Focuses on understanding what digital services are, who provides them, how they are delivered, and why they are important. This includes topics like the digital services landscape, delivery methods (Agile, Human-Centered Design, DevSecOps), and a Tech Bootcamp covering data, software, cloud, AI, security, accessibility, and open source.
 
-    - **Module 2 – Discover**  
+    - **Module 2 – Discover**
+      
       Emphasizes engaging in a discovery process to inform acquisition strategy decisions. This involves assessing agency readiness, stakeholder and customer mapping, defining success for digital service acquisitions, and conducting effective market research.
 
-    - **Module 3 – Design**  
+    - **Module 3 – Design**
+      
       Concentrates on translating discovery findings into a structured solicitation. It covers developing acquisition strategies, creating solicitations, and running successful evaluations.
 
     - **Module 4 – Build**  
       Focuses on managing vendor partnerships and supporting delivery through contract administration practices, grounded in agile and lean methodologies. Topics include management of digital service delivery, performance measurement, contract kickoff, and contract management/problem resolution.
 
-    - **Module 5 – Grow**  
+    - **Module 5 – Grow**
+      
       Aims to apply techniques to create a culture of innovation, enabling participants to lead and influence customers towards optimal solutions. This includes leading change as an individual and leading organizational change through continuous improvement and scalable practices.
 
-  - **Threaded Case Scenario Integration**  
+  - **Threaded Case Scenario Integration**
+    
     The program utilizes a threaded case scenario, *Cynuria: Navigating Stakeholder and Decision-Making Challenges*, to provide a realistic, evolving scenario for applied learning across the modules. The threaded scenario is integrated into the curriculum to align with learning objectives and reinforce key principles.
 
-  - **Capstone/Live Digital Assignment (LDA)**  
+  - **Capstone/Live Digital Assignment (LDA)**
+ 
     This group capstone project simulates the end-to-end lifecycle of a modern digital service acquisition, reinforcing core DITAP objectives. It involves four phases: Discovery Sprint, Case Study Development, Evaluation & Feedback, and Final Presentations. Participants identify their own real-world digital service procurement challenge and apply Agile and Human-Centered Design principles.
 
 - **Grading policy**
