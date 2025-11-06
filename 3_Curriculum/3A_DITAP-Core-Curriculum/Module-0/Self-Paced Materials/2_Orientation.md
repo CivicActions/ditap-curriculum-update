@@ -100,3 +100,7 @@ Please come prepared to share:
 * Describe a time when you helped to solve a procurement need in your department
 
 You won’t need to post anything ahead of time, just take a few minutes to gather your thoughts so you are ready to join the conversation. 
+
+## Conclusion
+>You’ve completed Module 0 - Orientation! Please close this window to return to the course main page, then select Mark Complete to record your progress.
+
