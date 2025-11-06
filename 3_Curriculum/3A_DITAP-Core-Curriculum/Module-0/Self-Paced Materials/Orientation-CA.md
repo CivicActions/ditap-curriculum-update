@@ -43,6 +43,7 @@
 
   - **Capstone/Live Digital Assignment (LDA)**
      
+
     This group capstone project simulates the end-to-end lifecycle of a modern digital service acquisition, reinforcing core DITAP objectives. It involves four phases: Discovery Sprint, Case Study Development, Evaluation & Feedback, and Final Presentations. Participants identify their own real-world digital service procurement challenge and apply Agile and Human-Centered Design principles.
 
 - **Grading policy**
