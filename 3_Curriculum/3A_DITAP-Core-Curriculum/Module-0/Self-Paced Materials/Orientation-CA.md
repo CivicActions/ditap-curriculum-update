@@ -29,7 +29,8 @@
       
       Concentrates on translating discovery findings into a structured solicitation. It covers developing acquisition strategies, creating solicitations, and running successful evaluations.
 
-    - **Module 4 – Build**  
+    - **Module 4 – Build**
+      
       Focuses on managing vendor partnerships and supporting delivery through contract administration practices, grounded in agile and lean methodologies. Topics include management of digital service delivery, performance measurement, contract kickoff, and contract management/problem resolution.
 
     - **Module 5 – Grow**
@@ -41,19 +42,21 @@
     The program utilizes a threaded case scenario, *Cynuria: Navigating Stakeholder and Decision-Making Challenges*, to provide a realistic, evolving scenario for applied learning across the modules. The threaded scenario is integrated into the curriculum to align with learning objectives and reinforce key principles.
 
   - **Capstone/Live Digital Assignment (LDA)**
- 
+     
     This group capstone project simulates the end-to-end lifecycle of a modern digital service acquisition, reinforcing core DITAP objectives. It involves four phases: Discovery Sprint, Case Study Development, Evaluation & Feedback, and Final Presentations. Participants identify their own real-world digital service procurement challenge and apply Agile and Human-Centered Design principles.
 
 - **Grading policy**
-
+  
   - This course uses a pass/fail grading system, and all assignments are assessed on a pass/fail basis.
 
   - **Applied Learning Assignments**
+    
     - Stakeholder Research
     - Shadowing Assignment
     - Live Digital Assignment
 
   - **Assessments**
+    
     - Pre-assessment
     - Post-assessment
 
