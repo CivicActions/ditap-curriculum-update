@@ -343,15 +343,18 @@ Engage meaningfully with at least two classmates' posts by:
 
 **Success tips**
 
-1. Be Specific: Use concrete examples of contract language, evaluation criteria, or oversight procedures rather than general statements about "better management."  
-2. Connect to Acquisition: Every recommendation should clearly show how procurement decisions enable or prevent the desired technical outcomes.  
-3. Apply Course Concepts: Reference specific DITAP concepts, frameworks, and best practices learned throughout the course  
-4. Think Practically: Consider real-world implementation challenges, including budget constraints, regulatory requirements, and political pressures.  
-5. Learn from Peers: Use peer discussion to refine your understanding and discover alternative approaches to common challenges.
+1. Be specific: Use concrete examples of contract language, evaluation criteria, or oversight procedures rather than general statements about "better management."  
+2. Connect to acquisition: Every recommendation should clearly show how procurement decisions enable or prevent the desired technical outcomes.  
+3. Apply course concepts: Reference specific DITAP concepts, frameworks, and best practices learned throughout the course  
+4. Think practically: Consider real-world implementation challenges, including budget constraints, regulatory requirements, and political pressures.  
+5. Learn from peers: Use peer discussion to refine your understanding and discover alternative approaches to common challenges.
+
+### Join the discussion
 
 Post your full response and your replies to your peers by selecting the link below.
 
-**[Module 4 – Sprint 4 – Case Study Response – VA25-2]**(https://ed.civicactions.com/forums/topic/module-4-sprint-4-discussion-va25-2/)
+**[Module 4 – Sprint 4 – Case Study Response – VA25-2](https://ed.civicactions.com/forums/topic/module-4-sprint-4-discussion-va25-2/)**
+
 
 ### Additional resources for analysis
 
