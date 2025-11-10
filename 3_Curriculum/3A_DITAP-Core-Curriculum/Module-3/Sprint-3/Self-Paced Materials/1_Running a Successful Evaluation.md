@@ -145,7 +145,7 @@ Selecting the right evaluation criteria is both a technical and strategic task. 
 | 8. **Distinguish past performance from past experience** | - **Past performance:** assesses a vendor’s track record of meeting contractual obligations—i.e., were they reliable? <br>- **Past experience:** evaluates their actual technical work—what did they build, and how well did it meet the need? |
 | 9. **Choose the right evaluation methodology** | Match the methodology to the acquisition’s complexity and goals. Use: <br>- Pass/Fail for threshold requirements <br>- Point Scales for nuanced scoring <br>- Comparative Evaluation for streamlined, side-by-side judgments <br>- Best-Value Trade-Offs when balancing cost and quality in complex procurements |
 | 10. **Pilot and calibrate your criteria** | Test your criteria against sample proposals to ensure they work as intended. Look for scoring ambiguity, overlaps, or unintended incentives. |
-| 11. **Refine Criteria Based on Feedback** | After the award, gather feedback from both vendors and evaluators to improve the criteria for future use. Ask: Did the criteria surface meaningful distinctions? Were the scoring rubrics usable and fair? |
+| 11. **Refine criteria based on feedback** | After the award, gather feedback from both vendors and evaluators to improve the criteria for future use. Ask: Did the criteria surface meaningful distinctions? Were the scoring rubrics usable and fair? |
 
 
 In agile environments, where collaboration, adaptability, and working software are paramount, evaluation criteria should reward vendors who demonstrate team maturity, technical fluency, and alignment with end-user needs, preferably in real time through oral presentations or working prototypes.
@@ -157,15 +157,15 @@ In agile environments, where collaboration, adaptability, and working software a
 
 **I. Introduction: A model for comparative evaluation of vendor proposals.**
 
-**II. Evaluation Methodology: Use comparative assessments across multiple stages to determine best fit.**
+**II. Evaluation methodology: Use comparative assessments across multiple stages to determine best fit.**
 
-**III. Evaluation Characteristics**
+**III. Evaluation characteristics**
 
 * No scoring required  
 * Focuses on relative merit  
 * Narrative-based justifications
 
-**IV. Evaluation Stages & Criteria**
+**IV. Evaluation stages & criteria**
 
 1\. White Paper Evaluation
 
@@ -186,13 +186,13 @@ In agile environments, where collaboration, adaptability, and working software a
 * QA Processes  
 * Cost-Effectiveness
 
-**V. Evaluation Flow**
+**V. Evaluation flow**
 
 * Use white paper to screen vendors  
 * Compare solutions during oral presentations  
 * Select the final vendor based on relative merit and alignment with goals
 
-**VI. Additional Considerations**
+**VI. Additional considerations**
 
 * Require verifiable data  
 * Allow narrative rationale for selections  
@@ -239,14 +239,14 @@ Apply adjectival ratings to each evaluation factor based on proposal quality, al
 * QA Processes  
 * Cost-Effectiveness
 
-**V. Evaluation Flow**
+**V. Evaluation flow**
 
 * Evaluate white papers using adjectival ratings  
 * Conduct oral presentations or technical challenges  
 * Review Draft PWS and pricing for realism and value  
 * Select vendor offering the best combination of ratings, strengths, and overall value
 
-**VI. Additional Considerations**
+**VI. Additional considerations**
 
 * Use clearly defined rating definitions and evaluation criteria  
 * Require narrative rationale for all ratings  
@@ -309,23 +309,23 @@ The Revolutionary FAR Overhaul (RFO) has significantly updated both FAR Part 6 (
 
 **Key FAR Part 39 changes affecting negotiations**:
 
-- **Expanded Scope**: ICT now encompasses information technology, Internet of Things devices, emerging technology, and operational technology, requiring broader technical discussions during negotiations.
-- **Performance-Based Focus**: Vendors must now provide evidence of success in delivering performance-based outcomes for ICT services. Merely stating individual qualifications is considered non-compliant.
-- **Personnel Requirements**: Agencies may now specify minimum educational or experience requirements for proposed contractor personnel in ICT solicitations (previously prohibited under old FAR 39.104).
-- **Updated Security Requirements**: FAR 39.105 and FAR 52.239-1 have been eliminated; negotiations must now address requirements under FAR subpart 4.19 and FAR 52.204-21 for safeguarding contractor information systems.
+- **Expanded scope**: ICT now encompasses information technology, Internet of Things devices, emerging technology, and operational technology, requiring broader technical discussions during negotiations.
+- **Performance-based focus**: Vendors must now provide evidence of success in delivering performance-based outcomes for ICT services. Merely stating individual qualifications is considered non-compliant.
+- **Personnel requirements**: Agencies may now specify minimum educational or experience requirements for proposed contractor personnel in ICT solicitations (previously prohibited under old FAR 39.104).
+- **Updated security requirements**: FAR 39.105 and FAR 52.239-1 have been eliminated; negotiations must now address requirements under FAR subpart 4.19 and FAR 52.204-21 for safeguarding contractor information systems.
 
 **Key FAR Part 6 changes affecting negotiations**:
 
-- **Streamlined Competition Procedures**: While maintaining statutory competition requirements, procedural guidelines have been simplified, allowing for more flexible negotiation approaches.
-- **Enhanced Competition Advocacy**: Competition advocates retain their role in promoting full and open competition, which may influence negotiation strategies and documentation requirements.
+- **Streamlined competition procedures**: While maintaining statutory competition requirements, procedural guidelines have been simplified, allowing for more flexible negotiation approaches.
+- **Enhanced competition advocacy**: Competition advocates retain their role in promoting full and open competition, which may influence negotiation strategies and documentation requirements.
 
 ### Best practices for digital service procurements 
 
-* **Negotiate Early, Especially at Down-Selects:** Use advisory notices as a structured opportunity to open meaningful, time-boxed negotiations.
-* **Focus Negotiations on Top Candidates:** Don't waste time trying to negotiate with every vendor — invest effort where there's a real potential for improvement.
-* **Treat Discussions as Mutual Vetting:** You're not just evaluating vendors, you’re letting vendors evaluate the government’s approach and constraints.
-* **Resolve Misaligned Assumptions:** Address gaps and misunderstandings now. It's exponentially harder to fix after a contract award.
-* **Prepare Vendors for Iterative/Agile Contracts:** Many vendors are still transitioning to truly iterative delivery. Discuss expectations for backlog ownership, minimum viable products (MVPs), and iterative releases.
+* **Negotiate early, especially at down-selects:** Use advisory notices as a structured opportunity to open meaningful, time-boxed negotiations.
+* **Focus negotiations on top candidates:** Don't waste time trying to negotiate with every vendor — invest effort where there's a real potential for improvement.
+* **Treat discussions as mutual vetting:** You're not just evaluating vendors, you’re letting vendors evaluate the government’s approach and constraints.
+* **Resolve misaligned assumptions:** Address gaps and misunderstandings now. It's exponentially harder to fix after a contract award.
+* **Prepare vendors for iterative/agile contracts:** Many vendors are still transitioning to truly iterative delivery. Discuss expectations for backlog ownership, minimum viable products (MVPs), and iterative releases.
 
 ### Negotiation opportunities during challenges
 
@@ -389,23 +389,23 @@ When acquiring digital services, the Government needs to think and buy different
 
 When entering negotiations in a digital services context, teams should actively focus on:
 
-* **Technical Assumptions:** Identify assumptions embedded in vendor proposals, especially around hosting, security, scaling, and stakeholder availability.
-* **Demonstration Gaps:** Use insights from code challenges or demos to clarify performance expectations or technical design choices.
-* **Risk Mitigation Strategies:** Discuss approaches to areas identified as high-risk during earlier phases.
-* **Scalability and Future Flexibility:** Ensure vendors understand future growth expectations even if immediate scope is small.
-* **Data Rights and IP Terms:** Negotiate critical terms about custom code ownership, licensing, and portability up front.
-* **Transparency and Team Dynamics:** Observe how vendors handle feedback — a strong predictor of how collaborative they will be during delivery.
+* **Technical assumptions:** Identify assumptions embedded in vendor proposals, especially around hosting, security, scaling, and stakeholder availability.
+* **Demonstration gaps:** Use insights from code challenges or demos to clarify performance expectations or technical design choices.
+* **Risk mitigation strategies:** Discuss approaches to areas identified as high-risk during earlier phases.
+* **Scalability and future flexibility:** Ensure vendors understand future growth expectations even if immediate scope is small.
+* **Data rights and IP terms:** Negotiate critical terms about custom code ownership, licensing, and portability up front.
+* **Transparency and team dynamics:** Observe how vendors handle feedback — a strong predictor of how collaborative they will be during delivery.
 
 The Revolutionary FAR Overhaul has also modernized how the Government approaches digital services acquisitions, requiring updated negotiation strategies. When entering negotiations in an ICT context under the new FAR Part 39, teams should actively focus on:
 
-- **Performance-Based Outcomes**: Under the new FAR Part 39, vendors must demonstrate measurable success in delivering ICT solutions, not just technical capabilities. Negotiate specific performance metrics and success criteria rather than accepting generic qualifications.
-- **Technical Assumptions for ICT**: Identify assumptions embedded in vendor proposals around hosting, security, scaling, Internet of Things integration, emerging technologies, and operational technology systems. The expanded ICT scope requires more comprehensive technical discussions.
-- **Personnel Qualifications**: Unlike previous FAR 39.104 restrictions, agencies may now negotiate specific minimum educational or experience requirements for contractor personnel. Use this flexibility to ensure appropriate expertise for complex ICT projects.
-- **Security and Safeguarding Requirements**: With the elimination of FAR 39.105 and FAR 52.239-1, negotiate compliance with FAR subpart 4.19 and FAR 52.204-21 requirements for safeguarding contractor information systems and Controlled Unclassified Information (CUI).
-- **Modular Contracting Approach**: Retain focus on modular contracting principles (41 U.S.C. § 2308) during negotiations, ensuring vendors understand iterative delivery expectations and can demonstrate experience with modular implementations.
-- **Emerging Technology Integration**: Address how vendors will incorporate and adapt to emerging technologies throughout the contract performance period, including their approach to technology refresh and innovation adoption.
-- **Data Rights and Intellectual Property**: With the expanded ICT scope, negotiate comprehensive terms about custom code ownership, data portability, and intellectual property rights for Internet of Things devices and operational technology systems.
-- **Accessibility Compliance**: Discuss vendor approaches to accessibility requirements and document any alternative access methods, exemptions, or exceptions that may create additional but allowable costs.
+- **Performance-based outcomes**: Under the new FAR Part 39, vendors must demonstrate measurable success in delivering ICT solutions, not just technical capabilities. Negotiate specific performance metrics and success criteria rather than accepting generic qualifications.
+- **Technical assumptions for ICT**: Identify assumptions embedded in vendor proposals around hosting, security, scaling, Internet of Things integration, emerging technologies, and operational technology systems. The expanded ICT scope requires more comprehensive technical discussions.
+- **Personnel qualifications**: Unlike previous FAR 39.104 restrictions, agencies may now negotiate specific minimum educational or experience requirements for contractor personnel. Use this flexibility to ensure appropriate expertise for complex ICT projects.
+- **Security and safeguarding requirements**: With the elimination of FAR 39.105 and FAR 52.239-1, negotiate compliance with FAR subpart 4.19 and FAR 52.204-21 requirements for safeguarding contractor information systems and Controlled Unclassified Information (CUI).
+- **Modular contracting approach**: Retain focus on modular contracting principles (41 U.S.C. § 2308) during negotiations, ensuring vendors understand iterative delivery expectations and can demonstrate experience with modular implementations.
+- **Emerging technology integration**: Address how vendors will incorporate and adapt to emerging technologies throughout the contract performance period, including their approach to technology refresh and innovation adoption.
+- **Data rights and Intellectual Property**: With the expanded ICT scope, negotiate comprehensive terms about custom code ownership, data portability, and intellectual property rights for Internet of Things devices and operational technology systems.
+- **Accessibility compliance**: Discuss vendor approaches to accessibility requirements and document any alternative access methods, exemptions, or exceptions that may create additional but allowable costs.
 
 The streamlined competition procedures under the updated FAR Part 6 provide more flexibility in negotiation approaches while maintaining core competition requirements, allowing for more agile and mission-focused discussions.
 
@@ -453,12 +453,12 @@ Once negotiation objectives are established, the team should review and reach a 
 
 It is important to address logistical considerations prior to conducting negotiation sessions.
 
-|  | Logistical Considerations |
+|  | Logistical considerations |
 |--|--|
-|   ![clock](https://github.com/usds/ditap-curriculum-update/blob/cb6995227d64174cc8a298dad2a8dfb41b7c1171/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/clock.gif?raw=true)   | **Schedule a Time** <br> Negotiations should be conducted as soon as possible after the Government completes its evaluation of proposals and develops its negotiation objectives.  When planning a time, consider the availability of all required Government personnel and offeror personnel. Allow enough lead time for both parties to assemble their teams. Consider the depth and breadth of the issues that will be covered, and allow reasonable time for discussion. This could be a couple hours for smaller acquisitions to a week or more for significant programs. |
-| ![arrange location](https://github.com/usds/ditap-curriculum-update/blob/cb6995227d64174cc8a298dad2a8dfb41b7c1171/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/arrange%20location.gif?raw=true) | **Arrange for a Location**  <br> If the negotiation session will be face to face, arrange for a location. Generally, the Government will want to hold the session at its own site. However, there may be reasons to use a neutral site. (Conducting negotiations at the offeror’s location is generally considered the least desirable alternative.) Consider and prepare for related requirements, such as room size, seating capacity, and internet access.  In addition to conducting the negotiation session face to face, it may also be held via phone, video conference, or web meeting. |
-|![invite participants](https://github.com/usds/ditap-curriculum-update/blob/cb6995227d64174cc8a298dad2a8dfb41b7c1171/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/invite%20participants.gif?raw=true)  | **Invite Appropriate Participants**  <br>It is extremely important that the Government have experienced, qualified people in attendance. Offerors will ask questions about revisions and their impacts, and the Government must have the right people to field these questions. Secure the support of the experts you think you may need, and avoid inviting people only because they are available. It is generally advisable to ask the offeror in advance who will be attending from its firm. This allows the Government to match expertise. For example, if the offeror is bringing legal experts to discuss intellectual property issues and licensing, the Government can ensure it has its counterparts at the meeting. In addition, if necessary/appropriate, the Government can place limits on the number of participants. |
-| ![draft materials](https://github.com/usds/ditap-curriculum-update/blob/cb6995227d64174cc8a298dad2a8dfb41b7c1171/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/draft%20materials.gif?raw=true) | **Draft and Distribute Read-Ahead Materials**  <br>The Government should prepare and distribute a written agenda to all participants. The agenda should include items to be discussed and background information substantiating the Government’s position, if available.  In most instances, the agenda and any other read-ahead materials should be provided so the offeror has time to review them and be prepared to respond. |
+|   ![clock](https://github.com/usds/ditap-curriculum-update/blob/cb6995227d64174cc8a298dad2a8dfb41b7c1171/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/clock.gif?raw=true)   | **Schedule a time** <br> Negotiations should be conducted as soon as possible after the Government completes its evaluation of proposals and develops its negotiation objectives.  When planning a time, consider the availability of all required Government personnel and offeror personnel. Allow enough lead time for both parties to assemble their teams. Consider the depth and breadth of the issues that will be covered, and allow reasonable time for discussion. This could be a couple hours for smaller acquisitions to a week or more for significant programs. |
+| ![arrange location](https://github.com/usds/ditap-curriculum-update/blob/cb6995227d64174cc8a298dad2a8dfb41b7c1171/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/arrange%20location.gif?raw=true) | **Arrange for a location**  <br> If the negotiation session will be face to face, arrange for a location. Generally, the Government will want to hold the session at its own site. However, there may be reasons to use a neutral site. (Conducting negotiations at the offeror’s location is generally considered the least desirable alternative.) Consider and prepare for related requirements, such as room size, seating capacity, and internet access.  In addition to conducting the negotiation session face to face, it may also be held via phone, video conference, or web meeting. |
+|![invite participants](https://github.com/usds/ditap-curriculum-update/blob/cb6995227d64174cc8a298dad2a8dfb41b7c1171/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/invite%20participants.gif?raw=true)  | **Invite appropriate participants**  <br>It is extremely important that the Government have experienced, qualified people in attendance. Offerors will ask questions about revisions and their impacts, and the Government must have the right people to field these questions. Secure the support of the experts you think you may need, and avoid inviting people only because they are available. It is generally advisable to ask the offeror in advance who will be attending from its firm. This allows the Government to match expertise. For example, if the offeror is bringing legal experts to discuss intellectual property issues and licensing, the Government can ensure it has its counterparts at the meeting. In addition, if necessary/appropriate, the Government can place limits on the number of participants. |
+| ![draft materials](https://github.com/usds/ditap-curriculum-update/blob/cb6995227d64174cc8a298dad2a8dfb41b7c1171/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/draft%20materials.gif?raw=true) | **Draft and distribute read-ahead materials**  <br>The Government should prepare and distribute a written agenda to all participants. The agenda should include items to be discussed and background information substantiating the Government’s position, if available.  In most instances, the agenda and any other read-ahead materials should be provided so the offeror has time to review them and be prepared to respond. |
 
 #### Success strategy \#4: Prepare the team for the negotiation sessions
 
@@ -719,11 +719,11 @@ Best practices include:
 
 | Element | Why It Matters |
 | ----- | ----- |
-| **Specific Solicitation Requirement Reference** | Shows the evaluation tied back to the rules everyone agreed to (Section M). |
-| **Proposal Page Numbers** | Demonstrates evaluators reviewed the proposal carefully and fairly. |
-| **Benefit or Risk Discussion** | Explains whether and how the proposed solution would help the government mission. |
-| **Acknowledgment of Offeror Assumptions** | Addresses where offeror assumptions may have hurt their evaluation — helping them improve in future bids. |
-| **Clear Attribution of Strengths and Weaknesses** | Helps offerors understand competitive gaps without speculating or comparing proposals improperly. |
+| **Specific solicitation requirement reference** | Shows the evaluation tied back to the rules everyone agreed to (Section M). |
+| **Proposal page numbers** | Demonstrates evaluators reviewed the proposal carefully and fairly. |
+| **Benefit or risk discussion** | Explains whether and how the proposed solution would help the government mission. |
+| **Acknowledgment of offeror assumptions** | Addresses where offeror assumptions may have hurt their evaluation — helping them improve in future bids. |
+| **Clear attribution of strengths and weaknesses** | Helps offerors understand competitive gaps without speculating or comparing proposals improperly. |
 
 Digital solutions are often modular, iterative, and designed for change, meaning evaluation panels must be even more careful to:
 
