@@ -16,7 +16,7 @@ After this module, you will be able to:
 
 All digital projects should start with the end user. This simple principle is foundational to designing, developing, and delivering digital services. In fact, “Understand what people need” is the first play in the [U.S. Digital Services Playbook](https://playbook.usds.gov/), which you will explore as you progress through this module.
 
-### Discussion: The good, the bad, and the ugly (optional)
+### Reflection: The good, the bad, and the ugly (optional)
 
 - What commercial companies or government agencies do you know of that keep user needs at the forefront? How does this show? What steps do you think they took to get to where they are?
 - What commercial companies or government agencies do you know of that didn’t prioritize user needs? What were the consequences?
@@ -63,7 +63,7 @@ You might think you know what your end user needs. However, starting development
 
 Read how the Department of Education developed a simple prototype made of cardboard and paper to test their ideas for a mobile-friendly college scorecard. They also took Play 1 to heart in other ways by talking directly to high school students and leveraging a variety of data to inform their development.  
 
-[Behind the scenes: Building a new College Scorecard with students](https://medium.com/the-u-s-digital-service/under-the-hood-building-a-new-college-scorecard-with-students-cbcf21a745fc) 
+[Under the hood: Building a new College Scorecard with students](https://medium.com/the-u-s-digital-service/under-the-hood-building-a-new-college-scorecard-with-students-cbcf21a745fc) 
 
 ### A/B testing
 
@@ -230,7 +230,7 @@ This section introduces key frameworks and practices that bring Agile to life, i
 
 Agile delivery is more than a set of practices. It's a mindset of continuous improvement, open communication, and user-centered design. By adopting these methods, federal acquisition professionals can better support digital transformation initiatives and make informed, Agile-friendly procurement decisions.
 
-## Discussion (optional)
+## Reflection (optional)
 
 Think back to a digital service or IT project you were involved in, whether as a contracting officer, program manager, or stakeholder. Based on what you now know about Agile, what might you have done differently to encourage more adaptability, feedback, or user involvement?
 
@@ -457,7 +457,7 @@ The VA’s journey highlighted a key lesson for acquisition professionals: enabl
 * [DevSecOps Enables VA’s Digital Transformation](https://govciomedia.com/devsecops-enables-vas-digital-transformation/)  
 * [DevSecOps is Improving CX at GSA, VA](https://govciomedia.com/devsecops-is-improving-cx-at-gsa-va/)  
 
-### Discussion (optional)
+### Reflection (optional)
 
 How can DevSecOps improve the security of government digital services?
 
@@ -509,7 +509,7 @@ These teams play a critical role in:
 * **Improving procurement practices** by advising on modular contracting and vendor selection  
 * **Supporting delivery** by embedding with program teams to guide implementation or act as product owners
 
-### Activity – Discussion (optional)
+### Reflection (optional)
 
 How do these government teams collaborate with external vendors? What role do they play in improving digital service delivery?
 
@@ -535,7 +535,7 @@ An increasing number of firms specialize in digital service delivery and either 
 
 ### Activity \- Digital service supplier discovery (optional)
 
-Select two companies from the list of Digital Service Coalition members listed [here](https://digitalservicescoalition.org/story/). Review their websites, and perform a search on [usaspending.gov](http://usaspending.gov) to identify contract awards they have received from the federal government. Consider the following questions: 
+Select two companies from the list of Digital Service Coalition members listed [on their website](https://digitalservicescoalition.org/story/). Review their websites, and perform a search on [usaspending.gov](http://usaspending.gov) to identify contract awards they have received from the federal government. Consider the following questions: 
 
 * How does each company describe its services?   
 * What are some specific case studies or projects each company has worked on, and what kinds of digital services did they help to develop or deliver? How do these projects align with what you’ve learned about digital services in this sprint so far?   
@@ -543,11 +543,11 @@ Select two companies from the list of Digital Service Coalition members listed [
 * How much experience has each company had performing under federal contracts so far?   
 * What else would you be interested to learn about each company? 
 
-### Discussion prompt (optional) 
+### Reflection prompt (optional) 
 
 Think about a real or hypothetical federal digital service need you’ve encountered. Which type of private-sector partner would be most helpful? Why?
 
-### Discussion prompt (optional)
+### Reflection prompt (optional)
 
 What types of suppliers have you worked with in the past? What advantages or challenges did you experience?
 
