@@ -7,7 +7,7 @@ Effective acquisition planning is essential for ensuring that government agencie
 
 This module introduces the foundational elements of acquisition strategy planning. Learners will explore how real-world circumstances shape acquisition strategies, the importance of documentation and rationale, and how the Lean Canvas approach can serve as a dynamic tool for refining strategies based on stakeholder input, market insights, and evolving user needs.
 
-## Learning Objectives
+## Learning objectives
 
 By the end of this module, you will be able to:
 
@@ -17,7 +17,7 @@ By the end of this module, you will be able to:
 * Describe the lean canvas approach and its role as a living document in agile acquisition environments.
 * Recognize when and how to update the acquisition strategy in response to new inputs and evolving conditions.
 
-## Why Do We Plan?
+## Why do we plan?
 
 Just as in our personal lives, in the government, we plan to reduce the risk of buying the wrong solution. We want to ensure we are buying the solution our users need at a price we can afford.  As you may know from your on-the-job experience, acquisition planning and the strategy will differ somewhat depending on a few factors:
 
@@ -28,7 +28,7 @@ In either case, it is essential to document all decisions made throughout the pr
 
 Each time you update or complete an activity, you will want to revise your acquisition strategy and document it using the lean canvas approach that you learned about in a Module 2 classroom session. This lean canvas is a living document and will evolve as you refine your strategy and gain input from stakeholders and the vendor community. You will learn more about the lean canvas later in this module.
 
-## What Feeds the Acquisition Strategy?
+## What feeds the acquisition strategy?
 
 Planning your acquisition strategy helps you outline the scheduling, integration, and coordination of all acquisition-related efforts, and is an essential and required component of all acquisitions. It should begin as soon as you identify the need for the acquisition.
 
@@ -47,13 +47,13 @@ These other conditions and considerations include, but are not limited to:
 
 We will discuss each of these in more detail as we proceed, but it’s essential to recognize that none exist in isolation. Each has the potential to impact the other considerations, which can substantially affect the ultimate acquisition strategy and solution. Understanding these conditions and considerations as they apply to your acquisition and Product Vision is key to effective planning.
 
-## The Acquisition Plan and Lean Canvas Approach
+## The acquisition plan and Lean Canvas approach
 
 ![checklist](https://github.com/usds/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/checklist.png?raw=true)
 
 As you know, planning is an essential part of the acquisition process, and this is particularly true in digital services acquisitions. The Federal Acquisition Regulation (FAR) requires that some acquisition planning be accomplished and documented for every acquisition, consistent with the size and complexity of the procurement. And let’s admit it, we have all seen the acquisition plan, and some of the other required items in the contract file, as “check the box” items. You complete them because you have to, but you might not put a lot of effort into them. When purchasing digital services, however, your acquisition plan assumes a new level of importance. Do not take it lightly. This is where the lean canvas tool can help.
 
-## Using the Lean Canvas Approach
+## Using the Lean Canvas approach
 
 You were introduced to this tool in **Module 1**. In this module, you will put this tool into action. The Lean Acquisition Canvas is a concise way to capture the key points of an acquisition strategy or plan, providing a high-level overview of the acquisition. The concept of using lean approaches originates from the Lean Startup methodology. This approach was initially designed to create and manage startups, enabling them to quickly bring products to customers’ hands through an efficient “build-measure-learn” cycle. The methodology is called “lean” for a reason; it favors testing and experimenting over elaborate upfront planning.
 
@@ -102,7 +102,7 @@ How can you integrate the lean canvas tool to your advantage, you ask? Well, you
 * **More effectively work with your stakeholders.** As you may have noted, the processes and techniques you are learning for digital services acquisition are unfamiliar to many stakeholders. This means you may encounter resistance and sometimes outright hostility to your chosen approach. The lean canvas can help you not only make your case but also provide the vehicle for the required approvals of your acquisition solution.  
 * **Record the “why” of your solution.** You may still need a formal acquisition plan, so base it on your lean canvas tool.  The plan provides the historical record and justification for the acquisition solution in the contract file.
 
-## Common Risks
+## Common risks
 
 Before you sit down to develop the solicitation package, you should consider some common risks that may arise as the acquisition solution is developed. Review the following items before you put the solicitation “on the street”:
 
@@ -125,10 +125,10 @@ Before you sit down to develop the solicitation package, you should consider som
 | **Security**<br>- Data loss<br>- Personally Identifiable Information (PII) breaches | - DevSecOps practices<br>- Continuous monitoring<br>- Federal Risk and Authorization Management Program (FedRAMP) tools and infrastructure | |
 | **Tech obsolescence**<br>- Higher costs due to system replacement<br>- Effects user adoption<br>- Inability to respond to tech landscape changes | - Modular design<br>- Tech refresh clauses in long-term contracts and Commercial off-the-shelf (COTS) products or services<br>- Consistent industry interactions | 
 | **ICT Accessibility Non-compliance** | Document Section 508 compliance requirements early in acquisition planning, identify exceptions for national security systems or incidental contractor use, and prepare exemption documentation for undue burden or fundamental alteration scenarios | [Section 508.gov compliance tools](https://www.section508.gov/tools/) |
-| **Inadequate Competition Advocacy** | Engage agency competition advocate early to promote full and open competition, challenge barriers to acquisition, and report actions to increase competition | [Small Business Administration](https://www.sba.gov/) |
-| **Technology Evolution Mismatch** | Use modular contracting with 180-day award and 18-month delivery timelines to allow subsequent increments to leverage technology advances | [FAR 39.102 contracting guidance](https://www.acquisition.gov/far/39.102) ||
+| **Inadequate competition advocacy** | Engage agency competition advocate early to promote full and open competition, challenge barriers to acquisition, and report actions to increase competition | [Small Business Administration](https://www.sba.gov/) |
+| **Technology evolution mismatch** | Use modular contracting with 180-day award and 18-month delivery timelines to allow subsequent increments to leverage technology advances | [FAR 39.102 contracting guidance](https://www.acquisition.gov/far/39.102) ||
 
-### Discussion question (optional):
+### Reflection question (optional):
 
 Based on what you’ve learned, what are some mistakes you would avoid for your next procurement? Share your knowledge with your peers! 
 
@@ -268,9 +268,9 @@ The Revolutionary FAR Overhaul has streamlined FAR Part 6 (Competition Requireme
 
 Key changes affecting market research include:
 
-- **Simplified Competition Procedures**: Contracting officers must use competitive procedures best suited to efficiently fulfill government requirements, including sealed bids, competitive proposals, and other statutorily authorized procedures. This provides greater flexibility in how you engage the market.
-- **Enhanced Competition Advocacy**: Each agency's advocate for competition now has expanded responsibilities to promote full and open competition, commercial acquisition, and challenge barriers to acquisition. Work closely with your competition advocate when exploring nontraditional providers.
-- **Consolidated Set-Aside Authorities**: All small business set-aside requirements have been consolidated, making it easier to identify opportunities for small businesses, including 8(a), HUBZone, WOSB, VOSB, and SDVOSB contractors.
+- **Simplified competition procedures**: Contracting officers must use competitive procedures best suited to efficiently fulfill government requirements, including sealed bids, competitive proposals, and other statutorily authorized procedures. This provides greater flexibility in how you engage the market.
+- **Enhanced competition advocacy**: Each agency's advocate for competition now has expanded responsibilities to promote full and open competition, commercial acquisition, and challenge barriers to acquisition. Work closely with your competition advocate when exploring nontraditional providers.
+- **Consolidated set-aside authorities**: All small business set-aside requirements have been consolidated, making it easier to identify opportunities for small businesses, including 8(a), HUBZone, WOSB, VOSB, and SDVOSB contractors.
   
 ## Knowledge check
 > Note: Knowledge checks are designed to help you gauge your understanding of the material. They do not impact your overall grade. Use them as a low-stakes way to test your knowledge, reflect on key concepts, and identify areas you may want to review.
@@ -348,7 +348,7 @@ Key changes affecting market research include:
 - [[ ]] Using only cost-reimbursable contract types
 [[?]] Use modular contracting to limit award periods to six months or a year, whenever possible. This approach avoids the need for termination and makes contracts easier to manage and re-compete.
 
-## Compliance & Other Legal Issues
+## Compliance & other legal issues
 
 This online module will teach you about regulatory compliance, legal considerations, and risk avoidance/mitigation when procuring digital services. It will address significant challenges identified in acquiring digital services and provide guidance and best practices to address those challenges. Specifically, it will address intellectual property and data rights, as well as how to protect your data in a digital service environment.
 
@@ -358,7 +358,7 @@ After this module, you’ll be able to:
 * Recognize the legal considerations that are unique to digital service acquisition.  
 * Describe the potential risks inherent in acquiring digital services and risk avoidance and mitigation methods.
  
-## Getting to Know Your Office of General Counsel
+## Getting to know your Office of General Counsel
 
 Every civilian and military agency has an Office of General Counsel (OGC). The OGC addresses various potential or actual legal concerns, including environmental protection, FOIA, human resources, budget and finance, and acquisition. Acquisition matters may encompass a wide range of areas, including CICA, labor law, and procurement integrity, as well as CICA, labor law, and procurement integrity to OCI, IP, and source selection.
 
@@ -405,13 +405,13 @@ A **patent** is an exclusive right granted for an invention. Generally speaking,
 
 A **trademark** is a sign capable of distinguishing the goods or services of one enterprise from those of other enterprises. Trademarks date back to ancient times when craftsmen used to put their signature or "mark" on their products.
 
-### Industrial Design
+### Industrial design
 
 ![Industrial design icon – a stylized 3D object with artistic curves](https://github.com/usds/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/industrial%20design.jpg?raw=true)
 
 An **industrial design** constitutes the ornamental or aesthetic aspect of an article. A design may consist of three-dimensional features, such as the article's shape or surface, or two-dimensional features, such as patterns, lines, or color.
 
-### Geographical Indications and Appellations of Origin
+### Geographical indications and appellations of origin
 
 ![Geographical indication icon – a map pin and vineyard](https://github.com/usds/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Geographical.jpg?raw=true)
 
@@ -428,7 +428,7 @@ Additionally, the DMCA increases the penalties for copyright infringement on the
 
 Read more about the [Digital Millennium Copyright Act of 1998, U.S. Copyright Office summary](http://www.copyright.gov/legislation/dmca.pdf).
 
-## FAR Subpart 27.4 Rights in Data and Copyrights
+## FAR Subpart 27.4 rights in data and copyrights
 
 Digital services acquisition, particularly acquisitions involving software development or existing proprietary solutions, is substantially impacted by the contractual arrangements for data rights between the contractor and the government. These arrangements affect competition, legal liability, lifecycle costs, and related issues.
 
@@ -445,6 +445,21 @@ Conversely, contractors may have proprietary interests in data that provide comp
 Video - Data Rights: Understanding and Negotiating Data Rights
 ![Data Rights: Understanding and Negotiating Data Rights](https://img.youtube.com/vi/BZBys4jBZOk/0.jpg)
 [Watch the video](https://www.youtube.com/watch?v=BZBys4jBZOk)
+
+<!-- Responsive wrapper -->
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/BZBys4jBZOk"
+    title="Video: [Short descriptive title here]"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+  ></iframe>
+</div>
+
+<!-- Optional caption and link to transcript -->
+<p><em>Caption:</em> Short description of the video content.</p>
+<p><a href="LINK_TO_TRANSCRIPT_OR_CAPTIONS" target="_blank" rel="noopener">Full transcript / captions</a></p>
 
 ### What does “data” mean, and how does it apply to data rights and copyrights?
 
@@ -498,7 +513,7 @@ The principle of First Performance is also key. Generally, when the software sol
 
 The data rights clauses prescribed in **FAR Part 27** enable the establishment of the parties' data rights and ownership, as well as mechanisms for asserting those rights in the contract. However, suppose the government asserts the need for specific government rights for parts of, or the entirety of, the solution. In that case, that needs to be established in the solicitation, made a condition for source selection, negotiated, and memorialized in the resulting contract requirements and clauses. To the maximum extent possible, both parties should understand the government's and contractor's IP and data rights going in to minimize problems later.
 
-## Data in the Cloud (It’s Cloudy Out There)
+## Data in the cloud (It’s cloudy out there)
 
 What about data in the cloud? Here are some common questions and answers about this type of data.
 
@@ -558,7 +573,7 @@ In evaluating whether the third-party developer’s use of a particular open-sou
 * Evaluate reliability and compliance stats with industry standards, including testing and security regimes.  
 * Examine the third-party developer risk mitigation and corrective methods for the open-source software in case it breaks. Does the developer have any documented experience in this area?
 
-Actions the government can take when implementing to reduce risks include:
+Actions the government can take to reduce risks include:
 
 * Incorporate testing procedures and test environment for new releases before deploying to the production environment.  
 * Use backups to restore the previous release configuration when the new release breaks things.  
