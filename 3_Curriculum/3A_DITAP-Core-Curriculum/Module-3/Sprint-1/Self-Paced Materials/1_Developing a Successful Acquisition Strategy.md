@@ -442,7 +442,7 @@ Accordingly, digital services acquisition professionals like you must be familia
 
 Conversely, contractors may have proprietary interests in data that provide competitive advantages in both the commercial and government marketplaces. Protection of legitimate proprietary data from unauthorized use and disclosure “…is necessary to encourage qualified contractors to participate in and apply innovative concepts to Government programs. In light of these considerations, *agencies shall balance the Government's needs and the contractor’s legitimate proprietary interests.”*
 
-Video - Data Rights: Understanding and Negotiating Data Rights
+**Video** - Data Rights: Understanding and Negotiating Data Rights
 
 <!-- Responsive wrapper -->
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
@@ -455,9 +455,7 @@ Video - Data Rights: Understanding and Negotiating Data Rights
   ></iframe>
 </div>
 
-<!-- Optional caption and link to transcript -->
-<p><em>Caption:</em> Short description of the video content.</p>
-<p><a href="LINK_TO_TRANSCRIPT_OR_CAPTIONS" target="_blank" rel="noopener">Full transcript / captions</a></p>
+
 
 ### What does “data” mean, and how does it apply to data rights and copyrights?
 
