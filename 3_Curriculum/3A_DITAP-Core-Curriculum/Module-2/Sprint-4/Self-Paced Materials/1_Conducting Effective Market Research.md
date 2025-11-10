@@ -318,8 +318,7 @@ These techniques include but are not limited to the following:
 * [Acquisition Innovations in Motion](https://acquisitiongateway.gov/periodic-table/resources/4933?_a%5Eg_nid=12158)  
 * [DHS Reverse Industry Day](https://www.dhs.gov/publication/reverse-industry-day)  
 * [The Story of DHS’ Reverse Industry Days](https://www.publicspendforum.net/podcasts/the-story-of-dhs-s-reverse-industry-days-a-new-approach-to-public-procurement/) (podcast)  
-* [Example Agenda](https://ditap.learning-transformation.com/assets/courseware/v1/35973cab5eee445d2a6fe9aab5d410a8/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/2.B_Reverse_Industry_Day_-_Agenda_-_May_26_2016_0.pdf)  
-* [Example Invitation](https://ditap.learning-transformation.com/assets/courseware/v1/afb06cbd441668e933164e7d134101f8/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/2.B_Reverse-Industry-Day-28-Jan-2015.pdf)
+
 
 ---
 
@@ -406,7 +405,7 @@ The more “traditional” ways to engage with industry also have a place. These
 
 
 * **One-on-one communications:** As valuable as industry days can be, there are times when one-on-one communication may be more valuable. Vendors may be reluctant to expose their techniques or approaches to competitors. In private oral or written communications, the government can protect proprietary information and thus encourage vendors to share more.
-* **Agency opportunity forecast:** Many agencies post advanced procurement plans and upcoming opportunities on their websites. Often, this includes a variety of background documents and information that the industry can use to understand better the agency's mission and specific acquisition needs well before specific individual actions. The industry can be given opportunities to respond and provide valuable feedback in crafting and refining requirements.
+* **Agency opportunity forecast:** Many agencies post advanced procurement plans and upcoming opportunities on their websites. Often, this includes a variety of background documents and information that the industry can use to better understand the agency's mission and specific acquisition needs well before specific individual actions. The industry can be given opportunities to respond and provide valuable feedback in crafting and refining requirements.
 
 ### Evolving market research for digital services
 
@@ -428,7 +427,7 @@ While they can still be used and are often required by acquisition strategy, tra
 * **Watch for AI-filled answers:**  
   With AI now able to auto-fill generic responses, acquisition professionals must intentionally structure questions to reveal authentic capability, not just polished language. Use AI to support the process, but also be aware of overreliance. 
 
-**Bottom Line:**  
+**Bottom line:**  
 Effective market research is about getting real insight, not compliance. Be thoughtful, be flexible, and design your research to surface true digital delivery capability, not just who can fill out the most forms.
 
 ### 3\. Explore other promising alternatives and approaches 
@@ -479,7 +478,7 @@ Impact on industry:
 * Several innovative companies unfamiliar with federal procurement processes were deterred by the complexity and depth of the information requested.​
 * Only a few large integrators responded, many of whom repurposed content from previous submissions, offering limited innovation tailored to DHS's specific needs.​
 
-Student Reflection Questions:
+Student reflection questions:
 
 - Who is likely to respond to an RFI like this, and who is likely to opt out? Why?
 - What assumptions did the agency make about vendor capacity and procurement timelines?
@@ -508,7 +507,7 @@ Impact on industry:
 * Companies invested in building real, working prototypes because the timeline was clear, and the cost of entry was low.​
 * Without requiring formal submissions or GSA schedules, NARA gained direct insight into user experience, technical feasibility, and potential partners.​
 
-Student Reflection Questions: 
+Student reflection questions: 
 
 * What barriers to entry were removed using an open challenge instead of a traditional RFI?
 * How did the format of the engagement help uncover actual capability instead of marketing language?
@@ -528,9 +527,9 @@ These scenarios underscore the importance of thoughtful market research design. 
 
 ## Applying human-centered design to market research in federal acquisition
 
-Human-centered design (HCD) isn’t just for product development, it can (and should) be applied to the acquisition process, especially in the critical early stage of market research. We can build a more effective and inclusive buying process by centering the needs, behaviors, and constraints of the vendor community, procurement staff, and program stakeholders.
+Human-centered design (HCD) isn’t just for product development; it can (and should) be applied to the acquisition process, especially in the critical early stage of market research. We can build a more effective and inclusive buying process by centering the needs, behaviors, and constraints of the vendor community, procurement staff, and program stakeholders.
 
-### Start with empathy—even after the RFI closes
+### Start with empathy — even after the RFI closes
 
 Most government RFIs go out with little follow-up or feedback once the window closes. But this is a missed opportunity for learning. Using HCD principles, we should treat RFIs as two-way engagements, not just data collection exercises.
 
