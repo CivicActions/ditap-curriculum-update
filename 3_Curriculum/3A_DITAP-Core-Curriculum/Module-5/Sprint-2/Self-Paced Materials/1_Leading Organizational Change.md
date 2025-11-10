@@ -389,7 +389,11 @@ In your first step, you create a sense of urgency among those around you and see
 * Who can smooth certain rough patches over for your idea?  
 * Who are the people (in any department) that can be choke points in the process if they aren’t bought into an idea that you’re committed to enacting? How can you bring those people on board now to prevent that in the future?
 
-Identify those people and give them room to elevate themselves to the “guide” level in your coalition. If they see the value and the appeal of the change, they should capture the urgency themselves and help you to then guide, steer, and communicate with the group. Let’s look at a few examples of coalitions.
+Identify those people and give them room to elevate themselves to the “guide” level in your coalition. If they see the value and the appeal of the change, they should capture the urgency themselves and help you to then guide, steer, and communicate with the group. 
+
+---
+
+Let’s look at a few examples of coalitions.
 
 For a historical example of building your coalition, take a look at the **United Nations**. The United Nations is an international organization that came into existence during World War II to stop the Axis powers. Since the end of the war, they have continued to function as leaders in preventing the recurrence of another world war.
 
@@ -397,7 +401,9 @@ In 1945, representatives from 50 nations met to create the Charter, which reaffi
 
 Or consider **Congress**. A Representative or Senator introduces legislation on the floor, and then it goes to Committee. Then, they must form a coalition in the committee to get it onto the floor for a vote.
 
-Our final example takes us into the worlds of fashion and social media that began with a flash event initiated by clothing store **Lord & Taylor**. The brand reached out to 50 “style influencers” and asked that they all post pictures in the same dress (styled however they wanted) within a certain window of time on the photo-sharing platform Instagram. This is an interesting example because Lord & Taylor knew that this would be a unique way to attract their customers – through the style influencers they trust and admire. Each influencer had the flexibility to style the garment and then saturate the market with the image. The dress sold out almost immediately\! While using brand and style bloggers or “Instagrammers” might not be a typical coalition, it’s actually a unique way to deliver your message to your client via a trusted source. Lord & Taylor recognized that the point of key players in your coalition was to build the bridge of trust when embarking on an uncertain or new task.
+Our final example takes us into the worlds of fashion and social media that began with a flash event initiated by clothing store **Lord & Taylor**. The brand reached out to 50 “style influencers” and asked that they all post pictures in the same dress (styled however they wanted) within a certain window of time on the photo-sharing platform Instagram. This is an interesting example because Lord & Taylor knew that this would be a unique way to attract their customers – through the style influencers they trust and admire. Each influencer had the flexibility to style the garment and then saturate the market with the image. The dress sold out almost immediately! While using brand and style bloggers or “Instagrammers” might not be a typical coalition, it’s actually a unique way to deliver your message to your client via a trusted source. Lord & Taylor recognized that the point of key players in your coalition was to build the bridge of trust when embarking on an uncertain or new task.
+
+---
 
 In your role, you might not be building world-changing coalitions or building fashionista coalitions, but the same principles used in those contexts apply to you. Say you’re looking to shift your digital services solicitations to be more outcome-focused (instead of requirements-focused). Think through the questions presented at the beginning of this section:
 
