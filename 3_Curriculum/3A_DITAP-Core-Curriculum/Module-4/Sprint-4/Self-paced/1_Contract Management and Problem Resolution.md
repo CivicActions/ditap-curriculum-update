@@ -349,6 +349,10 @@ Engage meaningfully with at least two classmates' posts by:
 4. Think Practically: Consider real-world implementation challenges, including budget constraints, regulatory requirements, and political pressures.  
 5. Learn from Peers: Use peer discussion to refine your understanding and discover alternative approaches to common challenges.
 
+Post your full response and your replies to your peers by selecting the link below.
+
+**[Module 4 – Sprint 4 – Case Study Response – VA25-2]**(https://ed.civicactions.com/forums/topic/module-4-sprint-4-discussion-va25-2/)
+
 ### Additional resources for analysis
 
 Federal acquisition context
