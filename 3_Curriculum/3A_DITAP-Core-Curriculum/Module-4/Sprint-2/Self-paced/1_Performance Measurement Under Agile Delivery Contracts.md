@@ -112,10 +112,10 @@ Monetary rewards aren’t the only way to motivate teams. Non-monetary incentive
 
 | Category | Details |
 |----------|---------|
-| 1. Increased Autonomy | - Streamlined approval processes for routine changes<br>- Greater technical decision-making authority<br>- Reduced reporting requirements |
-| 2. Recognition and Growth | - Opportunities to present at government conferences<br>- Case studies highlighting successful practices<br>- Participation in government-wide communities of practice |
-| 3. Future Partnership Opportunities | - Consideration for follow-on work or contract expansions<br>- Eligibility for innovative contract vehicles<br>- Partnership on pilot programs or new initiatives |
-| 4. Professional Development | - Access to government training and resources<br>- Opportunities to contribute to agency standards<br>- Participation in cross-agency working groups |
+| 1. Increased autonomy | - Streamlined approval processes for routine changes<br>- Greater technical decision-making authority<br>- Reduced reporting requirements |
+| 2. Recognition and growth | - Opportunities to present at government conferences<br>- Case studies highlighting successful practices<br>- Participation in government-wide communities of practice |
+| 3. Future partnership opportunities | - Consideration for follow-on work or contract expansions<br>- Eligibility for innovative contract vehicles<br>- Partnership on pilot programs or new initiatives |
+| 4. Professional development | - Access to government training and resources<br>- Opportunities to contribute to agency standards<br>- Participation in cross-agency working groups |
 
 
 ---
@@ -181,7 +181,7 @@ The updated FAR Parts 39 and 6 establish new requirements for performance measur
 
 **Setting up your metrics program**
 
-| Week 1: Establish Baseline | Month 1: Refine and Adjust | Quarterly: Strategic Review |
+| Week 1: Establish baseline | Month 1: Refine and adjust | Quarterly: Strategic review |
 |----------------------------|----------------------------|-----------------------------|
 | Meet with the contractor to review available data | Review initial data collection | Assess overall trends and patterns |
 | Select 5-7 key metrics that align with mission goals | Adjust metrics based on what's valuable | Adjust targets based on team maturity |
@@ -207,9 +207,9 @@ The updated FAR Parts 39 and 6 establish new requirements for performance measur
 
 ---
 
-### Discussion (optional)
+### Reflection (optional)
 
-For this discussion, consider a digital service acquisition that you have worked on or heard about and analyze how modern metrics and incentives could be applied:
+For this reflection, consider a digital service acquisition that you have worked on or heard about and analyze how modern metrics and incentives could be applied:
 
 Choose a digital service your agency currently uses or is developing. This service could be:
 
@@ -426,7 +426,7 @@ Consistent Standards: Apply the same quality, security, and performance standard
 ### Managing common multi-vendor challenges
 
 
-| Challenge Area                     | Specific Challenge                                         | Solution |
+| Challenge area                     | Specific challenge                                         | Solution |
 |-----------------------------------|-----------------------------------------------------------|---------|
 | Technical Coordination Issues      | Vendors blame each other for integration problems        | - Establish precise interface specifications upfront<br>- Require joint testing and sign-off on integrations<br>- Use neutral third-party testing when needed<br>- Focus on problem-solving, not blame assignment |
 |                                   | Inconsistent technical approaches across vendors         | - Create shared technical standards and architecture guidelines<br>- Require an architecture review for major technical decisions<br>- Use a government technical lead to coordinate standards<br>- Include technical consistency in performance evaluations |
@@ -546,7 +546,7 @@ As you wrap up Sprint 2, we’re shifting focus to warranties, an important but 
 
 Warranties serve as critical risk management tools in federal digital service acquisitions, but traditional warranty approaches often clash with agile development practices. This section teaches you how to structure warranties that protect the government while enabling iterative delivery and continuous improvement.
 
-### Federal Acquisition Regulation Framework
+### Federal Acquisition Regulation framework
 
 **FAR Subpart 46.7: Foundation Principles**
 
@@ -748,7 +748,7 @@ In this reading, warranties and liability are compared in traditional contractin
 
 ---
 
-### Discussion (optional)
+### Reflection (optional)
 
 
 **Based on the warranty readings, reflect on the following questions:**
