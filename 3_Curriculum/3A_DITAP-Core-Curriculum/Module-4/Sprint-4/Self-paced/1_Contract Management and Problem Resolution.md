@@ -351,7 +351,7 @@ Engage meaningfully with at least two classmates' posts by:
 
 ### Join the discussion
 
-Post your full response and your replies to your peers by selecting the link below.
+>Post your full response and your replies to your peers by selecting the link below.
 
 **[Module 4 – Sprint 4 – Case Study Response – VA25-2](https://ed.civicactions.com/forums/topic/module-4-sprint-4-discussion-va25-2/)**
 
