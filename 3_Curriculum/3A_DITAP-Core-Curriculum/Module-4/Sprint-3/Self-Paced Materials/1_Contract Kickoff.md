@@ -305,17 +305,17 @@ This practical resource provides actionable guidance and sample contract languag
 
 This recent $450 million multiple-award contract provides a real-world example of how agencies are structuring modern cloud and Agile development procurements. The contract covers SaaS development, DevOps, cloud integration, and user experience design services.
 
-**Policy Update: [OMB M-24-15 FedRAMP Modernization Memorandum](https://www.crowell.com/en/insights/client-alerts/fedramp-revamp-omb-publishes-memorandum-contemplating-sweeping-changes-to-federal-government-cloud-procurement-security-standards-and-strategy)**
+**Policy update: [OMB M-24-15 FedRAMP Modernization Memorandum](https://www.crowell.com/en/insights/client-alerts/fedramp-revamp-omb-publishes-memorandum-contemplating-sweeping-changes-to-federal-government-cloud-procurement-security-standards-and-strategy)**
 
 This legal analysis explains the implications of the July 2024 OMB memorandum that established new requirements for automated security assessments, continuous monitoring, and commercial cloud platform prioritization.
 
-**Market Intelligence: [FedRAMP Marketplace and Vendor Directory](https://marketplace.fedramp.gov/)**
+**Market intelligence: [FedRAMP Marketplace and Vendor Directory](https://marketplace.fedramp.gov/)**
 
 The official marketplace provides current information on FedRAMP-authorized cloud services, vendor capabilities, and authorization status. This resource is essential for market research and vendor evaluation during procurement planning.
 
 ---
 
-## Discussion prompt (optional)
+## Reflection prompt (optional)
 
 
 Based on the cloud and XaaS procurement readings, reflect on the following questions:
