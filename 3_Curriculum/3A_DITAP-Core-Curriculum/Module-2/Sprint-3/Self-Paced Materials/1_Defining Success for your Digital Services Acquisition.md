@@ -225,7 +225,7 @@ Unfortunately, these issues often surface mid-process, at critical moments when 
 
 By identifying constraints during the discovery phase, you can prepare to make faster, better-informed decisions and provide future reviewers with a clear rationale for your strategy choices. While gathering this information may initially feel like it slows things down, it’s actually a proactive step that fosters alignment with the program, policy, and security teams and helps avoid bigger delays later.
 
-> **Implementation Tip:** It’s easy to treat these questions like a simple checklist, especially for smaller, low-risk procurements. But don’t skip the conversation. Talking through them as a team (instead of just swapping documents) builds trust, gets everyone on the same page, and sets the tone for a more collaborative process. Bonus: It can be fun. When the final solution comes together, and you can trace it back to the thinking you shaped early on, the magic happens. It’s a tangible reminder of how much your expertise matters.
+> **Implementation Tip:** It’s easy to treat the questions below like a simple checklist, especially for smaller, low-risk procurements. But don’t skip the conversation. Talking through them as a team (instead of just swapping documents) builds trust, gets everyone on the same page, and sets the tone for a more collaborative process. Bonus: It can be fun. When the final solution comes together, and you can trace it back to the thinking you shaped early on, the magic happens. It’s a tangible reminder of how much your expertise matters.
 
 ### Suggested questions for constraint discovery sessions
 
