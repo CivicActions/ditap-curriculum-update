@@ -10,7 +10,7 @@ You’ll move through two focused sprints:
 * **Sprint 1: Leading change as an individual**  
    Learn how to be an effective change agent by identifying your personal influence strategies, building networks, and engaging stakeholders to support new ideas and approaches.
 
-* **Sprint 2: Leading organizational change – Continuous improvement and scalable practices**  
+* **Sprint 2: Leading organizational change – continuous improvement and scalable practices**  
    Explore strategies for staying current with emerging technologies, applying lessons learned from each procurement, and scaling what works across your agency and the broader acquisition community.
 
 Through both sprints, you’ll apply techniques to **create a culture of innovation within your sphere of influence**, one that empowers you and those around you to lead change and guide customers toward the best solutions.
@@ -71,9 +71,9 @@ Think of a particular problem, opportunity, or need you have as a digital servic
 
 Have you experienced any of these? 
 
-Take a moment to share a challenge of your own, or feel free to adapt one of the examples above. Post your challenge in the discussion section below, and how you overcame these challenges. 
+Take a moment to reflect on a challenge of your own. How did you overcome these challenges? 
 
-### Discussion (optional)
+### Reflection (optional)
 
 As you think about this topic, consider the following:
 
@@ -106,7 +106,7 @@ The following table lists some example challenges you may encounter, along with 
 
 Now think about the titles of the influencers in your chosen problem. Who could help, or hinder, your efforts? 
 
-### Discussion (optional)
+### Reflection (optional)
 
 
 As you think about this topic, consider the following:
@@ -140,7 +140,7 @@ To help you determine who has the greatest leverage in your situation, answer th
    other influencers? What motivates them?  
 5. How significant is their influence over your issue or challenge? Is it direct or indirect? 
 
-### Discussion (optional)
+### Reflection (optional)
 
 Based on your answer to these questions, select the influencer who can most impact your issue or challenge, either negatively or positively. 
 
@@ -169,7 +169,7 @@ To use the Ladder of Inference, think about how the influencer may arrive at the
 
 To set the meeting with your influencer, reach out directly if you already know each other or are close enough in the organization that you know each other by your roles. If you are not familiar with each other, ask your mentor, adviser, or another contact for an introduction. Finally, you also have the option to reach out directly under the authority of your digital services acquisition role because your agency has committed to your digital services education. 
 
-### Discussion (optional)
+### Reflection (optional)
 
 Analyze your problem using the Ladder of Inference. What would each rung of the ladder cover, and how can you use it to direct the conversation? 
 
@@ -229,7 +229,7 @@ At the conclusion of this section, you will be able to:
 
 \-**Winston Churchill** 
 
-As you saw in the classroom sessions, implementing change is not easy; it requires courage and a willingness to both lead and listen, just as Churchill so astutely acknowledges. It requires humility and recognition that we don’t always know the answers; that’s why we must talk to our users ([Digital Services Playbook Play \#1](https://playbook.usds.gov/#play1)!) first and foremost and why we value validated learning over untested assumptions. These tenets all apply when we approach conversations that we expect to be challenging—or perhaps even downright difficult. How do you make these conversations most productive? 
+As you saw in the classroom sessions, implementing change is not easy; it requires courage and a willingness to both lead and listen, just as Churchill so astutely acknowledges. It requires humility and recognition that we don’t always know the answers; that’s why we must talk to our users ([Digital Services Playbook Play #1](https://playbook.usds.gov/#play1)!) first and foremost and why we value validated learning over untested assumptions. These tenets all apply when we approach conversations that we expect to be challenging—or perhaps even downright difficult. How do you make these conversations most productive? 
 
 ## Preparing for a difficult conversation
 
@@ -262,7 +262,7 @@ If you have to deliver bad news, be compassionate and considerate, but do so in 
 
 For more information on these techniques, review this [Harvard Business Review](https://hbr.org/2015/01/how-to-handle-difficult-conversations-at-work) article.
 
-## What makes the conversations difficult?
+## What makes the conversation difficult?
 
 In most cases, the conversation will be difficult because the parties involved are not in agreement about the subject matter. One of the best tools you can have to deal with disagreement is empathy. Here is a framework for analyzing the drivers for the difficult conversation: 
 
@@ -280,7 +280,7 @@ In most cases, the conversation will be difficult because the parties involved a
 ### The other person’s point of view
 
 * Instead of listing all of the reasons why the other person is wrong, imagine what they might be thinking and why. 
-* You don’t have to completely accept the other person’s point of view, but you should be interested in learning about it. As Wharton professor and social psychologist Adam Grant explores in his book The Originals: How Non-Conformists Move the World, asking people with extreme political views how their preferred policies work (i.e., showing interest in learning about their position) actually helps them become more moderate. Asking why they believe a certain way can make them hold onto their beliefs more strongly. However, when asked to reflect, there's evidence to suggest that they are more likely to then realize the complexity of the issues and that there may be middle ground. Consider how to apply this principle with those in your organization with extreme views. 
+* You don’t have to completely accept the other person’s point of view, but you should be interested in learning about it. As Wharton professor and social psychologist Adam Grant explores in his book The Originals: How Non-Conformists Move the World, asking people with extreme political views how their preferred policies work (i.e., showing interest in learning about their position) actually helps them become more moderate. Asking why they believe a certain way can make them hold onto their beliefs more strongly. However, when asked to reflect, there's evidence to suggest that they are more likely to then realize the complexity of the issues and that there may be a middle ground. Consider how to apply this principle with those in your organization with extreme views. 
 
 ### Feelings
 
@@ -495,7 +495,7 @@ You’ve determined that this is an important enough topic that you should pursu
 
 Now that you’ve assessed the root of the “no,” considered whether or how to advance change, and considered the right size amount of change, determine how best to approach the situation. Use the Lean “[build-measure-learn](http://theleanstartup.com/principles)” approach here. Decide how to adjust, test it out, and see how it works. Then, learn from the experience by documenting lessons learned and sharing them with others.
 
-Remember our discussion of wellness rituals and performance areas from our earlier discussion? [Well, it just so happens that research shows that capitalizing on your strengths leads you to feel revitalized](http://www.sciencedirect.com/science/article/pii/S0191886910003946). Another wellness ritual to add to your arsenal! If you’re dealing with a difficult situation, remind yourself and affirm your strengths. Then, think about how to leverage those strengths along your change and innovation journey.
+Remember our discussion of wellness rituals and performance areas from earlier? [Well, it just so happens that research shows that capitalizing on your strengths leads you to feel revitalized](http://www.sciencedirect.com/science/article/pii/S0191886910003946). Another wellness ritual to add to your arsenal! If you’re dealing with a difficult situation, remind yourself and affirm your strengths. Then, think about how to leverage those strengths along your change and innovation journey.
 
 ---
 ## Telling your procurement story
@@ -563,7 +563,7 @@ Good blogging is user-centered
 
 Keep posts short (500–800 words), use plain language, clear headers, links/visuals, and ensure accessibility. End with a call to action: invite feedback, encourage others to try it, or connect for more info.  
 
-Reference: [TTS Blogging Guide](https://www.gsa.gov/tts/blogging-guide)
+Reference: [TTS Blogging Guide](https://handbook.tts.gsa.gov/office-of-operations/blogging/)
 
 
 ### Writing a procurement case study
