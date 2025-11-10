@@ -295,9 +295,9 @@ By understanding the cloud's unique characteristics and adjusting procurement ap
 
 ---
 
-## Digital service tech topic: Artificial intelligence
+## Digital service tech topic: Artificial Intelligence
 
-### What is artificial intelligence?
+### What is Artificial Intelligence?
 
 Artificial Intelligence (AI) refers to computer systems designed to perform tasks that typically require human intelligence. These tasks include learning, problem-solving, decision-making, understanding language, and recognizing images and speech.
 
@@ -463,7 +463,7 @@ Accessibility isn’t just a compliance requirement; it’s a core part of deliv
 | [ACREditor](https://acreditor.section508.gov/) | Review or generate ACRs |
 | [Accessibility Roles and Responsibilities Mapping (ARRM)](https://www.w3.org/WAI/planning/arrm/) | Provides guidance on which roles you can assign responsibilities for accessibility |
 | [Accessibility Requirements Tool (ART)](https://www.section508.gov/art) | Define and document accessibility needs during procurement |
-| [Accessibility Insights](https://www.google.com/url?q=https://accessibilityinsights.io/&sa=D&source=docs&ust=1754424299274526&usg=AOvVaw1mOO_qLyputqNzV5Aw1893) | A simple browser plugin that works like a spellcheck for accessibility |
+| [Accessibility Insights](https://accessibilityinsights.io/) | A simple browser plugin that works like a spellcheck for accessibility |
 | [Disability:INclusive Workplaces](https://disabilityin.org/procurement-toolkit/) [Accessible Technology Procurement Toolkit](https://disabilityin.org/procurement-toolkit/) | Accessible procurement toolkit built for and by the private sector |
 | [Section 508](https://www.section508.gov/) | Learn more about Section 508 policies, assessments, and tools |
 | [Sample Contracting Language](https://github.com/usds/ditap-curriculum-update/blob/3291fb288be82ec8510a70d68e0156fd7c1f1490/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/sample-contracting-language.md) | Contracting language for accessible procurement and ICT |
