@@ -194,7 +194,7 @@ Efforts are underway to examine the use of AI in developing and writing an acqui
 * **White House**. [*America’s AI Action Plan* (Jul 2025)](https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/)
 * **OMB**. *[M-25-21](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf) & [M-25-22](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf)*
 
-## Discussion (optional)
+## Reflection (optional)
 
 How should AI influence acquisition strategy development? 
 
@@ -206,7 +206,7 @@ However, while AI can analyze massive data sets, generate content, and help iden
 
 Recent updates to the Federal Acquisition Regulation, particularly FAR Parts 6 and 39, establish new requirements for AI acquisitions, including system classification, algorithmic impact assessments, competition considerations, and enhanced data rights provisions. These regulatory changes create both opportunities and challenges for acquisition professionals developing AI-integrated strategies, requiring careful consideration of compliance requirements alongside strategic objectives.
 
-**Discussion prompts**
+**Reflection prompts (optional)**
 
 Choose one of the following prompts and share a short reflection with your peers. Your insight may help inform how others approach the integration of AI into acquisition practices.
 
