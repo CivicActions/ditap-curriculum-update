@@ -70,9 +70,11 @@
 
 ### Resetting your password
 
-You can reset your password using the Forgot Password? link on the course login page.   
+You can reset your password using the **Forgot Password?** link on the course login page.   
 
-  * Occasionally, the reset password emails are blocked by .*gov* email spam filters. If that happens, please contact the team at [ditap-facilitators@civicactions.com](mailto:ditap-facilitators@civicactions.com).  
+  * Occasionally, the reset password emails are blocked by .*gov* email spam filters. If that happens, please contact the team at [ditap-facilitators@civicactions.com](mailto:ditap-facilitators@civicactions.com).
+
+(add screenshot)
 
 
 ### Navigating the course
@@ -89,6 +91,7 @@ You can reset your password using the Forgot Password? link on the course login 
 #### Knowledge checks
 
 Knowledge checks are designed to help you gauge your understanding of the material. They do not impact your overall grade. Use them as a low-stakes way to test your knowledge, reflect on key concepts, and identify areas you may want to review.
+
   
   * Note: Knowledge check answers aren’t saved between sessions. These questions are for practice only.
 
@@ -106,7 +109,7 @@ Most discussion questions or reflection prompts are optional and for your own le
 
 #### Saving progress
 
-Make sure to select the “Mark Complete” button when you finish a section.  
+The Learning Portal doesn’t yet remember where you left off in a section. Before closing your browser, jot down where you stopped so you can easily pick up next time. When you finish a sprint, don’t forget to select **Mark Complete** to save your progress. 
   ![][image5]
 
 #### Submitting assignments
