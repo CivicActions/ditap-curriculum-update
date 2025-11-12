@@ -65,29 +65,71 @@
 
 ---
 
-### Orientation to the LMS
+## Learning Portal Help
 
-**Orientation to the LMS (for course providers)**
 
-Please include a brief orientation to your LMS as part of the course introduction. This section should be tailored to your specific Learning Management System (LMS) and help learners feel comfortable navigating the system.
+### Resetting your password
 
-At a minimum, please cover:
+* You can reset your password using the Forgot Password? link on the course login page.   
+  * Occasionally, the reset password emails are blocked by .*gov* email spam filters. If that happens, please contact the team at [ditap-facilitators@civicactions.com](mailto:ditap-facilitators@civicactions.com).  
 
-* **How to access the LMS** (e.g., login instructions, account setup, links)
 
-* **Overview of the course layout and structure** — How the course is organized, what modules are included, and where to start
+### Navigating the course
 
-* **How to find key elements** — Where to locate modules, assignments, assessments, and any required readings or resources
+#### Table of contents
 
-* **How learners can track their progress** — What progress indicators are available and how they work (if applicable)
+* Use the sidebar to navigate to specific sections of each sprint.   
+* To open the table of contents, select the hamburger menu ☰.  To close the table of contents, select the X.  
+* To move through each section, use the next and previous arrows.    
+  ![][image1]  
+* You can search each Sprint by using the search feature in the upper left of the page.   
+  ![][image2]
 
-* **Communication tools** — How learners will interact with instructors, support staff, and other learners (e.g., discussion boards, messaging features, announcements)
+#### Knowledge checks
 
-* **Where to go for technical support or help** — Who to contact and how if they encounter technical issues
+* Knowledge checks are designed to help you gauge your understanding of the material. They do not impact your overall grade. Use them as a low-stakes way to test your knowledge, reflect on key concepts, and identify areas you may want to review.  
+  * Note: Knowledge check answers aren’t saved between sessions. These questions are for practice only.
 
-The goal is to make sure learners can confidently access and navigate your course from the very beginning. This helps set them up for success and reduces frustration.
+![][image3]
 
+* Select the “Check” button to check your answer.  
+  * You can change your answer by unselecting a response and then selecting a new response.   
+* Selecting the check mark icon will reveal the correct answer.   
+* Selecting the light bulb icon will reveal a hint for the question. 
+
+#### Discussion/Reflection prompts
+
+Most discussion questions or reflection prompts are optional and for your own learning.  There’s nothing to submit (unless otherwise stated).  Feel free to share your reflections with your classmates and facilitators\!
+
+#### Saving progress
+
+* Make sure to select the “Mark Complete” button when you finish a section.  
+  ![][image5]
+
+#### Submitting assignments
+
+* If you need to change the file that you uploaded, please reach out to the team at [ditap-facilitators@civicactions.com](mailto:ditap-facilitators@civicactions.com) 
+
+#### Accessing missed class recordings
+
+* If you miss a live class session, you can view the recording and access any slide decks or supplemental materials through the Live Session Recordings and Materials section of the course. 
+
+### Accessibility tips
+
+* Resize the text by using Ctrl+ / Ctrl- on Windows or Cmd+/Cmd- on Mac.  
+* You can also adjust text size, color settings, and enable Dark Mode through the settings menu.  
+  ![][image4]  
+* Keyboard navigation:  
+  * Use Tab to move between interactive elements.  
+  * Press Enter or Space to activate buttons and links.
+    
+### Tips for the best experience
+
+* Use a modern browser such as Chrome, Edge, Firefox, or Safari.   
+* Allow pop-ups for linked resources if needed.
+  
 ---
+
 ## Discussion \- introduction
 
 To help us kick off the course and start building a sense of community, we’ll begin our first live session with brief introductions. 
