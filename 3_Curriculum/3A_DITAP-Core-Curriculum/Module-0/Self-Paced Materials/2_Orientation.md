@@ -70,7 +70,8 @@
 
 ### Resetting your password
 
-* You can reset your password using the Forgot Password? link on the course login page.   
+You can reset your password using the Forgot Password? link on the course login page.   
+
   * Occasionally, the reset password emails are blocked by .*gov* email spam filters. If that happens, please contact the team at [ditap-facilitators@civicactions.com](mailto:ditap-facilitators@civicactions.com).  
 
 
@@ -87,40 +88,44 @@
 
 #### Knowledge checks
 
-* Knowledge checks are designed to help you gauge your understanding of the material. They do not impact your overall grade. Use them as a low-stakes way to test your knowledge, reflect on key concepts, and identify areas you may want to review.  
+Knowledge checks are designed to help you gauge your understanding of the material. They do not impact your overall grade. Use them as a low-stakes way to test your knowledge, reflect on key concepts, and identify areas you may want to review.
+  
   * Note: Knowledge check answers aren’t saved between sessions. These questions are for practice only.
 
 ![][image3]
 
-* Select the “Check” button to check your answer.  
+* Select the “Check” button to check your answer.
+  
   * You can change your answer by unselecting a response and then selecting a new response.   
 * Selecting the check mark icon will reveal the correct answer.   
 * Selecting the light bulb icon will reveal a hint for the question. 
 
 #### Discussion/Reflection prompts
 
-Most discussion questions or reflection prompts are optional and for your own learning.  There’s nothing to submit (unless otherwise stated).  Feel free to share your reflections with your classmates and facilitators\!
+Most discussion questions or reflection prompts are optional and for your own learning.  There’s nothing to submit (unless otherwise stated).  Feel free to share your reflections with your classmates and facilitators!
 
 #### Saving progress
 
-* Make sure to select the “Mark Complete” button when you finish a section.  
+Make sure to select the “Mark Complete” button when you finish a section.  
   ![][image5]
 
 #### Submitting assignments
 
-* If you need to change the file that you uploaded, please reach out to the team at [ditap-facilitators@civicactions.com](mailto:ditap-facilitators@civicactions.com) 
+If you need to change the file that you uploaded, please reach out to the team at [ditap-facilitators@civicactions.com](mailto:ditap-facilitators@civicactions.com) 
 
 #### Accessing missed class recordings
 
-* If you miss a live class session, you can view the recording and access any slide decks or supplemental materials through the Live Session Recordings and Materials section of the course. 
+If you miss a live class session, you can view the recording and access any slide decks or supplemental materials through the **Live Session Recordings and Materials** section of the course. 
 
 ### Accessibility tips
 
 * Resize the text by using Ctrl+ / Ctrl- on Windows or Cmd+/Cmd- on Mac.  
 * You can also adjust text size, color settings, and enable Dark Mode through the settings menu.  
   ![][image4]  
-* Keyboard navigation:  
-  * Use Tab to move between interactive elements.  
+* Keyboard navigation:
+  
+  * Use Tab to move between interactive elements.
+    
   * Press Enter or Space to activate buttons and links.
     
 ### Tips for the best experience
