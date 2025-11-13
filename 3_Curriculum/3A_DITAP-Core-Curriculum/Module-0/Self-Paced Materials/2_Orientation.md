@@ -7,7 +7,7 @@
 
 ### Program overview  
 - **Certification**  
-  - The Digital Services Credential (DITAP), formerly FAC-C-DS, program aims to train and develop professionals for this certification, focusing on digital service acquisition. It requires a comprehensive approach that includes pre and post-course assessments, multi-modal training delivery utilizing a learning management system, and evaluation based on participation, mastery of content, and a live digital assignment. The program emphasizes a cohort-based learning approach which can be both in-person or fully remote for the majority of facilitation or the majority of content. The curriculum, structured in modules and sprints, covers competencies such as understanding digital services, effective buying techniques, contract administration, and leading change in digital IT acquisition, with the goal of providing participants with practical skill development through real-world application and problem-solving.
+  - The Digital Services Credential (DITAP), formerly FAC-C-DS, program aims to train and develop professionals for this certification, focusing on digital service acquisition. It requires a comprehensive approach that includes pre and post-course assessments, multi-modal training delivery utilizing a learning management system, and evaluation based on participation, mastery of content, and a live digital assignment. The program emphasizes a cohort-based learning approach. The curriculum, structured in modules and sprints, covers competencies such as understanding digital services, effective buying techniques, contract administration, and leading change in digital IT acquisition, with the goal of providing participants with practical skill development through real-world application and problem-solving.
 - **Requirement**  
   - FAC-C (Professional) holders with at least two years of experience and assigned to acquisitions consisting primarily of digital services over FAR 13.500(c) thresholds are required to attend the DITAP training program.
 - **Recommended**  
@@ -27,7 +27,7 @@ Course modules
 
   
 ### Threaded case scenario integration
-    The program utilizes a threaded case study, *Cynuria: Navigating Stakeholder and Decision-Making Challenges*, to provide a realistic, evolving scenario for applied learning across the modules. The case study is integrated into the curriculum to align with learning objectives and reinforce key principles.
+    The program utilizes a threaded case scenario, *Cynuria: Navigating Stakeholder and Decision-Making Challenges*, to provide a realistic, evolving scenario for applied learning across the modules. The threaded case scenario is integrated into the curriculum to align with learning objectives and reinforce key principles.
 
 ### Capstone
     This group capstone project simulates the end-to-end lifecycle of a modern digital service acquisition, reinforcing core DITAP objectives. It involves four phases: Discovery Sprint, Case Study Development, Evaluation & Feedback, and Final Presentations. Participants identify their own real-world digital service procurement challenge and apply Agile and Human-Centered Design principles.
@@ -82,9 +82,10 @@ The rubric evaluates three dimensions of engagement:
 
 You can reset your password using the **Forgot Password?** link on the course login page.   
 
-  * Occasionally, the reset password emails are blocked by .*gov* email spam filters. If that happens, please contact the team at [ditap-facilitators@civicactions.com](mailto:ditap-facilitators@civicactions.com).
+  * Occasionally, the reset password emails are blocked by .*gov* email spam filters. If that happens, please contact the team by email at [ditap-facilitators@civicactions.com](mailto:ditap-facilitators@civicactions.com).
 
-(add screenshot)
+![Forgot password link](https://github.com/CivicActions/ditap-curriculum-update/blob/4a156c1c41ee99c23508115ed4b85c78608d4460/3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/logging%20in.png)
+
 
 
 ### Navigating the course
@@ -94,9 +95,9 @@ You can reset your password using the **Forgot Password?** link on the course lo
 * Use the sidebar to navigate to specific sections of each sprint.   
 * To open the table of contents, select the hamburger menu ☰.  To close the table of contents, select the X.  
 * To move through each section, use the next and previous arrows.    
-  ![][image1]  
+![previous next course navigation button](https://github.com/CivicActions/ditap-curriculum-update/blob/4a156c1c41ee99c23508115ed4b85c78608d4460/3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/previous%20next%20arrow.png)
 * You can search each Sprint by using the search feature in the upper left of the page.   
-  ![][image2]
+![liascript search box](https://github.com/CivicActions/ditap-curriculum-update/blob/4a156c1c41ee99c23508115ed4b85c78608d4460/3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/search.png)
 
 #### Knowledge checks
 
@@ -105,7 +106,7 @@ Knowledge checks are designed to help you gauge your understanding of the materi
   
   * Note: Knowledge check answers aren’t saved between sessions. These questions are for practice only.
 
-![][image3]
+![knowledge check icons - check answer button, check mark icon, light bulb icon](https://github.com/CivicActions/ditap-curriculum-update/blob/4a156c1c41ee99c23508115ed4b85c78608d4460/3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/knowledge%20check.png)
 
 * Select the “Check” button to check your answer.
   
@@ -120,11 +121,11 @@ Most discussion questions or reflection prompts are optional and for your own le
 #### Saving progress
 
 The Learning Portal doesn’t yet remember where you left off in a section. Before closing your browser, jot down where you stopped so you can easily pick up next time. When you finish a sprint, don’t forget to select **Mark Complete** to save your progress. 
-  ![][image5]
+![Mark complete button](https://github.com/CivicActions/ditap-curriculum-update/blob/4a156c1c41ee99c23508115ed4b85c78608d4460/3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/mark%20complete.png)
 
 #### Submitting assignments
 
-If you need to change the file that you uploaded, please reach out to the team at [ditap-facilitators@civicactions.com](mailto:ditap-facilitators@civicactions.com) 
+If you need to change the file that you uploaded, please reach out to the team at [ditap-facilitators@civicactions.com](mailto:ditap-facilitators@civicactions.com).
 
 #### Accessing missed class recordings
 
@@ -134,7 +135,7 @@ If you miss a live class session, you can view the recording and access any slid
 
 * Resize the text by using Ctrl+ / Ctrl- on Windows or Cmd+/Cmd- on Mac.  
 * You can also adjust text size, color settings, and enable Dark Mode through the settings menu.  
-  ![][image4]  
+![liascript settings icon](https://github.com/CivicActions/ditap-curriculum-update/blob/4a156c1c41ee99c23508115ed4b85c78608d4460/3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/settings.png)
 * Keyboard navigation:
   
   * Use Tab to move between interactive elements.
