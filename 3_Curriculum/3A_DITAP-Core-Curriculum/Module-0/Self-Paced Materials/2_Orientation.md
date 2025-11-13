@@ -18,7 +18,7 @@
 Course modules
 
 | **Module** | **Focus and Topics** |
-|-------------|----------------------|
+|--------------|----------------------|
 | **Module 1 – Describe** | Focuses on understanding what digital services are, who provides them, how they are delivered, and why they are important. This includes topics like the digital services landscape, delivery methods (Agile, Human-Centered Design, DevSecOps), and a Tech Bootcamp covering data, software, cloud, AI, security, accessibility, and open source. |
 | **Module 2 – Discover** | Emphasizes engaging in a discovery process to inform acquisition strategy decisions. This involves assessing agency readiness, stakeholder and customer mapping, defining success for digital service acquisitions, and conducting effective market research. |
 | **Module 3 – Design** | Concentrates on translating discovery findings into a structured solicitation. It covers developing acquisition strategies, creating solicitations, and running successful evaluations. |
