@@ -15,7 +15,7 @@
 
 ### Course structure
 
-#### **Course modules**
+Course modules
 
 | **Module** | **Focus and Topics** |
 |-------------|----------------------|
