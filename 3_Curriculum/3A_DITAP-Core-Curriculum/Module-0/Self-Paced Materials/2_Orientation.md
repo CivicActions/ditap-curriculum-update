@@ -37,12 +37,17 @@ Course modules
   - This course uses a pass/fail grading system, and all assignments are assessed on a pass/fail basis.
 
   - **Assignments**
+    
     - Stakeholder Research
+      
     - Shadowing Assignment
+      
     - Live Digital Assignment
 
   - **Assessments**
+    
     - Pre-assessment
+      
     - Post-assessment
 
 - **Expectations**
