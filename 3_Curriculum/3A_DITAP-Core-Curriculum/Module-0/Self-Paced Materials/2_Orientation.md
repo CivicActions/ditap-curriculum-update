@@ -123,7 +123,7 @@ Most discussion questions or reflection prompts are optional and for your own le
 
 #### Saving progress
 
-The Learning Portal doesn’t currently remember where you left off within a section. Before closing your browser, jot down where you stopped so you can easily pick up next time. 
+>The Learning Portal doesn’t currently remember where you left off within a section. Before closing your browser, jot down where you stopped so you can easily pick up next time. 
 
 When you finish a sprint, don’t forget to select **Mark Complete** to save your progress. 
 
