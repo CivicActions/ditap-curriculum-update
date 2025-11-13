@@ -99,7 +99,7 @@ You can reset your password using the **Forgot Password?** link on the course lo
 ![previous next course navigation button](https://raw.githubusercontent.com/CivicActions/ditap-curriculum-update/refs/heads/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/previous%20next%20arrow.png)
 
 * You can search each Sprint by using the search feature in the upper left of the page.
-* 
+  
 ![liascript search box](https://raw.githubusercontent.com/CivicActions/ditap-curriculum-update/refs/heads/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/search.png)
 
 #### Knowledge checks
@@ -123,7 +123,9 @@ Most discussion questions or reflection prompts are optional and for your own le
 
 #### Saving progress
 
-The Learning Portal doesn’t yet remember where you left off in a section. Before closing your browser, jot down where you stopped so you can easily pick up next time. When you finish a sprint, don’t forget to select **Mark Complete** to save your progress. 
+The Learning Portal doesn’t currently remember where you left off within a section. Before closing your browser, jot down where you stopped so you can easily pick up next time. 
+
+When you finish a sprint, don’t forget to select **Mark Complete** to save your progress. 
 
 ![Mark complete button](https://raw.githubusercontent.com/CivicActions/ditap-curriculum-update/refs/heads/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/mark%20complete.png)
 
@@ -141,6 +143,7 @@ If you miss a live class session, you can view the recording and access any slid
 * You can also adjust text size, color settings, and enable Dark Mode through the settings menu.
   
 ![liascript settings icon](https://raw.githubusercontent.com/CivicActions/ditap-curriculum-update/refs/heads/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/settings.png)
+
 * Keyboard navigation:
   
   * Use Tab to move between interactive elements.
