@@ -106,7 +106,7 @@ Knowledge checks are designed to help you gauge your understanding of the materi
   
   * Note: Knowledge check answers aren’t saved between sessions. These questions are for practice only.
 
-![knowledge check icons - check answer button, check mark icon, light bulb icon](3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/knowledge check.png)
+![knowledge check icons - check answer button, check mark icon, light bulb icon](https://raw.githubusercontent.com/CivicActions/ditap-curriculum-update/refs/heads/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/knowledge%20check.png)
 
 * Select the “Check” button to check your answer.
   
