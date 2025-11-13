@@ -82,7 +82,7 @@ The rubric evaluates three dimensions of engagement:
 
 You can reset your password using the **Forgot Password?** link on the course login page.   
 
-  * Occasionally, the reset password emails are blocked by .*gov* email spam filters. If that happens, please contact the team by email at [ditap-facilitators@civicactions.com](mailto:ditap-facilitators@civicactions.com).
+  * Occasionally, the reset password emails are blocked by .*gov* email spam filters. If that happens, please contact the team by email at ditap-facilitators@civicactions.com.
 
 ![Forgot password link](https://github.com/CivicActions/ditap-curriculum-update/blob/4a156c1c41ee99c23508115ed4b85c78608d4460/3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/logging%20in.png)
 
@@ -106,7 +106,7 @@ Knowledge checks are designed to help you gauge your understanding of the materi
   
   * Note: Knowledge check answers aren’t saved between sessions. These questions are for practice only.
 
-![knowledge check icons - check answer button, check mark icon, light bulb icon](https://github.com/CivicActions/ditap-curriculum-update/blob/4a156c1c41ee99c23508115ed4b85c78608d4460/3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/knowledge%20check.png)
+![knowledge check icons - check answer button, check mark icon, light bulb icon](3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/knowledge check.png)
 
 * Select the “Check” button to check your answer.
   
@@ -125,7 +125,7 @@ The Learning Portal doesn’t yet remember where you left off in a section. Befo
 
 #### Submitting assignments
 
-If you need to change the file that you uploaded, please reach out to the team at [ditap-facilitators@civicactions.com](mailto:ditap-facilitators@civicactions.com).
+If you need to change the file that you uploaded, please reach out to the team at ditap-facilitators@civicactions.com.
 
 #### Accessing missed class recordings
 
