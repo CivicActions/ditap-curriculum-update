@@ -38,7 +38,7 @@ Course modules
 
   - **Assignments**
     
-    - Stakeholder Research
+    - Stakeholder Interview Assignment
       
     - Shadowing Assignment
       
