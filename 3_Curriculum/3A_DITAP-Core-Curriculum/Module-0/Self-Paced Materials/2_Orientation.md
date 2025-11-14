@@ -159,7 +159,11 @@ When you finish a sprint, don’t forget to select **Mark Complete** to save you
 
 #### Submitting assignments
 
-If you need to change the file that you uploaded, please reach out to the team at ditap-facilitators@civicactions.com.
+Please upload all submissions for the Shadowing, Stakeholder Interview, Capstone, and Threaded Scenario (where applicable) to the Learning Portal.
+
+To remove a file you’ve uploaded, click the small x next to it.
+
+If you run into any issues, don’t hesitate to reach out to the team at ditap-facilitators@civicactions.com.
 
 #### Accessing missed class recordings
 
