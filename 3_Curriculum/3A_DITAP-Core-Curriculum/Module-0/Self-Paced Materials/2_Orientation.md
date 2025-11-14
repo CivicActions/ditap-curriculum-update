@@ -34,23 +34,32 @@ Course modules
 
 ### Grading policy
 
-  - This course uses a pass/fail grading system, and all assignments are assessed on a pass/fail basis.
+**Pass/Fail Assessment Structure**
 
-  - **Assignments**
-    
-    - Stakeholder Interview Assignment
-      
-    - Shadowing Assignment
-      
-    - Live Digital Assignment
+The DITAP program uses a **pass/fail structure** rather than a traditional point-based grading system.
 
-  - **Assessments**
-    
-    - Pre-assessment
-      
-    - Post-assessment
+The philosophy behind this shift is rooted in adult learning principles and is designed to:
 
-- **Expectations**
+- **Reduce performance anxiety** for working professionals
+  
+- **Emphasize growth, collaboration, and real-world application** (critical behaviors for digital transformation leaders)
+  
+- Focus assessment on **building lasting competency and capability** rather than just knowledge retention  
+
+The entire assessment design is aligned with the Learning-Transfer Evaluation Model (LTEM), ensuring that evaluation measures decision-making and performance in realistic settings.
+
+To successfully complete the DITAP program and earn the certificate, participants must demonstrate competency across three core assessment areas.
+
+#### Assessment Areas
+
+| **Assessment Area**      | **Weight** | **Description** |
+|--------------------------|----------------------------|-----------------|
+| **Participation**        | 40% | Measures meaningful engagement in course sessions, active contribution to the cohort, and demonstrated connections between course material and day-to-day work. |
+| **Conceptual Fluency**   | 30% | Assesses the ability to understand, apply, and clearly communicate key DITAP frameworks (like Agile, HCD, and TechFAR) in practical scenarios. |
+| **Capstone** | 30% | The capstone project, which is a cumulative demonstration of skills across a simulated end-to-end digital service acquisition lifecycle. |
+
+
+ - **Expectations**
 
   - Actively participate
   - Share what you’ve learned
@@ -59,7 +68,7 @@ Course modules
   - Involve others in your development
   - Hold yourself accountable
  
- ### Participation Rubric
+ #### Participation Rubric
 
 The rubric evaluates three dimensions of engagement:
 
@@ -69,8 +78,22 @@ The rubric evaluates three dimensions of engagement:
 | **Connections** | Frequently connects course content to real work; shares relevant examples | Makes occasional connections between course and work | Struggles to relate content to context |
 | **Emergent Thinking** | Regularly introduces new perspectives; demonstrates curiosity and depth | Sometimes surfaces thoughtful ideas | Rarely explores beyond surface-level |
 
+#### Conceptual Fluency
 
+Conceptual fluency is measured continuously throughout the program using informal and formal methods, including:
 
+- **Stakeholder Research Assignment:** A structured opportunity to engage 2–4 influential agency figures (gatekeepers or major influencers) to understand organizational readiness and practice influencing conversations.
+- **Shadowing Assignment:** An observational experience requiring at least four hours with a digital service delivery team to witness modern practices like Agile, Lean and Human-Centered Design (HCD) firsthand.
+
+- Knowledge Checks embedded in self-paced modules.
+
+- In-class discussions, including those related to the threaded scenario (Navigating Stakeholder and Decision-Making Challenges).
+
+  - **Assessments**
+    
+    - Pre-assessment
+      
+    - Post-assessment
 
 
 ---
