@@ -6,11 +6,13 @@
 ## Introduction to DITAP
 
 ### Program overview  
-- **Certification**  
+**Certification**  
   - The Digital Services Credential (DITAP), formerly FAC-C-DS, program aims to train and develop professionals for this certification, focusing on digital service acquisition. It requires a comprehensive approach that includes pre and post-course assessments, multi-modal training delivery utilizing a learning management system, and evaluation based on participation, mastery of content, and a live digital assignment. The program emphasizes a cohort-based learning approach. The curriculum, structured in modules and sprints, covers competencies such as understanding digital services, effective buying techniques, contract administration, and leading change in digital IT acquisition, with the goal of providing participants with practical skill development through real-world application and problem-solving.
-- **Requirement**  
+
+**Requirement**  
   - FAC-C (Professional) holders with at least two years of experience and assigned to acquisitions consisting primarily of digital services over FAR 13.500(c) thresholds are required to attend the DITAP training program.
-- **Recommended**  
+  
+**Recommended**  
   - FAC-COR Level II/III and FAC-P/PM Level II/III holders with at least two years of experience and assigned to acquisitions consisting primarily of digital services over FAR 13.500(c) thresholds are encouraged to attend DITAP training to create a cohesive team that fully understands how to buy digital services.
 
 ### Course structure
@@ -28,9 +30,6 @@ Course modules
   
 ### Threaded case scenario integration
     The program utilizes a threaded case scenario, *Cynuria: Navigating Stakeholder and Decision-Making Challenges*, to provide a realistic, evolving scenario for applied learning across the modules. The threaded case scenario is integrated into the curriculum to align with learning objectives and reinforce key principles.
-
-### Capstone
-    This group capstone project simulates the end-to-end lifecycle of a modern digital service acquisition, reinforcing core DITAP objectives. It involves four phases: Discovery Sprint, Case Study Development, Evaluation & Feedback, and Final Presentations. Participants identify their own real-world digital service procurement challenge and apply Agile and Human-Centered Design principles.
 
 ### Grading policy
 
@@ -59,16 +58,7 @@ To successfully complete the DITAP program and earn the certificate, participant
 | **Capstone** | 30% | The capstone project, which is a cumulative demonstration of skills across a simulated end-to-end digital service acquisition lifecycle. |
 
 
- - **Expectations**
-
-  - Actively participate
-  - Share what you’ve learned
-  - Advocate for your development
-  - Take risks
-  - Involve others in your development
-  - Hold yourself accountable
- 
- #### Participation Rubric
+#### Participation Rubric
 
 The rubric evaluates three dimensions of engagement:
 
@@ -77,6 +67,15 @@ The rubric evaluates three dimensions of engagement:
 | **Cohort Contribution** | Consistently contributes in live sessions; builds on others' ideas; prepared and engaged | Occasionally contributes; listens actively; sometimes prepared | Rarely participates or comes unprepared |
 | **Connections** | Frequently connects course content to real work; shares relevant examples | Makes occasional connections between course and work | Struggles to relate content to context |
 | **Emergent Thinking** | Regularly introduces new perspectives; demonstrates curiosity and depth | Sometimes surfaces thoughtful ideas | Rarely explores beyond surface-level |
+
+**Expectations**
+
+  - Actively participate
+  - Share what you’ve learned
+  - Advocate for your development
+  - Take risks
+  - Involve others in your development
+  - Hold yourself accountable
 
 #### Conceptual Fluency
 
@@ -89,7 +88,10 @@ Conceptual fluency is measured continuously throughout the program using informa
 
 - In-class discussions, including those related to the threaded scenario (Navigating Stakeholder and Decision-Making Challenges).
 
-  - **Assessments**
+#### Capstone
+    This group capstone project simulates the end-to-end lifecycle of a modern digital service acquisition, reinforcing core DITAP objectives. It involves four phases: Discovery Sprint, Case Study Development, Evaluation & Feedback, and Final Presentations. Participants identify their own real-world digital service procurement challenge and apply Agile and Human-Centered Design principles.
+
+#### Assessments
     
     - Pre-assessment
       
