@@ -85,6 +85,7 @@ The rubric evaluates three dimensions of engagement:
     
   - Hold yourself accountable
 
+
 #### Conceptual Fluency
 
 Conceptual fluency is measured continuously throughout the program using informal and formal methods, including:
@@ -101,8 +102,7 @@ Conceptual fluency is measured continuously throughout the program using informa
 
 #### Assessments
     
-    - Pre-assessment
-    
+    - Pre-assessment   
     - Post-assessment
 
 
