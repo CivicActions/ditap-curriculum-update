@@ -89,8 +89,6 @@ Conceptual fluency is measured continuously throughout the program using informa
 - **Stakeholder Research Assignment:** A structured opportunity to engage 2–4 influential agency figures (gatekeepers or major influencers) to understand organizational readiness and practice influencing conversations.
 - **Shadowing Assignment:** An observational experience requiring at least four hours with a digital service delivery team to witness modern practices like Agile, Lean and Human-Centered Design (HCD) firsthand.
 
-- Knowledge Checks embedded in self-paced modules.
-
 - In-class discussions, including those related to the threaded scenario (Navigating Stakeholder and Decision-Making Challenges).
 
 #### Capstone
