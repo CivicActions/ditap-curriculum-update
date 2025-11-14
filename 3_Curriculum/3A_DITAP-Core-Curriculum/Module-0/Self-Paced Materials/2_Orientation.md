@@ -73,17 +73,13 @@ The rubric evaluates three dimensions of engagement:
 
 **Expectations**
 
-  - Actively participate
-    
-  - Share what you’ve learned
-    
-  - Advocate for your development
-    
-  - Take risks
-    
-  - Involve others in your development
-    
-  - Hold yourself accountable
+- Actively participate
+- Share what you’ve learned
+- Advocate for your development
+- Take risks
+- Involve others in your development
+- Hold yourself accountable
+
 
 
 #### Conceptual Fluency
@@ -102,8 +98,9 @@ Conceptual fluency is measured continuously throughout the program using informa
 
 #### Assessments
     
-    - Pre-assessment   
-    - Post-assessment
+- Pre-assessment
+- Post-assessment
+
 
 
 ---
