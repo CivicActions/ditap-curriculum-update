@@ -11,6 +11,7 @@
 
 **Requirement**  
   - FAC-C (Professional) holders with at least two years of experience and assigned to acquisitions consisting primarily of digital services over FAR 13.500(c) thresholds are required to attend the DITAP training program.
+
   
 **Recommended**  
   - FAC-COR Level II/III and FAC-P/PM Level II/III holders with at least two years of experience and assigned to acquisitions consisting primarily of digital services over FAR 13.500(c) thresholds are encouraged to attend DITAP training to create a cohesive team that fully understands how to buy digital services.
@@ -47,9 +48,11 @@ The philosophy behind this shift is rooted in adult learning principles and is d
 
 The entire assessment design is aligned with the Learning-Transfer Evaluation Model (LTEM), ensuring that evaluation measures decision-making and performance in realistic settings.
 
-To successfully complete the DITAP program and earn the certificate, participants must demonstrate competency across three core assessment areas.
+
 
 #### Assessment Areas
+
+To successfully complete the DITAP program and earn the certificate, participants must demonstrate competency across three core assessment areas.
 
 | **Assessment Area**      | **Weight** | **Description** |
 |--------------------------|----------------------------|-----------------|
@@ -71,10 +74,15 @@ The rubric evaluates three dimensions of engagement:
 **Expectations**
 
   - Actively participate
+    
   - Share what you’ve learned
+    
   - Advocate for your development
+    
   - Take risks
+    
   - Involve others in your development
+    
   - Hold yourself accountable
 
 #### Conceptual Fluency
@@ -94,7 +102,7 @@ Conceptual fluency is measured continuously throughout the program using informa
 #### Assessments
     
     - Pre-assessment
-      
+    
     - Post-assessment
 
 
