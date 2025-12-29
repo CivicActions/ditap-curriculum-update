@@ -186,10 +186,28 @@ If you miss a live class session, you can view the recording and access any slid
 
 * Use a modern browser such as Chrome, Edge, Firefox, or Safari.   
 * Allow pop-ups for linked resources if needed.
-  
+
+## Zoom Access & Troubleshooting
+
+Our live class sessions are hosted on Zoom. Occasionally, participants may experience issues logging in or accessing a session.
+
+If you encounter any difficulties, try the troubleshooting steps below:
+
+- **Switch browsers:** Try accessing Zoom using a different browser, such as Chrome or Firefox, to rule out browser-specific issues.
+- **Use the Zoom web version:** Join the session through your browser instead of the Zoom desktop app.
+- **Disable browser extensions:** Temporarily turn off browser add-ons—especially ad blockers—and refresh the page.
+- **Update your browser:** Ensure you are using the latest version of your browser.
+- **Clear cache and cookies:** In your browser settings, clear cached files and cookies, then try again.
+- **Check security settings:** Make sure your browser’s security or privacy settings are not blocking Zoom.
+- **Disconnect from VPN (if possible):** Some VPNs can interfere with Zoom access.
+
+>If these steps do not resolve the issue, you may need to contact your agency’s IT department for additional or more advanced troubleshooting support.
+
+
+
 ---
 
-## Discussion \- introduction
+## Discussion \- Introduction
 
 To help us kick off the course and start building a sense of community, we’ll begin our first live session with brief introductions. 
 
