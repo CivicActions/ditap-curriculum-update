@@ -162,7 +162,9 @@ Please upload all submissions for the Shadowing, Stakeholder Interview, Capstone
 
 To remove a file you’ve uploaded, click the small x next to it.
 
-If you run into any issues, don’t hesitate to reach out to the team at ditap-facilitators@civicactions.com.
+![Learning Portal delete upload](https://raw.githubusercontent.com/CivicActions/ditap-curriculum-update/refs/heads/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/learning%20portal%20delete%20upload.png?raw=true)
+
+If you encounter any issues, please don’t hesitate to contact the team at ditap-facilitators@civicactions.com.
 
 #### Accessing missed class recordings
 
@@ -179,7 +181,7 @@ You can reset your password using the **Forgot Password?** link on the course lo
 ### Accessibility tips
 
 * Resize the text by using Ctrl+ / Ctrl- on Windows or Cmd+/Cmd- on Mac.  
-* You can also adjust text size, color settings, and enable Dark Mode through the settings menu.
+* You can also adjust text size, color settings, and enable Dark Mode through the settings menu in the upper right corner. 
   
 ![liascript settings icon](https://raw.githubusercontent.com/CivicActions/ditap-curriculum-update/refs/heads/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/settings.png)
 
