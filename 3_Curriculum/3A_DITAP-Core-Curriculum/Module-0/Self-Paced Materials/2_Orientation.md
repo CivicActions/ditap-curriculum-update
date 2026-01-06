@@ -33,7 +33,7 @@ Course modules
 
   
 ### Threaded case scenario integration
-    The program utilizes a threaded case scenario, *Cynuria: Navigating Stakeholder and Decision-Making Challenges*, to provide a realistic, evolving scenario for applied learning across the modules. The threaded case scenario is integrated into the curriculum to align with learning objectives and reinforce key principles.
+    The DITAP program uses a threaded case scenario, "Cynuria: Navigating Stakeholder and Decision-Making Challenges," to provide a realistic, evolving context for applied learning across modules. Designed for acquisition professionals, the scenario is embedded throughout the curriculum to align with learning objectives, reinforce key principles, and support the practical application of concepts in real-world acquisition environments.
 
     The full threaded scenario, along with all supporting materials, is available in the Threaded Scenario section of the Learning Portal.
 
@@ -99,6 +99,8 @@ Conceptual fluency is measured continuously throughout the program using informa
 #### Capstone
     This group capstone project simulates the end-to-end lifecycle of a modern digital service acquisition, reinforcing core DITAP objectives. It involves four phases: Discovery Sprint, Case Study Development, Evaluation & Feedback, and Final Presentations. Participants identify their own real-world digital service procurement challenge and apply Agile and Human-Centered Design principles.
 
+    Additional details about the capstone project are available in your syllabus, in the Learning Portal under Applied Learning, and will also be shared during class.
+
 #### Assessments
     
 - Pre-assessment
@@ -109,16 +111,6 @@ Conceptual fluency is measured continuously throughout the program using informa
 ---
 
 ## Learning Portal Help
-
-
-### Resetting your password
-
-You can reset your password using the **Forgot Password?** link on the course login page.   
-
-  * Occasionally, the reset password emails are blocked by .*gov* email spam filters. If that happens, please contact the team by email at ditap-facilitators@civicactions.com.
-
-![Forgot password link](https://raw.githubusercontent.com/CivicActions/ditap-curriculum-update/refs/heads/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/logging%20in.png)
-
 
 
 ### Navigating the course
@@ -166,6 +158,8 @@ When you finish a sprint, don’t forget to select **Mark Complete** to save you
 
 Please upload all submissions for the Shadowing, Stakeholder Interview, Capstone, and Threaded Scenario (where applicable) to the Learning Portal.
 
+![Learning Portal upload](https://raw.githubusercontent.com/CivicActions/ditap-curriculum-update/refs/heads/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/learning%20portal%20upload.png?raw=true)
+
 To remove a file you’ve uploaded, click the small x next to it.
 
 If you run into any issues, don’t hesitate to reach out to the team at ditap-facilitators@civicactions.com.
@@ -173,6 +167,14 @@ If you run into any issues, don’t hesitate to reach out to the team at ditap-f
 #### Accessing missed class recordings
 
 If you miss a live class session, you can view the recording and access any slide decks or supplemental materials through the **Live Session Recordings and Materials** section of the course. 
+
+### Resetting your password
+
+You can reset your password using the **Forgot Password?** link on the course login page.   
+
+  * Occasionally, the reset password emails are blocked by .*gov* email spam filters. If that happens, please contact the team by email at ditap-facilitators@civicactions.com.
+
+![Forgot password link](https://raw.githubusercontent.com/CivicActions/ditap-curriculum-update/refs/heads/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/logging%20in.png)
 
 ### Accessibility tips
 
