@@ -107,10 +107,10 @@ Conceptual fluency is measured continuously throughout the program using informa
 
   The pre-assessment is designed to gauge your current understanding of key concepts and practices that will be covered throughout the DITAP program, which aims to train and develop professionals for digital service acquisition.
 
-💡 Note: The pre-assessment is just a way to see what you already know before we begin. Answer each question to the best of your ability, but don’t stress about the score — it won’t affect your grade.
+  Note: The pre-assessment is just a way to see what you already know before we begin. Answer each question to the best of your ability, but don’t stress about the score — it won’t affect your grade.
 
-    Total questions: 11
-    Estimated time: 20 – 25 minutes
+  Total questions: 11
+  Estimated time: 20 – 25 minutes
 
 
 - Post-assessment
