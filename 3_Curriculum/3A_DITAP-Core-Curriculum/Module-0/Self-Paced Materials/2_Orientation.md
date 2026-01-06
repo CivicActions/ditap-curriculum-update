@@ -110,6 +110,7 @@ Conceptual fluency is measured continuously throughout the program using informa
   Note: The pre-assessment is just a way to see what you already know before we begin. Answer each question to the best of your ability, but don’t stress about the score — it won’t affect your grade.
 
   Total questions: 11
+  
   Estimated time: 20 – 25 minutes
 
 
@@ -118,8 +119,11 @@ Conceptual fluency is measured continuously throughout the program using informa
   The post-assessment helps you check what you’ve learned and how your understanding has grown since the start of the course. Your results also help us evaluate how well the course met its learning goals.
 
     Total questions: 15
+  
     Estimated time: 35 – 40 minutes
+  
     80% required to pass
+  
     Multiple attempts allowed
 
 
