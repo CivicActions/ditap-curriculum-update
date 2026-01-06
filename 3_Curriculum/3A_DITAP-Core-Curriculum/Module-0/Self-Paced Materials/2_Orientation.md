@@ -117,7 +117,7 @@ Conceptual fluency is measured continuously throughout the program using informa
 
 #### Table of contents
 
-* Use the sidebar to navigate to specific sections of each sprint.   
+* Use the table of contents on the left to navigate to specific sections of each sprint.   
 * To open the table of contents, select the hamburger menu ☰.  To close the table of contents, select the X.  
 * To move through each section, use the next and previous arrows.
    
