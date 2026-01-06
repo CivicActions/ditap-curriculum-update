@@ -35,6 +35,8 @@ Course modules
 ### Threaded case scenario integration
     The program utilizes a threaded case scenario, *Cynuria: Navigating Stakeholder and Decision-Making Challenges*, to provide a realistic, evolving scenario for applied learning across the modules. The threaded case scenario is integrated into the curriculum to align with learning objectives and reinforce key principles.
 
+    The full threaded scenario, along with all supporting materials, is available in the Threaded Scenario section of the Learning Portal.
+
 ### Grading policy
 
 **Pass/Fail Assessment Structure**
