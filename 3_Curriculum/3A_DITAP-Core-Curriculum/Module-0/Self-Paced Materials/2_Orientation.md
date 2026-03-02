@@ -32,11 +32,6 @@ Course modules
 | **Module 5 – Grow** | Aims to apply techniques to create a culture of innovation, enabling participants to lead and influence customers toward optimal solutions. This includes leading change as an individual and leading organizational change through continuous improvement and scalable practices. |
 
   
-### Threaded case scenario integration
-    The DITAP program uses a threaded case scenario, "Cynuria: Navigating Stakeholder and Decision-Making Challenges," to provide a realistic, evolving context for applied learning across modules. Designed for acquisition professionals, the scenario is embedded throughout the curriculum to align with learning objectives, reinforce key principles, and support the practical application of concepts in real-world acquisition environments.
-
-    The full threaded scenario, along with all supporting materials, is available in the Threaded Scenario section of the Learning Portal.
-
 ### Grading policy
 
 **Pass/Fail Assessment Structure**
@@ -101,6 +96,11 @@ Conceptual fluency is measured continuously throughout the program using informa
 
     Additional details about the capstone project are available in your syllabus, in the Learning Portal under Applied Learning, and will also be shared during class.
 
+### Threaded Scenario
+    The DITAP program uses a threaded case scenario, "Cynuria: Navigating Stakeholder and Decision-Making Challenges," to provide a realistic, evolving context for applied learning across modules. Designed for acquisition professionals, the scenario is embedded throughout the curriculum to align with learning objectives, reinforce key principles, and support the practical application of concepts in real-world acquisition environments.
+
+    The full threaded scenario, along with all supporting materials, is available in the Threaded Scenario section of the Learning Portal.
+
 #### Assessments
     
 - Pre-assessment
@@ -128,6 +128,18 @@ Conceptual fluency is measured continuously throughout the program using informa
 
 
 ---
+
+## Tech Tools
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe 
+    src="[DITAP Tech Tools](https://vimeo.com/1169704079/3efe20e44b?share=copy&fl=sv&fe=ci)"
+    style="position: absolute; top:0; left:0; width:100%; height:100%;"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ## Learning Portal Help
 
@@ -215,7 +227,7 @@ You can reset your password using the **Forgot Password?** link on the course lo
 * Use a modern browser such as Chrome, Edge, Firefox, or Safari.   
 * Allow pop-ups for linked resources if needed.
 
-## Zoom Access & Troubleshooting
+## Zoom Help
 
 Our live class sessions are hosted on Zoom. Occasionally, participants may experience issues logging in or accessing a session.
 
