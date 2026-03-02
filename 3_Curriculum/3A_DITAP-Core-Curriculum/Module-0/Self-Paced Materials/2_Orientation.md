@@ -97,34 +97,8 @@ Conceptual fluency is measured continuously throughout the program using informa
     Additional details about the capstone project are available in your syllabus, in the Learning Portal under Applied Learning, and will also be shared during class.
 
 
-#### Assessments
+#### 📊 Course Assessments
     
-- Pre-assessment
-
-  The pre-assessment is designed to gauge your current understanding of key concepts and practices that will be covered throughout the DITAP program, which aims to train and develop professionals for digital service acquisition.
-
-  Note: The pre-assessment is just a way to see what you already know before we begin. Answer each question to the best of your ability, but don’t stress about the score — it won’t affect your grade.
-
-  Total questions: 11
-  
-  Estimated time: 20 – 25 minutes
-
-
-- Post-assessment
-
-  The post-assessment helps you check what you’ve learned and how your understanding has grown since the start of the course. Your results also help us evaluate how well the course met its learning goals.
-
-    Total questions: 15
-  
-    Estimated time: 35 – 40 minutes
-  
-    80% required to pass
-  
-    Multiple attempts allowed
-
-  # 📊 Course Assessments
-
----
 
 🔎 Pre-Assessment
 
@@ -167,6 +141,8 @@ The pre- and post-assessments together help you:
 - Demonstrate competency  
 
 Take your time — this is about learning, not perfection.
+
+--- 
 
 ### Threaded Scenario
     The DITAP program uses a threaded case scenario, "Cynuria: Navigating Stakeholder and Decision-Making Challenges," to provide a realistic, evolving context for applied learning across modules. Designed for acquisition professionals, the scenario is embedded throughout the curriculum to align with learning objectives, reinforce key principles, and support the practical application of concepts in real-world acquisition environments.
