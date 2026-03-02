@@ -122,6 +122,52 @@ Conceptual fluency is measured continuously throughout the program using informa
   
     Multiple attempts allowed
 
+  # 📊 Course Assessments
+
+---
+
+🔎 Pre-Assessment
+
+The pre-assessment helps gauge your current understanding of key concepts and practices covered in the **DITAP program**, which focuses on digital service acquisition.
+
+> **Note:**  
+> This is simply a baseline check.  
+> Answer each question to the best of your ability — your score will **not** affect your grade.
+
+**Details**
+
+- **Total Questions:** 11  
+- **Estimated Time:** 20–25 minutes  
+- **Graded?:** No  
+
+---
+
+✅ Post-Assessment
+
+The post-assessment helps you measure what you've learned and how your understanding has grown since the start of the course.
+
+Your results also help us evaluate how effectively the course met its learning objectives.
+
+**Details**
+
+- **Total Questions:** 15  
+- **Estimated Time:** 35–40 minutes  
+- **Passing Score:** 80%  
+- **Attempts:** Multiple allowed  
+
+---
+
+🎯 Why This Matters
+
+The pre- and post-assessments together help you:
+
+- Reflect on your learning growth  
+- Identify knowledge gaps  
+- Reinforce key digital service acquisition concepts  
+- Demonstrate competency  
+
+Take your time — this is about learning, not perfection.
+
 ### Threaded Scenario
     The DITAP program uses a threaded case scenario, "Cynuria: Navigating Stakeholder and Decision-Making Challenges," to provide a realistic, evolving context for applied learning across modules. Designed for acquisition professionals, the scenario is embedded throughout the curriculum to align with learning objectives, reinforce key principles, and support the practical application of concepts in real-world acquisition environments.
 
