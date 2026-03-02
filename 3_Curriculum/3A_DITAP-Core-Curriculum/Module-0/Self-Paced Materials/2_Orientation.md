@@ -96,10 +96,6 @@ Conceptual fluency is measured continuously throughout the program using informa
 
     Additional details about the capstone project are available in your syllabus, in the Learning Portal under Applied Learning, and will also be shared during class.
 
-### Threaded Scenario
-    The DITAP program uses a threaded case scenario, "Cynuria: Navigating Stakeholder and Decision-Making Challenges," to provide a realistic, evolving context for applied learning across modules. Designed for acquisition professionals, the scenario is embedded throughout the curriculum to align with learning objectives, reinforce key principles, and support the practical application of concepts in real-world acquisition environments.
-
-    The full threaded scenario, along with all supporting materials, is available in the Threaded Scenario section of the Learning Portal.
 
 #### Assessments
     
@@ -126,7 +122,11 @@ Conceptual fluency is measured continuously throughout the program using informa
   
     Multiple attempts allowed
 
+### Threaded Scenario
+    The DITAP program uses a threaded case scenario, "Cynuria: Navigating Stakeholder and Decision-Making Challenges," to provide a realistic, evolving context for applied learning across modules. Designed for acquisition professionals, the scenario is embedded throughout the curriculum to align with learning objectives, reinforce key principles, and support the practical application of concepts in real-world acquisition environments.
 
+    The full threaded scenario, along with all supporting materials, is available in the Threaded Scenario section of the Learning Portal.
+    
 ---
 
 ## Tech Tools
@@ -214,7 +214,7 @@ You can reset your password using the **Forgot Password?** link on the course lo
     
   * Press Enter or Space to activate buttons and links.
     
-### Tips for the best experience
+#### Tips for the best experience
 
 * Use a modern browser such as Chrome, Edge, Firefox, or Safari.   
 * Allow pop-ups for linked resources if needed.
