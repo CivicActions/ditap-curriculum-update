@@ -131,15 +131,7 @@ Conceptual fluency is measured continuously throughout the program using informa
 
 ## Tech Tools
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe 
-    src="[DITAP Tech Tools](https://vimeo.com/1169704079/3efe20e44b?share=copy&fl=sv&fe=ci)"
-    style="position: absolute; top:0; left:0; width:100%; height:100%;"
-    frameborder="0"
-    allow="autoplay; fullscreen; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1169704079?h=3efe20e44b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="DITAP Tech Tools"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Learning Portal Help
 
