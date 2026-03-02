@@ -97,7 +97,7 @@ Conceptual fluency is measured continuously throughout the program using informa
     Additional details about the capstone project are available in your syllabus, in the Learning Portal under Applied Learning, and will also be shared during class.
 
 
-#### 📊 Course Assessments
+#### Course Assessments
     
 
 🔎 Pre-Assessment
