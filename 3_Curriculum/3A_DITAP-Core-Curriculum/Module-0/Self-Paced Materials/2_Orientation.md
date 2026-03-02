@@ -3,6 +3,8 @@
 
 > _Average completion time: 15 - 20 minutes_
 
+![ditap orientation](https://raw.githubusercontent.com/CivicActions/ditap-curriculum-update/refs/heads/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Media/ditap%20orientation.png)
+
 ## Introduction to DITAP
 
 ### Program overview  
