@@ -150,11 +150,10 @@ jobs:
         path: ./downloads/
 
     - name: Upload to release
-      uses: actions/upload-release-asset@v1
+      uses: softprops/action-gh-release@v3
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        upload_url: ${{ github.event.release.upload_url }}
-        asset_path: ./downloads/${{ matrix.module.package }}${{ matrix.format.suffix }}.zip
-        asset_name: ${{ matrix.module.package }}${{ matrix.format.suffix }}.zip
-        asset_content_type: application/zip
+        tag_name: ${{ github.event.release.tag_name }}
+        files: ./downloads/${{ matrix.module.package }}${{ matrix.format.suffix }}.zip
+        fail_on_unmatched_files: true
