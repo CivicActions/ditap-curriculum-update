@@ -62,7 +62,7 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v7
 
     - name: Generate artifact name
       id: artifact-name
@@ -88,7 +88,7 @@ jobs:
         scorm-iframe: true
 
     - name: Upload SCORM package
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: ${{ steps.artifact-name.outputs.name }}
         path: ${{ steps.export.outputs.output-file }}
@@ -101,10 +101,10 @@ jobs:
     
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v7
       
     - name: Append to release description
-      uses: actions/github-script@v6
+      uses: actions/github-script@v9
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         script: |
@@ -144,17 +144,16 @@ jobs:
       matrix: *module_format_matrix # Reuse the same matrix alias here
     steps:
     - name: Download SCORM artifact
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v8
       with:
         name: ${{ github.event.release.tag_name }}-${{ matrix.module.package }}${{ matrix.format.suffix }}
         path: ./downloads/
 
     - name: Upload to release
-      uses: actions/upload-release-asset@v1
+      uses: softprops/action-gh-release@v3
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        upload_url: ${{ github.event.release.upload_url }}
-        asset_path: ./downloads/${{ matrix.module.package }}${{ matrix.format.suffix }}.zip
-        asset_name: ${{ matrix.module.package }}${{ matrix.format.suffix }}.zip
-        asset_content_type: application/zip
+        tag_name: ${{ github.event.release.tag_name }}
+        files: ./downloads/${{ matrix.module.package }}${{ matrix.format.suffix }}.zip
+        fail_on_unmatched_files: true
