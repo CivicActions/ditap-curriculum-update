@@ -413,7 +413,7 @@ While they can still be used and are often required by acquisition strategy, tra
 
 Traditional market research often falls into the trap of over-specifying the requirement before industry even has a chance to weigh in. However, under FAR 2.0 and current OMB directives, agencies must conduct market research appropriate to the circumstances without asking for more information than necessary.
 
-#### The SPE Burden: How Better Market Research Reduces Reporting
+#### The SPE burden: How better market research reduces reporting
 
 [Executive Order 14271](https://www.federalregister.gov/executive-order/14271) and [OMB Memorandum M-26-12](https://www.whitehouse.gov/wp-content/uploads/2026/04/M-26-12-Increasing-the-Acquisition-of-Commercial-Products-and-Services.pdf) (_Increasing the Acquisition of Commercial Products and Services_) have shifted the burden of proof for non-commercial acquisitions. The expectation is clear: federal procurement must be "commercial-first."
 
@@ -421,7 +421,7 @@ Under M-26-12, the decision to pursue a non-commercial, customized solution is o
 
 What does this mean for your acquisition team? **The agency that writes better RFIs submits fewer justifications.** If your RFI acts as genuine, outcome-based market research rather than a disguised 30-question Statement of Work, you naturally build the case that commercial solutions were thoroughly explored. Effective market research proves FAR Part 12 compliance upfront, saving your agency the costly, time-consuming burden of SPE justification reporting.
 
-#### Turning Strategy into Action: The Five Rules of a Good RFI
+#### Turning strategy into action: The five rules of a good RFI
 To successfully move away from the "disguised SOW" approach, adapt to digital delivery realities, and build your compliance case upfront, procurement teams should ground their market research in these key principles:
 
 1. **State the problem, not the solution** – Describe the operational outcome the agency needs, not the system architecture or labor categories. Digital services require flexibility, speed, and iteration; forcing companies into rigid templates slows acquisitions and alienates top performers.
@@ -433,7 +433,7 @@ To successfully move away from the "disguised SOW" approach, adapt to digital de
    
 **Bottom Line:** Effective market research is about getting real insight, not checking a compliance box. Be thoughtful, be flexible, and design your research to surface true digital delivery capability, not just who can fill out the most forms.
 
-#### Supplemental Reading
+#### Supplemental reading
 Jaime Gracia’s article, _"[What a Good RFI Actually Looks Like](https://www.linkedin.com/pulse/what-good-rfi-actually-looks-like-jaime-gracia-cukne/),"_ provides a blunt look at how industry interprets bloated RFIs and outlines the direct connection between commercial-first mandates and practical RFI drafting. Read this article for a deeper dive into the specific AI prompt methodology and to understand how cost-reimbursement contracts used as workarounds for poorly defined requirements are being phased out.
 
 
