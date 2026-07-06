@@ -433,7 +433,7 @@ To successfully move away from the "disguised SOW" approach, adapt to digital de
    
 **Bottom Line:** Effective market research is about getting real insight, not checking a compliance box. Be thoughtful, be flexible, and design your research to surface true digital delivery capability, not just who can fill out the most forms.
 
-#### Supplemental reading
+#### Supplemental reading 
 Jaime Gracia’s article, _"[What a Good RFI Actually Looks Like](https://www.linkedin.com/pulse/what-good-rfi-actually-looks-like-jaime-gracia-cukne/),"_ provides a blunt look at how industry interprets bloated RFIs and outlines the direct connection between commercial-first mandates and practical RFI drafting. Read this article for a deeper dive into the specific AI prompt methodology and to understand how cost-reimbursement contracts used as workarounds for poorly defined requirements are being phased out.
 
 
