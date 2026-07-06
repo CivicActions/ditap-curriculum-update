@@ -261,7 +261,7 @@ Answering questions about a potential acquisition from vendors before a solicita
 
 By now, you can explain why pre-solicitation communication is important. Let’s take a few minutes to look at how to do it most effectively. Here are a few tips:
 
-### 1\. Provide foundational information
+### Provide foundational information
 
 Think of the information you have to provide in the shape of a pyramid. The background and mission of your agency program form the foundation of that pyramid, and the other elements are built on top of that foundation. When going into the market research phase, you may not know the constraints, requirements, timelines, and resources you have or need for the acquisition. Utilize market research to get information that will help guide the requirements development process and determine the rest of the information needed for a solicitation. 
 
@@ -278,7 +278,7 @@ Read about each building block of the pyramid above.
 | **Timelines and Resources** | - Vendors need clarity on schedules, funding, and available government resources.<br>- Examples: <br> • Will development/testing occur on government or vendor servers?<br> • What’s achievable in 2 years vs. 2 months?<br> • What is the budget range?<br>- Consider sharing broad ranges instead of exact figures to explore trade-offs and possible solutions. |
 | **Requirements** | - Derived from mission, outcomes, constraints, timelines, and market research.<br>- Define what the contract must realistically deliver.<br>- Can be communicated via a **Statement of Work (SOW)** or **Statement of Objectives (SOO)**.<br>- Early drafts are acceptable; requirements may evolve with further input and staff expertise. |
 
-### 2\. Engage early with industry regarding opportunities
+### Engage early with industry regarding opportunities
 
 As you’ve learned throughout this module, engaging early with industry is critical in the ever-evolving digital services market. To facilitate communication, consider using the following traditional and non-traditional techniques.
 
@@ -411,6 +411,34 @@ The more “traditional” ways to engage with industry also have a place. These
 
 While they can still be used and are often required by acquisition strategy, traditional government RFIs often create unnecessary barriers for modern digital service providers. The burdensome processes can discourage the very vendors you want to engage, especially small, agile companies and non-traditional government vendors delivering high-quality tech services.
 
+Traditional market research often falls into the trap of over-specifying the requirement before industry even has a chance to weigh in. However, under FAR 2.0 and current OMB directives, agencies must conduct market research appropriate to the circumstances without asking for more information than necessary.
+
+#### The SPE Burden: How Better Market Research Reduces Reporting
+
+Executive Order 14271 and OMB Memorandum M-26-12 (_Increasing the Acquisition of Commercial Products and Services_) have shifted the burden of proof for non-commercial acquisitions. The expectation is clear: federal procurement must be "commercial-first."
+
+Under M-26-12, the decision to pursue a non-commercial, customized solution is owned by your agency’s Senior Procurement Executive (SPE). If your agency plans a non-commercial award, the SPE must compile a highly detailed justification package for OMB, explaining why commercial solutions were not viable.
+
+What does this mean for your acquisition team? **The agency that writes better RFIs submits fewer justifications.** If your RFI acts as genuine, outcome-based market research rather than a disguised 30-question Statement of Work, you naturally build the case that commercial solutions were thoroughly explored. Effective market research proves FAR Part 12 compliance upfront, saving your agency the costly, time-consuming burden of SPE justification reporting.
+
+#### Turning Strategy into Action: The Five Rules of a Good RFI
+To successfully move away from the "disguised SOW" approach, adapt to digital delivery realities, and build your compliance case upfront, procurement teams should ground their market research in these key principles:
+
+1. **State the problem, not the solution** – Describe the operational outcome the agency needs, not the system architecture or labor categories. Digital services require flexibility, speed, and iteration; forcing companies into rigid templates slows acquisitions and alienates top performers.
+2. **Ask fewer than ten questions** – Every question should exist solely because its answer will change your acquisition strategy. Avoid boilerplate checklists and ask smarter, intentional questions. Focus on how a company handles failure or pivots, and ask for real examples of managing risk.
+>Watch for AI-filled answers – With generative AI now able to auto-fill generic responses, acquisition professionals must intentionally structure their limited questions to reveal authentic capability, not just polished language. Be wary of vendors claiming perfection; true partners acknowledge uncertainty.
+3. **Prioritize commercial availability directly** – Align with FAR 10.001(f) by asking first if the requirement can be met with commercial products or services. For simpler needs, consider lighter-touch, compliance-free formats like video responses, virtual industry days, or facilitated roundtables.
+4. **Invite honest pushback on the requirement** – Explicitly ask vendors to challenge restrictive language. Ask: _"Is any part of this requirement written in a way that would unnecessarily exclude commercial solutions?"_
+5. **Commit to follow-through** – Tell industry what you will do with their responses (e.g., an industry day, one-on-ones, or a draft solicitation). Engagement spikes when vendors know their time is valued.
+   
+**Bottom Line:** Effective market research is about getting real insight, not checking a compliance box. Be thoughtful, be flexible, and design your research to surface true digital delivery capability, not just who can fill out the most forms.
+
+#### Supplemental Reading
+Jaime Gracia’s article, _"[What a Good RFI Actually Looks Like](https://www.linkedin.com/pulse/what-good-rfi-actually-looks-like-jaime-gracia-cukne/),"_ provides a blunt look at how industry interprets bloated RFIs and outlines the direct connection between commercial-first mandates and practical RFI drafting. Read this article for a deeper dive into the specific AI prompt methodology and to understand how cost-reimbursement contracts used as workarounds for poorly defined requirements are being phased out.
+
+
+While they can still be used and are often required by acquisition strategy, traditional government RFIs often create unnecessary barriers for modern digital service providers. The burdensome processes can discourage the very vendors you want to engage, especially small, agile companies and non-traditional government vendors delivering high-quality tech services.
+
 **Key concepts:**
 
 * **Adapt to digital delivery realities:**  
@@ -430,7 +458,7 @@ While they can still be used and are often required by acquisition strategy, tra
 **Bottom line:**  
 Effective market research is about getting real insight, not compliance. Be thoughtful, be flexible, and design your research to surface true digital delivery capability, not just who can fill out the most forms.
 
-### 3\. Explore other promising alternatives and approaches 
+### Explore other promising alternatives and approaches 
 
 As the **Federal Acquisition Regulation (FAR)** continues to evolve, driven partly by new Executive Orders from the White House, procurement guidance is shifting toward a more flexible, modular approach. In this new era, we can expect to see more “ordering guides” and implementation policies that exist alongside, but are distinct from, the core statutes that must be followed. This creates a critical opportunity for acquisition professionals to think beyond rigid templates and embrace creative, compliant ways to conduct market research and shape solicitations. One powerful approach is to bring the vendor community into the early stages of requirement development and evaluation design. This method, used widely by other governments and increasingly piloted in the U.S., includes tools like open contracting workshops, prototype competitions via Challenge.gov, and collaborative drafting through platforms like GitHub. These practices help ensure solicitations are grounded in real-world capability and modern delivery approaches—before they’re even released.
 
