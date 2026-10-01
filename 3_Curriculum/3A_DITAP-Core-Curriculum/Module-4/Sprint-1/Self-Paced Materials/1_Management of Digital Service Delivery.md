@@ -312,7 +312,7 @@ For this optional activity, read at least 2 of the articles listed above and ref
 4. When is it appropriate to pivot or terminate an Agile initiative in government?
 5. How do we measure public value in government digital services beyond traditional ROI?
 
-**Share Your Resources:** Did any of the articles mentioned above lead you to a new resource that could support your research into delivering high-quality digital services? If so, post a brief description and the link in Slack or in one of the live class sessions. You’re also encouraged to share any helpful resources you’ve discovered on your own during the course. 
+**Share Your Resources:** Did any of the articles mentioned above lead you to a new resource that could support your research into delivering high-quality digital services? If so, share the link with your cohort members during a live class session. You’re also encouraged to share any helpful resources you’ve discovered on your own during the course. 
 
 ## Conclusion
 
