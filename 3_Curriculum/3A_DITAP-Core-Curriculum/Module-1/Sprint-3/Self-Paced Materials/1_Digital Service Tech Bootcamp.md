@@ -344,9 +344,11 @@ Bringing AI into government systems requires careful consideration of several ch
 
 ### Further Exploration
 
-AI won't kill us all — but that doesn't make it trustworthy. Instead of getting distracted by future existential risks, AI ethics researcher Sasha Luccioni thinks we need to focus on the technology's current negative impacts, like emitting carbon, infringing copyrights and spreading biased information. She offers practical solutions to regulate our AI-filled future — so it's inclusive and transparent.
+Explore Further: The Real-World Risks of AI Today
 
-!?[AI Is Dangerous, but Not for the Reasons You Think | Sasha Luccioni | TED](https://youtu.be/eXdVDhOGqoE?si=8x7Zn_jKBe9gx3PL
+When we hear about the dangers of artificial intelligence, the conversation often jumps straight to sci-fi doomsday scenarios. In this 10-minute TED Talk, AI Is Dangerous, but Not for the Reasons You Think, AI ethics researcher Sasha Luccioni argues that worrying about distant existential threats distracts us from the very real harm AI is causing right now.
+
+!?[AI Is Dangerous, but Not for the Reasons You Think | Sasha Luccioni | TED](https://youtu.be/eXdVDhOGqoE?si=8x7Zn_jKBe9gx3PL)
 
 ---
 
