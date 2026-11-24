@@ -59,7 +59,7 @@ In our online learning module, Digital Services – The How (in Module 1, Sprint
 
 Let’s consider the definition of digital services differently. Imagine it as a three-layered cake.
 
-![A 3-layered cake with the layers labeled as information layer, presentation layer, and platform layer representing digital services](https://raw.githubusercontent.com/CivicActions/ditap-curriculum-update/blob/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-1/Media/digital%20services%20layer%20cake.png?)
+![A 3-layered cake with the layers labeled as information layer, presentation layer, and platform layer representing digital services](https://raw.githubusercontent.com/CivicActions/ditap-curriculum-update/blob/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-1/Media/digital%20services%20layer%20cake.png)
 
 ![A 3-layered cake with the layers labeled as information layer, presentation layer, and platform layer representing digital services](https://raw.githubusercontent.com/usds/ditap-curriculum-update/dc9a42db159a23ea3d43f7f931c9d1f30cb3685d/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/Digital%20Services%20Cake%20updated.png)
 
