@@ -93,7 +93,7 @@ These are the technical ingredients for the cake. The platform layer is the plac
 
 When the digital services “cake” is served to end users, it’s put on a sturdy and stable plate. What does this mean? 
 
-![A 3-layered cake with the layers labeled as information layer, presentation layer, and platform layer representing digital services, sitting on a layer titled security and privacy](https://raw.githubusercontent.com/CivicActions/ditap-curriculum-update/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-1/Media/updated%20digital%20services%20layer%20cake%20security%20privacy%2011.2026.jpg?raw=true)
+![A 3-layered cake with the layers labeled as information layer, presentation layer, and platform layer representing digital services, sitting on a layer titled security and privacy](https://raw.githubusercontent.com/CivicActions/ditap-curriculum-update/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-1/Media/updated3%20digital%20services%20layer%20cake%20security%20privacy%2011.2026.jpg?raw=true)
 
 
 
