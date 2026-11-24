@@ -342,6 +342,12 @@ Bringing AI into government systems requires careful consideration of several ch
 | **Why it matters to procurement officers** | - **Market research:** AI tools can help summarize vendor capabilities or detect patterns in procurement history, making the early stages of procurement more efficient.<br>- **Performance monitoring:** AI can quickly analyze contractor performance data to flag trends or anomalies.<br>- **Drafting support:** Generative AI tools may help create first drafts of solicitation language or evaluation criteria, but humans must always review these drafts.<br>- **Risk management:** Using AI in procurement systems introduces new risks, bias, transparency, and compliance that COs must account for in contracts and performance oversight.<br>- **Evaluation criteria:** When procuring AI solutions, COs should ensure that solicitations require vendors to describe data sources, bias mitigation strategies, and how their models can be audited or explained. |
 | **What contracting officers should keep in mind** | - **Ask questions:** If AI is mentioned in a proposal, ask vendors how it works, how it was trained, and how it will be monitored.<br>- **Understand the use case:** Not all tasks need AI, be skeptical of buzzwords, and ensure a clear benefit.<br>- **Balance innovation with oversight:** AI may be new, but government procurement still requires precise requirements, measurable outcomes, and accountability.<br>- **Support responsible use:** Like with data, you are a steward of responsible AI use. Advocate for ethical practices and transparency in the tools your agency adopts.<br>- **Post-award monitoring and model drift:** Even if the AI works at the time of contract award, there is a chance that the AI model doesn’t match changing behaviors. Ensuring that AIs are updated to keep up with changing needs is essential. |
 
+### Further Exploration
+
+AI won't kill us all — but that doesn't make it trustworthy. Instead of getting distracted by future existential risks, AI ethics researcher Sasha Luccioni thinks we need to focus on the technology's current negative impacts, like emitting carbon, infringing copyrights and spreading biased information. She offers practical solutions to regulate our AI-filled future — so it's inclusive and transparent.
+
+!?[AI Is Dangerous, but Not for the Reasons You Think | Sasha Luccioni | TED](https://youtu.be/eXdVDhOGqoE?si=8x7Zn_jKBe9gx3PL
+
 ---
 
 ## Digital service tech topic: Cybersecurity
