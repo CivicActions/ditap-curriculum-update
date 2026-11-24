@@ -224,8 +224,8 @@ Case study materials
 * [Department of Education FAFSA Lessons Learned](https://www.ed.gov/sites/ed/files/2024-09/AFocusonImprovingtheFAFSAExperience.pdf)
 
 
-## Discussion instructions (required)
->Note: this is a **required** activity in the Learning Portal.
+## Discussion instructions (optional)
+>Note: this is a **optional** activity in the Learning Portal.
 
 This discussion activity challenges you to apply modern software engineering practices to real federal IT acquisition challenges, using the FAFSA case study and other current examples from [GAO's 2025 High Risk List](https://www.gao.gov/high-risk-list). Your analysis should demonstrate understanding of how contemporary DevOps, CI/CD, and digital transformation practices can address systemic issues that plague federal IT acquisitions.
 
@@ -312,17 +312,15 @@ Choose ONE of the following federal IT challenges for your analysis:
 
 ### Definition of done
 
-**Initial post requirements (Due: End of Module 4)**
+If you choose to post, consider including:
 
-Your initial post must include:
-
-1. **Case Study Selection and Analysis (300–400 words)**
+1. **Case Study Selection and Analysis**
 
    - Clearly identify which case study you selected and why.  
    - Summarize the key acquisition failures and their root causes.  
    - Connect these failures to broader patterns in federal IT acquisition.
 
-2. **Question Responses (200–250 words each)**
+2. **Question Responses**
 
    - Address all three questions with specific, actionable recommendations.  
    - Include at least one concrete example of contract language, evaluation criteria, or oversight procedure.  
@@ -330,9 +328,9 @@ Your initial post must include:
 
 ---
 
-**Peer engagement requirements**
+**Peer engagement**
 
-Engage meaningfully with at least two classmates' posts by:
+Engage meaningfully with at least your classmates' posts through:
 
 1. Comparative Analysis: Compare your approach with classmates who chose different case studies but similar acquisition strategies  
 2. Alternative Perspectives: Challenge or build upon classmates' recommendations with specific examples from your experience  
