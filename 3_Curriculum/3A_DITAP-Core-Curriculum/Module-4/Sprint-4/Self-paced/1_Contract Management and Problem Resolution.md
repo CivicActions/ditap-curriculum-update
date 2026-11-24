@@ -40,7 +40,7 @@ Agencies often lack internal technical expertise to effectively oversee complex 
 
 ## Case study analysis: The FAFSA system modernization
 
->Note: the case study below can be used for the activity that follows.
+>Note: the case study below can be used for the optional activity that follows.
 
 **Procurement context and initial decisions**
 
@@ -233,7 +233,7 @@ This discussion activity challenges you to apply modern software engineering pra
 
 **Step 2:** Respond to the three discussion questions
 
-**Step 3:** Write your initial post (Due by the end of Module 4)
+**Step 3:** Write your initial post
 
 **Step 4:** Engage with your peers 
 
