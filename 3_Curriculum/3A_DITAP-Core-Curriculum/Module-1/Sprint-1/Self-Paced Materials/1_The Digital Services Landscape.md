@@ -61,8 +61,6 @@ Let’s consider the definition of digital services differently. Imagine it as a
 
 ![A 3-layered cake with the layers labeled as information layer, presentation layer, and platform layer representing digital services](https://raw.githubusercontent.com/CivicActions/ditap-curriculum-update/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-1/Media/digital%20services%20layer%20cake.png?raw=true)
 
-![A 3-layered cake with the layers labeled as information layer, presentation layer, and platform layer representing digital services](https://raw.githubusercontent.com/usds/ditap-curriculum-update/dc9a42db159a23ea3d43f7f931c9d1f30cb3685d/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/Digital%20Services%20Cake%20updated.png)
-
 We’ve taken some important information from [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) which explains each layer in a concise manner.
 
 ### What's included in the Information Layer? 
